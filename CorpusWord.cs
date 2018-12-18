@@ -9,7 +9,7 @@ namespace TurkishTextContradictionAnalysis
     public enum Attribute
     {
         NN, // Noun
-        IJ, // Interjection
+        IJ, // Conjunction
         IVB, // Intransitive Verb
         IVBN, // Intransitive Verb (Negative)
         IVBP, // Intransitive Verb (Positive)

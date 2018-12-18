@@ -1806,6 +1806,7 @@ alelıtlak RB
 alelumum RB
 alelusul RB
 alem NN
+âlem PN
 âlem NN
 alemci NN
 âlemci NN
@@ -2210,7 +2211,7 @@ alyon NN
 alyuvar NN
 alzaymır NN
 am NN
-ama NN
+ama IJ
 âmâ JJ
 amabile RB
 amaç NN
@@ -2475,7 +2476,7 @@ anayasallaştır VB
 anayasallık NN
 anbean RB
 anca RB
-ancak RP
+ancak IJ
 ancak RB
 ançüez NN
 andaç NN
@@ -3580,7 +3581,7 @@ asfaltlatma NN
 asfaltlat VB
 asfaltlayabilme NN
 asfaltlayabil VB
-asgari JJ
+asgari JJN
 ashap NN
 ası NN
 asık JJN
@@ -3901,3244 +3902,2768 @@ aşkıncı JJ
 aşkıncılık NN
 aşkınlık NN
 aşkmerdiveni NN
-aşlık
-aşma
-aşmak
-aşna fişne
-aş ocağı
-aşoz
-aştırma
-aştırmak
-aşure
-aşure ayı
-aşure günü
-aşurelik
-aşüfte
-aşüftelik
-at
-ata
-atabey
-atabilme
-atabilmek
-atacılık
-ataerki
-ataerkil
-ataerkillik
-atak
-ataklık
-Atakum
-atalet
-atalık
-ata lira
-atama
-atamak
-ataman
-atanabilme
-atanabilmek
-atandırma
-atandırmak
-atanış
-atanma
-atanmak
-atanmış
-atanmışlık
-at arabası
-ataraksiya
-atardamar
-atari
-atasarısı
-atasözü
-ataş
-ataşe
-Ataşehir
-ataşelik
-Atatürkçü
-Atatürkçülük
-atavik
-atavizm
-atayış
-at bakıcılığı
-at bakıcısı
-atbalığı
-atbaşı
-at cambazı
-atçı
-atçılık
-at donu
-ate
-ateh
-ateist
-ateizm
-atel
-aterina
-ateş
-ateş balığı
-ateşbaz
-ateşbazlık
-ateş böceği
-ateş böcekleri
-ateşçi
-ateş çiçeği
-ateşçilik
-ateş düşürücü
-ateşe dayanıklı
-ateşe dayanıklılık
-ateş gecesi
-ateş gemisi
-ateş hattı
-ateşin
-ateş kayığı
-ateşkes
-ateş kırmızısı
-ateş küre
-ateşleme
-ateşlemek
-ateşlendirme
-ateşlendirmek
-ateşlenebilme
-ateşlenebilmek
-ateşleniş
-ateşlenme
-ateşlenmek
-ateşletme
-ateşletmek
-ateşleyebilme
-ateşleyebilmek
-ateşleyici
-ateşleyicilik
-ateşleyiverme
-ateşleyivermek
-ateşli
-ateşli ateşli
-ateşlik
-ateşlilik
-ateşli silah
-ateş pahası
-ateş parçası
-ateşperest
-ateşperestlik
-ateşsiz
-ateşsizlik
-ateşten gömlek
-ateş tuğlası
-atfedebilme
-atfedebilmek
-atfedilme
-atfedilmek
-atfediş
-atfen
-atfetme
-atfetmek
-atgiller
-at gözlüğü
-at gözlüklü
-at gözlüklülük
-at hırsızı
-atıcı
-atıcılık
-atıf
-atıfet
-atık
-atık kâğıt
-atık su
-atıl
-atılabilme
-atılabilmek
-atılgan
-atılganca
-atılganlaşma
-atılganlaşmak
-atılganlık
-atılı
-atılım
-atılımcı
-atılımcılık
-atılış
-atılıverme
-atılıvermek
-atılma
-atılmak
-atım
-atımcı
-atımcılık
-atış
-atışabilme
-atışabilmek
-atışma
-atışmak
-atıştırabilme
-atıştırabilmek
-atıştırış
-atıştırıverme
-atıştırıvermek
-atıştırma
-atıştırmak
-atıştırmalık
-atıştırma yeri
-atış yeri
-atıverme
-atıvermek
-ati
-atik
-atiklik
-atik tetik
-Atkaracalar 
-at kestanesi
-at kestanesigiller
-atkı
-atkı iplik
-atkılama
-atkılamak
-atkılı
-atkuyruğu
-atkuyruğugiller
-atlama
-atlama beygiri
-atlama çizgisi
-atlamak
-atlama tahtası
-atlama taşı
-atlambaç
-atlangıç
-atlanılma
-atlanılmak
-atlanma
-atlanmak
-atlas
-atlas çiçeği
-atlas çiçeğigiller
-atlas kemiği
-atlatabilme
-atlatabilmek
-atlatılabilme
-atlatılabilmek
-atlatılış
-atlatılma
-atlatılmak
-atlatış
-atlatma
-atlatma haber
-atlatmak
-atlattırma
-atlattırmak
-atlayabilme
-atlayabilmek
-atlaya zıplaya
-atlayış
-atlayıverme
-atlayıvermek
-atlet
-atlet fanilası
-atletik
-atletiklik
-atletizm
-atletizmci
-atlı
-atlıkarınca
-atlı karınca
-atlı spor
-atma
-atmaca
-atmak
-at meydanı
-atmık
-atmık kanalı
-atmosfer
-atmosfer basıncı
-atmosferik
-atol
-atom
-atom ağırlığı
-atomal
-atom bombası
-atomcu
-atomculuk
-atom çağı
-atom çekirdeği
-atom enerjisi
-atomik
-atom karınca
-atom numarası
-atom reaktörü
-atom santrali
-atom sayısı
-atonal
-atölye
-atölye resmi
-atraksiyon
-atropin
-at sineği
-attırabilme
-attırabilmek
-attırılma
-attırılmak
-attırış
-attırma
-attırmak
-attırtma
-attırtmak
-Au
-aut
-av
-avadancı
-avadanlık
-aval
-aval aval
-avalca
-avallaşma
-avallaşmak
-avallık
-avam
-avamca
-avanak
-avanakça
-avanaklık
-avane
-avangart
-Avanos 
-avanproje
-avans
-avanta
-avantacı
-avantacılık
-avantadan
-avantaj
-avantajlı
-avantajlılık
-avantajsız
-avantajsızlık
-avantalı
-avantasız
-avantasızlık
-avantür
-avantüriye
-avantüriyer
-Avar
-avara
-Avarca
-avare
-avareleşme
-avareleşmek
-avareleştirme
-avareleştirmek
-avarelik
-avarız
-avarya
-avaz
-avaz avaz
-avaze
-avcı
-avcı çantası
-avcı eri
-avcı hattı
-avcı kuş
-avcı kuşu
-Avcılar 
-avcılık
-avcı otu
-avcı uçağı
-avdet
-avdetî
-av dönemi
-averaj
-av hayvanı
-avisto
-avize
-avize ağacı
-av köpeği
-av kuşu
-avlak
-avlama
-avlamak
-avlanabilme
-avlanabilmek
-avlanış
-avlanma
-avlanma dönemi
-avlanmak
-avlanma mevsimi
-avlanma sezonu
-avlatma
-avlatmak
-avlayabilme
-avlayabilmek
-avlayış
-avlayıverme
-avlayıvermek
-avlu
-av mevsimi
-avokado
-avrat
-avrat pazarı
-avret
-avro
-avrovil
-Avrupa
-Avrupai
-Avrupailik
-Avrupa kayını
-Avrupalı
-Avrupalılaşma
-Avrupalılaşmak
-Avrupalılaştırma
-Avrupalılaştırmak
-Avrupalılık
-av sezonu
-Avşar
-av tezkeresi
-avuç
-avuç avuç
-avuç dolusu
-avuç içi
-avuçlama
-avuçlamak
-avuçlanma
-avuçlanmak
-avuçlatma
-avuçlatmak
-avuçlayabilme
-avuçlayabilmek
-avuçlayış
-avuçlayıverme
-avuçlayıvermek
-avukat
-avukatlık
-avunabilme
-avunabilmek
-avunç
-avundurma
-avundurmak
-avunma
-avunmak
-avuntu
-avunulma
-avunulmak
-avunuş
-avunuverme
-avunuvermek
-avurt
-avurtlama
-avurtlamak
-avurtlu
-avurt ünsüzü
-Avustralya
-Avustralya karatavuğu
-Avustralyalı
-Avusturyalı
-avutabilme
-avutabilmek
-avutma
-avutmak
-avutulma
-avutulmak
-avutuluş
-avutuş
-avutuverme
-avutuvermek
-av yasağı
-ay
-aya
-ayağı bağlı
-ayağına çabuk
-ayağı uğurlu
-ayağı üzengide
-ayak
-ayakaltı
-ayak atışı
-ayak bağı
-ayakbastı
-ayak bileği
-ayakçak
-ayakçı
-ayakçılık
-ayakçın
-ayak divanı
-ayak hatası
-ayak havlusu
-ayak işi
-ayak izi
-ayakkabı
-ayakkabıcı
-ayakkabıcılık
-ayakkabılık
-ayak keseri
-ayak kirası
-ayaklama
-ayaklamak
-ayaklanabilme
-ayaklanabilmek
-ayaklandırabilme
-ayaklandırabilmek
-ayaklandırılabilme
-ayaklandırılabilmek
-ayaklandırılma
-ayaklandırılmak
-ayaklandırma
-ayaklandırmak
-ayaklanış
-ayaklanıverme
-ayaklanıvermek
-ayaklanma
-ayaklanmak
-ayaklı
-ayaklı ansiklopedi
-ayaklı canavar
-ayaklı gazete
-ayaklık
-ayaklı koşma
-ayaklı kütüphane
-ayaklılık
-ayaklı mâni
-ayak oyunu
-ayak perde
-ayak satıcısı
-ayaksı
-ayaksız
-ayaksızlar
-ayaksızlık
-ayakta
-ayak tabanı
-ayaktakımı
-ayak tarağı
-ayaktaş
-ayaktaşlık
-ayakta tedavi
-ayak tedavisi
-ayak tenisi
-ayak teri
-ayak topu
-ayakucu
-ayak ucu
-ayaküstü
-ayaküzeri
-ayakyolu
-ayal
-ayan 
-âyan
-ayan beyan
-Ayancık
-ayandon
-ayar
-ayarcı
-ayarcılık
-ayarı bozuk
-ayarlama
-ayarlamak
-ayarlanabilme
-ayarlanabilmek
-ayarlanış
-ayarlanma
-ayarlanmak
-ayarlatabilme
-ayarlatabilmek
-ayarlatma
-ayarlatmak
-ayarlayabilme
-ayarlayabilmek
-ayarlayıcı
-ayarlayış
-ayarlayıverme
-ayarlayıvermek
-ayarlı
-ayarlı pense
-ayarsız
-ayarsızlık
-ayartabilme
-ayartabilmek
-ayartı
-ayartılabilme
-ayartılabilmek
-ayartılış
-ayartılma
-ayartılmak
-ayartış
-ayartma
-ayartmak
-Ayaş 
-ayaz
-ayazlama
-ayazlamak
-ayazlandırılma
-ayazlandırılmak
-ayazlandırılmış rakı
-ayazlandırma
-ayazlandırmak
-ayazlanma
-ayazlanmak
-ayazlatma
-ayazlatmak
-ayazlık
-ayazma
-ay balığı
-ay balığıgiller
-ay balta
-Aybastı 
-aybaşı
-ay başı
-aybaşılı
-aybeay
-ayça
-ay çekirdeği
-ayçiçeği
-ayçiçeği yağı
-ay çöreği
-aydan aya
-ayda yılda bir
-aydede
-aydemir
-aydın
-aydınca
-aydıncık
-aydınger
-aydınlanabilme
-aydınlanabilmek
-aydınlanış
-aydınlanıverme
-aydınlanıvermek
-aydınlanma
-aydınlanmak
-Aydınlar 
-aydınlaşma
-aydınlaşmak
-aydınlatabilme
-aydınlatabilmek
-aydınlatılabilme
-aydınlatılabilmek
-aydınlatılış
-aydınlatılma
-aydınlatılmak
-aydınlatış
-aydınlatıverme
-aydınlatıvermek
-aydınlatma
-aydınlatmak
-Aydınlı
-aydınlık
-aydınlıkölçer
-Aydınlılık
-Aydıntepe 
-ay dönümü
-ayet
-ayevi
-aygın baygın
-aygır
-aygır deposu
-aygıt
-ay gün takvimi
-ay gün yılı
-ay hâli
-ayı
-ayıbacağı
-ayı balığı
-ayıboğan
-ayıcı
-ayıcılık
-ayıgiller
-ayı gülü
-ayık
-ayıklama
-ayıklamak
-ayıklanabilme
-ayıklanabilmek
+aşlık NN
+aşma NN
+aş VB
+aşna fişne NN
+aşoz NN
+aştırma NN
+aştır VB
+aşure NN
+aşurelik NN
+aşüfte NN
+aşüftelik NN
+at NN
+ata NN
+atabey NN
+atabilme NN
+atabil VB
+atacılık NN
+ataerki NN
+ataerkil JJ
+ataerkillik NN
+atak NN
+atak JJ
+ataklık NN
+Atakum NN
+atalet NN
+atalık NN
+atama NN
+ata VB
+ataman NN
+atanabilme NN
+atanabil IVB
+atandırma NN
+atandır VB
+atanış NN
+atanma NN
+atan IVB
+atanmış JJ
+atanmışlık NN
+ataraksiya NN
+atardamar NN
+atari NN
+atasarısı NN
+atasözü NN
+ataş NN
+ataşe NN
+Ataşehir NN
+ataşelik NN
+Atatürk NN
+Atatürkçü JJ
+Atatürkçülük NN
+atavik JJ
+atavizm NN
+atayış NN
+atbalığı NN
+atbaşı NN
+atçı NN
+atçılık NN
+ate JJ
+ateh NN
+ateist JJ
+ateizm NN
+atel NN
+aterina NN
+ateş NN
+ateşbaz NN
+ateşbazlık NN
+ateşçi NN
+ateşçilik NN
+ateşin JJ
+ateşkes NN
+ateşleme NN
+ateşle VB
+ateşlendirme NN
+ateşlendir VB
+ateşlenebilme NN
+ateşlenebil IVB
+ateşleniş NN
+ateşlenme NN
+ateşlen IVB
+ateşletme NN
+ateşlet VB
+ateşleyebilme NN
+ateşleyebil VB
+ateşleyici JJ
+ateşleyicilik NN
+ateşleyiverme NN
+ateşleyiver VB
+ateşli JJP
+ateşli ateşli RB
+ateşlik NN
+ateşlilik NN
+ateşperest JJ
+ateşperestlik NN
+ateşsiz JJN
+ateşsizlik NN
+atfedebilme NN
+atfedebil IVB
+atfedilme NN
+atfedil IVB
+atfediş NN
+atfen RB
+atfetme NN
+atfet IVB
+atgil NN
+at gözlüklü JJ
+at gözlüklülük NN
+atıcı NN
+atıcılık NN
+atıf NN
+atıfet NN
+atık NN
+atık JJ
+atıl JJ
+atılabilme NN
+atılabil IVB
+atılgan JJ
+atılganca JJ
+atılganlaşma NN
+atılganlaş IVB
+atılganlık NN
+atılı JJ
+atılım NN
+atılımcı JJ
+atılımcılık NN
+atılış NN
+atılıverme NN
+atılıver IVB
+atılma NN
+atıl IVB
+atım NN
+atımcı NN
+atımcılık NN
+atış NN
+atışabilme NN
+atışabil IVB
+atışma NN
+atış IVB
+atıştırabilme NN
+atıştırabil IVB
+atıştırış NN
+atıştırıverme NN
+atıştırıver VB
+atıştırma NN
+atıştır VB
+atıştırmalık NN
+atıverme NN
+atıver VB
+ati NN
+atik JJ
+atiklik NN
+atik tetik JJ
+Atkaracalar NN
+at kestanesi NN
+atkı NN
+atkı iplik NN
+atkılama NN
+atkıla VB
+atkılı JJP
+atkısız JJN
+atkuyruğu NN
+atlama NN
+atla IVB
+atlambaç NN
+atlangıç NN
+atlanılma NN
+atlanıl IVB
+atlanma NN
+atlan IVB
+atlas NN
+atlatabilme NN
+atlatabil VB
+atlatılabilme NN
+atlatılabil IVB
+atlatılış NN
+atlatılma NN
+atlatıl IVB
+atlatış NN
+atlatma NN
+atlat VB
+atlattırma NN
+atlattır VB
+atlayabilme NN
+atlayabil IVB
+atlaya zıplaya RB
+atlayış NN
+atlayıverme NN
+atlayıver IVB
+atlet NN
+atletik JJ
+atletiklik NN
+atletizm NN
+atletizmci NN
+atlı JJ
+atlıkarınca NN
+atma NN
+atmaca NN
+at VB
+atmık NN
+atmosfer NN
+atmosferik JJ
+atol NN
+atom NN
+atomal JJ
+atomcu NN
+atomculuk NN
+atomik JJ
+atonal JJ
+atölye NN
+atraksiyon NN
+atropin NN
+attırabilme NN
+attırabil VB
+attırılma NN
+attırıl IVB
+attırış NN
+attırma NN
+attır VB
+attırtma NN
+attırt VB
+Au NN
+aut NN
+av NN
+avadancı NN
+avadanlık NN
+aval NN
+aval JJ
+aval aval RB
+avalca RB
+avallaşma NN
+avallaş IVB
+avallık NN
+avam NN
+avamca RB
+avanak JJ
+avanakça RB
+avanaklık NN
+avane NN
+avangart NN
+Avanos NN
+avanproje NN
+avans NN
+avanta NN
+avantacı NN
+avantacılık NN
+avantadan RB
+avantaj NN
+avantajlı JJP
+avantajlılık NN
+avantajsız JJN
+avantajsızlık NN
+avantalı JJP
+avantasız JJN
+avantasızlık NN
+avantür NN
+avantüriye JJ
+avantüriyer JJ
+Avar NN
+avara NN
+Avarca NN
+avare JJ
+avareleşme NN
+avareleş IVB
+avareleştirme NN
+avareleştir VB
+avarelik NN
+avarız NN
+avarya NN
+avaz NN
+avaz avaz RB
+avaze NN
+avcı NN
+Avcılar NN
+avcılık NN
+avdet NN
+avdetî JJ
+averaj NN
+avisto NN
+avize NN
+avlak NN
+avlama NN
+avla VB
+avlanabilme NN
+avlanabil IVB
+avlanış NN
+avlanma NN
+avlan IVB
+avlatma NN
+avlat VB
+avlayabilme NN
+avlayabil VB
+avlayış NN
+avlayıverme NN
+avlayıver VB
+avlu NN
+avokado NN
+avrat NN
+avret NN
+avro NN
+avrovil NN
+Avrupa NN
+Avrupai JJ
+Avrupailik NN
+Avrupalı JJ
+Avrupalılaşma NN
+Avrupalılaş IVB
+Avrupalılaştırma NN
+Avrupalılaştır VB
+Avrupalılık NN
+Avşar NN
+avuç NN
+avuç avuç RB
+avuç avuç JJ
+avuç dolusu JJ
+avuçlama NN
+avuçla VB
+avuçlanma NN
+avuçlan IVB
+avuçlatma NN
+avuçlat VB
+avuçlayabilme NN
+avuçlayabil VB
+avuçlayış NN
+avuçlayıverme NN
+avuçlayıver VB
+avukat NN
+avukatlık NN
+avunabilme NN
+avunabil IVB
+avunç NN
+avundurma NN
+avundur VB
+avunma NN
+avun IVB
+avuntu NN
+avunulma NN
+avunul IVB
+avunuş NN
+avunuverme NN
+avunuver IVB
+avurt NN
+avurtlama NN
+avurtla IVB
+avurtlu JJ
+Avustralya NN
+Avustralyalı JJ
+Avusturyalı JJ
+avutabilme NN
+avutabil VB
+avutma NN
+avut VB
+avutulma NN
+avutul IVB
+avutuluş NN
+avutuş NN
+avutuverme NN
+avutuver VB
+ay NN
+aya NN
+ayağı bağlı JJ
+ayağına çabuk JJ
+ayağı uğurlu JJ
+ayağı üzengide JJ
+ayak NN
+ayakaltı NN
+ayakbastı NN
+ayakçak NN
+ayakçı NN
+ayakçılık NN
+ayakçın NN
+ayakkabı NN
+ayakkabıcı NN
+ayakkabıcılık NN
+ayakkabılık NN
+ayaklama NN
+ayakla VB
+ayaklanabilme NN
+ayaklanabil IVB
+ayaklandırabilme NN
+ayaklandırabil VB
+ayaklandırılabilme NN
+ayaklandırılabil IVB
+ayaklandırılma NN
+ayaklandırıl IVB
+ayaklandırma NN
+ayaklandır VB
+ayaklanış NN
+ayaklanıverme NN
+ayaklanıver IVB
+ayaklanma NN
+ayaklan IVB
+ayaklı JJP
+ayaklık NN
+ayaklılık NN
+ayaksı JJ
+ayaksız JJN
+ayaksızlık NN
+ayakta RB
+ayaktakımı NN
+ayaktaş NN
+ayaktaşlık NN
+ayakucu NN
+ayak ucu NN
+ayaküstü RB
+ayaküzeri RB
+ayakyolu NN
+ayal NN
+ayan JJ
+âyan NN
+ayan beyan RB
+Ayancık NN
+ayandon NN
+ayar NN
+ayarcı NN
+ayarcılık NN
+ayarı bozuk JJ
+ayarlama NN
+ayarla VB
+ayarlanabilme NN
+ayarlanabil IVB
+ayarlanış NN
+ayarlanma NN
+ayarlan IVB
+ayarlatabilme NN
+ayarlatabil VB
+ayarlatma NN
+ayarlat VB
+ayarlayabilme NN
+ayarlayabil VB
+ayarlayıcı NN
+ayarlayış NN
+ayarlayıverme NN
+ayarlayıver VB
+ayarlı JJP
+ayarsız JJN
+ayarsızlık NN
+ayartabilme NN
+ayartabil VB
+ayartı NN
+ayartılabilme NN
+ayartılabil IVB
+ayartılış NN
+ayartılma NN
+ayartıl IVB
+ayartış NN
+ayartma NN
+ayart VB
+Ayaş NN
+ayaz NN
+ayazlama NN
+ayazla VB
+ayazlandırılma NN
+ayazlandırıl IVB
+ayazlandırma NN
+ayazlandır VB
+ayazlanma NN
+ayazlan IVB
+ayazlatma NN
+ayazlat VB
+ayazlık NN
+ayazma NN
+Aybastı NN
+aybaşı NN
+ay başı NN
+aybaşılı JJ
+aybeay RB
+ayça NN
+ayçiçeği NN
+aydan aya RB
+ayda yılda bir RB
+aydede NN
+aydemir NN
+aydın JJ
+Aydın NN
+aydınca RB
+aydıncık NN
+aydınger NN
+aydınlanabilme NN
+aydınlanabil IVB
+aydınlanış NN
+aydınlanıverme NN
+aydınlanıver IVB
+aydınlanma NN
+aydınlan IVB
+Aydınlar NN
+aydınlaşma NN
+aydınlaş IVB
+aydınlatabilme NN
+aydınlatabil VB
+aydınlatılabilme NN
+aydınlatılabil IVB
+aydınlatılış NN
+aydınlatılma NN
+aydınlatıl IVB
+aydınlatış NN
+aydınlatıverme NN
+aydınlatıver VB
+aydınlatma NN
+aydınlatmak VB
+Aydınlı JJ
+aydınlık NN
+aydınlıkölçer NN
+Aydınlılık NN
+Aydıntepe NN
+ayet NN
+ayevi NN
+aygın baygın JJ
+aygır NN
+aygıt NN
+ayı NN
+ayıbacağı NN
+ayıboğan NN
+ayıcı NN
+ayıcılık NN
+ayık JJP
+ayıklama NN
+ayıkla VB
+ayıklanabilme NN
+ayıklanabil IVB
 ayıklanış
-ayıklanıverme
-ayıklanıvermek
-ayıklanma
-ayıklanmak
-ayıklatabilme
-ayıklatabilmek
-ayıklatma
-ayıklatmak
-ayıklayabilme
-ayıklayabilmek
-ayıklayıverme
-ayıklayıvermek
-ayıklık
-ayıkma
-ayıkmak
-ayıkulağı
-ayılabilme
-ayılabilmek
-ayılaşma
-ayılaşmak
-ayılık
-ayılış
-ayılma
-ayılmak
-ayıltabilme
-ayıltabilmek
-ayıltı
-ayıltılma
-ayıltılmak
-ayıltma
-ayıltmak
-ayın
-ayınga
-ayıngacı
-ayıngacılık
-ayın on dördü
-ayıp
-ayıplama
-ayıplamak
-ayıplanma
-ayıplanmak
-ayıplayabilme
-ayıplayabilmek
-ayıplı
-ayıplılık
-ayıpsız
-ayıpsızlık
-ayıp yerler
-ayırabilme
-ayırabilmek
-ayıraç
-ayıran
-ayırıcı
-ayırıcılık
-ayırış
-ayırıverme
-ayırıvermek
-ayırma
-ayırmaç
-ayırmak
-ayırt
-ayırtabilme
-ayırtabilmek
-ayırtaç
-ayırtı
-ayırtılma
-ayırtılmak
-ayırtma
-ayırtmak
-ayırtman
-ayırtmanlık
-ayırttırma
-ayırttırmak
-ay ışığı
-ayıt
-ayı üzümü
-ayı yürüyüşü
-ayin
-ayinicem
-ay karanlığı
-aykırı
-aykırı doğrular
-aykırı düşünce
-aykırı katmanlaşma
-aykırılama
-aykırılamak
-aykırılaşma
-aykırılaşmak
-aykırılık
-ayla
-aylak
-aylakçı
-aylakçılık
-aylaklık
-aylama
-aylamak
-aylandız
-aylanma
-aylanmak
-aylarca
-aylı
-aylığına
-aylık
-aylıkçı
-aylıkçılık
-aylıklı
-aylıksız
-ayma
-aymak
-aymaz
-aymazlaşabilme
-aymazlaşabilmek
-aymazlaşma
-aymazlaşmak
-aymazlık
-ay modülü
-ayn
-ayna
-aynabakar
-aynacı
-aynacılık
-aynagöz
-aynakol
-aynalı
-aynalık
-aynalık tahtası
-aynalı sazan
-aynasız
-aynasızlık
-ayna taşı
-ayna tırnağı
-aynaz
-aynen
-aynı
-aynılaşma
-aynılaşmak
-aynılık
-aynısefa
-aynısı
-aynısının tıpkısı 
-aynıyla
-aynı zamanda
-ayni
-ayni hak
-ayniyat
-ayniyet
-aynştaynyum
-ayol
-ay örümceği
-ay parçası
-ayraç
-ayran
-ayran ağızlı
-ayran ağızlılık
-ayran budalası
-ayrancı
-ayrancılık
-ayran delisi
-ayran gönüllü
-ayran gönüllülük
-ayranlaşma
-ayranlaşmak
-ayrı
-ayrı ayrı
-ayrı basım
-ayrıca
-ayrıcalı
-ayrıcalık
-ayrıcalıklı
-ayrıcalıklılık
-ayrıcalıksız
-ayrıcalıksızlık
-ayrıcasız
-ayrı cinsten
-ayrıç
-ayrı çanak yapraklılar
-ayrı gayrı
-ayrık
-ayrık kümeler
-ayrıklı
-ayrıklık
-ayrık otu
-ayrıksı
-ayrıksı ay
-ayrıksılık
-ayrıksı yıl
-ayrıksız
-ayrılabilme
-ayrılabilmek
-ayrılanma
-ayrılanmak
-ayrılaşma
-ayrılaşmak
-ayrılı
-ayrılık
-ayrılış
-ayrılışma
-ayrılışmak
-ayrılıverme
-ayrılıvermek
-ayrılma
-ayrılma durumu
-ayrılmak
-ayrılmazlık
-ayrım
-ayrımcı
-ayrımcık
-ayrımcılık
-ayrımlama
-ayrımlamak
-ayrımlaşma
-ayrımlaşmak
-ayrımlı
-ayrımlılık
-ayrımsama
-ayrımsamak
-ayrımsanma
-ayrımsanmak
-ayrımsayış
-ayrımsız
-ayrımsızlık
-ayrıntı
-ayrıntıcı
-ayrıntıcılık
-ayrıntılandırabilme
-ayrıntılandırabilmek
-ayrıntılandırılma
-ayrıntılandırılmak
-ayrıntılandırış
-ayrıntılandırma
-ayrıntılandırmak
-ayrıntılı
-ayrıntılılık
-ayrıntısız
-ayrıntısızca
-ayrıntısızlık
-ayrışabilme
-ayrışabilmek
-ayrışık
-ayrışıklık
-ayrışım
-ayrışma
-ayrışmak
-ayrıştırabilme
-ayrıştırabilmek
-ayrıştırma
-ayrıştırmak
-ayrıt
-ayrı taç yapraklılar
-aysar
-aysarlık
-aysberg
-aysfilt
-aysız
-ayşekadın
-ay takvimi
-aytışma
-aytışmak
-Ay tutulması
-ayva
-Ayvacık
-ayvadana
-ayva göbekli
-ayva hoşafı
-ayva kompostosu
-ayvalık
-ayva marmeladı
-ayvan
-ayva reçeli
-ayva tüyü
-ayvaz
-ayvazlık
-ayyar
-ayyarlık
-ayyaş
-ayyaşlaşma
-ayyaşlaşmak
-ayyaşlık
-ay yıldız
-ay yılı
-ayyuk
+ayıklanıverme NN
+ayıklanıver IVB
+ayıklanma NN
+ayıklan IVB
+ayıklatabilme NN
+ayıklatabil VB
+ayıklatma NN
+ayıklat VB NN
+ayıklayabilme NN
+ayıklayabil VB
+ayıklayıverme NN
+ayıklayıver VB
+ayıklık NN
+ayıkma NN
+ayık IVB
+ayıkulağı NN
+ayılabilme NN
+ayılabil IVB
+ayılaşma NN
+ayılaş IVB
+ayılık NN
+ayılış NN
+ayılma NN
+ayıl IVB
+ayıltabilme NN
+ayıltabil VB
+ayıltı NN
+ayıltılma NN
+ayıltıl IVB
+ayıltma NN
+ayılt VB
+ayın NN
+ayınga NN
+ayıngacı NN
+ayıngacılık NN
+ayın on dördü NN
+ayıp NN
+ayıplama NN
+ayıpla VB
+ayıplanma NN
+ayıplan IVB
+ayıplayabilme NN
+ayıplayabil VB
+ayıplı JJP
+ayıplılık NN
+ayıpsız JJN
+ayıpsızlık NN
+ayırabilme NN
+ayırabil VB
+ayıraç NN
+ayıran JJ
+ayırıcı JJ
+ayırıcılık NN
+ayırış NN
+ayırıverme NN
+ayırıver VB
+ayırma NN
+ayırmaç NN
+ayır VB
+ayırt NN
+ayırtabilme NN
+ayırtabil VB
+ayırtaç NN
+ayırtı NN
+ayırtılma NN
+ayırtıl IVB
+ayırtma NN
+ayırt VB
+ayırtman NN
+ayırtmanlık NN
+ayırttırma NN
+ayırttır VB
+ayıt NN
+ayin NN
+ayinicem NN
+aykırı NN
+aykırılama NN
+aykırıla VB
+aykırılaşma NN
+aykırılaş IVB
+aykırılık NN
+ayla NN
+aylak JJ
+aylakçı NN
+aylakçılık NN
+aylaklık NN
+aylama NN
+ayla VB
+aylandız NN
+aylanma NN
+aylan IVB
+aylarca RB
+aylı JJP
+aylığına RB
+aylık NN
+aylıkçı NN
+aylıkçılık NN
+aylıklı JJP
+aylıksız JJN
+ayma NN
+ay IVB
+aymaz JJ
+aymazlaşabilme NN
+aymazlaşabil IVB
+aymazlaşma NN
+aymazlaş IVB
+aymazlık NN
+ayn NN
+ayna NN
+aynabakar NN
+aynacı NN
+aynacılık NN
+aynagöz NN
+aynakol NN
+aynalı JJP
+aynalık NN
+aynasız NN
+aynasız JJN
+aynasızlık NN
+aynaz NN
+aynen RB
+aynı JJ
+aynılaşma NN
+aynılaş IVB
+aynılık NN
+aynısefa NN
+aynısı PN
+aynısının tıpkısı JJ 
+aynıyla RB
+aynı zamanda RB
+ayni JJ
+ayniyat NN
+ayniyet NN
+aynştaynyum NN
+ayol EX
+ayraç NN
+ayran NN
+ayran ağızlı JJ
+ayran ağızlılık NN
+ayran budalası JJ
+ayrancı NN
+ayrancılık NN
+ayran delisi JJ
+ayran gönüllü JJ
+ayran gönüllülük NN
+ayranlaşma NN
+ayranlaş IVB
+ayrı JJ
+ayrı RB
+ayrı ayrı JJ
+ayrı ayrı RB
+ayrıca RB
+ayrıcalı JJP
+ayrıcalık NN
+ayrıcalıklı JJP
+ayrıcalıklılık NN
+ayrıcalıksız JJN
+ayrıcalıksızlık NN
+ayrıcasız JJN
+ayrı cinsten JJ
+ayrıç NN
+ayrık JJP
+ayrıklı JJ
+ayrıklık NN
+ayrıksı JJ
+ayrıksılık NN
+ayrıksız JJN
+ayrılabilme NN
+ayrılabil IVB
+ayrılanma NN
+ayrılan IVB
+ayrılaşma NN
+ayrılaş IVB
+ayrılı JJ
+ayrılık NN
+ayrılış NN
+ayrılışma NN
+ayrılış IVB
+ayrılıverme NN
+ayrılıver IVB
+ayrılma NN
+ayrıl IVB
+ayrılmazlık NN
+ayrım NN
+ayrımcı JJ
+ayrımcık NN
+ayrımcılık NN
+ayrımlama NN
+ayrımla VB
+ayrımlaşma NN
+ayrımlaş IVB
+ayrımlı JJP
+ayrımlılık NN
+ayrımsama NN
+ayrımsa VB
+ayrımsanma NN
+ayrımsan IVB
+ayrımsayış NN
+ayrımsız JJN
+ayrımsızlık NN
+ayrıntı NN
+ayrıntıcı JJ
+ayrıntıcılık NN
+ayrıntılandırabilme NN
+ayrıntılandırabil VB
+ayrıntılandırılma NN
+ayrıntılandırıl IVB
+ayrıntılandırış NN
+ayrıntılandırma NN
+ayrıntılandır VB
+ayrıntılı JJP
+ayrıntılılık NN
+ayrıntısız JJN
+ayrıntısızca RB
+ayrıntısızlık NN
+ayrışabilme NN
+ayrışabil VB
+ayrışık JJN
+ayrışıklık NN
+ayrışım NN
+ayrışma NN
+ayrış IVBN
+ayrıştırabilme NN
+ayrıştırabil VBN
+ayrıştırma NN
+ayrıştır VBN
+ayrıt NN
+aysar JJ
+aysarlık NN
+aysberg NN
+aysfilt NN
+aysız JJN
+ayşekadın NN
+aytışma NN
+aytış IVB
+ayva NN
+Ayvacık NN
+ayvadana NN
+ayvalık NN
+ayvan NN
+ayvaz NN
+ayvazlık NN
+ayyar JJ
+ayyarlık NN
+ayyaş JJ
+ayyaşlaşma NN
+ayyaşlaş IVB
+ayyaşlık NN
+ayyuk NN
 az DT
-aza
-azabilme
-azabilmek
-azade
-azadelik
-azalabilme
-azalabilmek
-az alıcı 
-azalış
-azalma
-azalmak
-azaltabilme
-azaltabilmek
-azaltılabilme
-azaltılabilmek
-azaltılış
-azaltılma
-azaltılmak
-azaltım
-azaltış
-azaltma
-azaltmak
-azalttırma
-azalttırmak
-azamet
-azametli
-azami
-azap
-azaplı
-azapsız
-azar
-azar azar
-azarlama
-azarlamak
-azarlanabilme
-azarlanabilmek
-azarlanış
-azarlanma
-azarlanmak
-azarlatma
-azarlatmak
-azarlayabilme
-azarlayabilmek
-azarlayış
-azarlayıverme
-azarlayıvermek
-azat
-azatlı
-azatlık
-azatsız
-az az
-az buçuk
-azca
-az çok
-az daha
-Azdavay 
-azdırabilme
-azdırabilmek
-azdırılma
-azdırılmak
-azdırış
-azdırma
-azdırmak
-azel
-azelleşme
-azelleşmek
-Azerbaycan dili
-Azerbaycanlı
-Azerbaycan Türkü
-Azeri
-Azerice
-az gelişmiş
-az gelişmişlik
-azgın
-azgınlaşma
-azgınlaşmak
-azgınlaştırma
-azgınlaştırmak
-azgınlık
-azı
-azıcık
-azı dişi
-azık
-azıklı
-azıklık
-azıksız
-azıksızlık
-azılı
-azımsama
-azımsamak
-azımsanabilme
-azımsanabilmek
-azımsanma
-azımsanmak
-azımsayabilme
-azımsayabilmek
-azımsayış
-azınlık
-azınlık hükûmeti
-azış
-azışma
-azışmak
-azıştırma
-azıştırmak
-azıtabilme
-azıtabilmek
-azıtılma
-azıtılmak
-azıtma
-azıtmak
-azıttırma
-azıttırmak
-azil
-azim
-azimet
-azimkâr
-azimkârane
-azimkârlık
-azimli
-azimlilik
-azimsiz
-azimsizlik
-azit
-aziz
-azize
-aziziye
-azizlik
-azledilebilme
-azledilebilmek
-azlediliş
-azledilme
-azledilmek
-azlediş
-azletme
-azletmek
-azlettirme
-azlettirmek
-azlık
-azlolunma
-azlolunmak
-azma
-azmak
-azmak
-azman
-azmankaya
-azmanlaşma
-azmanlaşmak
-azmanlık
-azmetme
-azmetmek
-azmettirme
-azmettirmek
-aznavur
-aznif
-azoik
-azol
-azonal
-azot
-azotlama
-azotlamak
-azotlu
-azotometre
-azotölçer
-Azrail
-az sonra
-azvay
-b
-Ba
-baba
-baba adam
-babaanne
-babaannelik
-baba boyunduruğu
-baba bucağı
-babaca
-babacan
-babacanca
-babacanlaşma
-babacanlaşmak
-babacanlık
-babacı
-babacık
-babacıl
-babacılık
-babaç
-babaçko
-Babadağ 
-babadan kalma
-baba diyarı
-baba dostu
-Babaeski
-babaevi
-babafingo
-baba hindi
-Babai
-Babailik
-babaköş
-babalanabilme
-babalanabilmek
-babalanma
-babalanmak
-babalı
-babalık
-baba mirası
-baba nasihati
-baba ocağı
-baba sanlı
-babasız
-babasızlık
-baba soylu
-baba soyluluk
-baba tarafı
-baba tatlısı
-baba yadigârı
-babayani
-babayanilik
-baba yarısı
-baba yerli
-baba yerlilik
-babayiğit
-babayiğitçe
-babayiğitlik
-baba yurdu
-Babıali
-Babi
-Babilik
-baca
-bacabaşı
-baca dolgusu
-baca fırıldağı
-bacak
-baca kaşı
-bacakkalemi
-bacakkıran
-bacaklı
-bacaklık
-bacaklı yazı
-bacaksız
-bacaksızlık
-baca kulağı
-baca külahı
-baca kürsüsü
-bacanak
-bacanaklık
-bacasız
-bacasızlık
-baca şapkası
-baca tomruğu
-baca tomurcuğu
-bacı
-bacılık
-baç
-baççı
-baççılık
-bad
-badal
-badana
-badanacı
-badanacılık
-badanalama
-badanalamak
-badanalanma
-badanalanmak
-badanalatma
-badanalatmak
-badanalı
-badanasız
-badanasızlık
-badas
-badat
-bade
-badehu
-badeli âşık
-badelmilat
-badem
-badema
-badem ağacı
-badem bıyık
-badem bıyıklı
-badem bıyıklılık
-bademci
-bademcik
-bademcilik
-badem ezmesi
-badem gözlü
-badem içi
-badem kürk
-bademli
-bademlik
-badem parmak
-bademsi
-bademsiz
-badem şekeri
-badem tırnak
-badem yağı
-baderna
-badıç
-badısaba
-badi
-badik
-badikleme
-badiklemek
-badikleşme
-badikleşmek
-badire
-badireli
-badiresiz
-badiye
-badya
-Bafra 
-bagaj
-bagaj kapağı
-bagaj kilidi
-baget
-bagetli
-bağ
-bağa
-bağan
-bağ bahçe
-bağ bıçağı
-bağboğan
-bağ bozumu
-bağcı
-bağcık
-bağcıklı
-bağcıksız
-Bağcılar 
-bağcılık
-bağ çubuğu
-bağda
-bağdadi
-bağdalama
-bağdalamak
-bağdama
-bağdamak
-bağdaş
-bağdaşabilme
-bağdaşabilmek
-bağdaşık
-bağdaşıklaşma
-bağdaşıklaşmak
-bağdaşıklaştırma
-bağdaşıklaştırmak
-bağdaşıklık
-bağdaşılma
-bağdaşılmak
-bağdaşım
-bağdaşma
-bağdaşmak
-bağdaşmaz
-bağdaşmazlık
-bağdaştırabilme
-bağdaştırabilmek
-bağdaştırılabilme
-bağdaştırılabilmek
-bağdaştırılma
-bağdaştırılmak
-bağdaştırma
-bağdaştırmacı
-bağdaştırmacılık
-bağdaştırmak
-Bağdat
-bağ doku
-bağ evi
-bağ-fiil
-bağı
-bağıcı
-bağıcılık
-bağıl
-bağıldak
-bağıl değer
-bağıllık
-bağıl nem
-bağım
-bağımlama
-bağımlamak
-bağımlaşma
-bağımlaşmak
-bağımlı
-bağımlı akım kaynağı
-bağımlılaşabilme
-bağımlılaşabilmek
-bağımlılaşma
-bağımlılaşmak
-bağımlılaştırılma
-bağımlılaştırılmak
-bağımlılaştırma
-bağımlılaştırmak
-bağımlılık
-bağımlı sıralı cümle
-bağımsız
-bağımsız bölüm
-bağımsızca 
-bağımsızcasına
-bağımsızlaşabilme
-bağımsızlaşabilmek
-bağımsızlaşma
-bağımsızlaşmak
-bağımsızlaştırabilme
-bağımsızlaştırabilmek
-bağımsızlaştırma
-bağımsızlaştırmak
-bağımsızlık
-bağımsız milletvekili
-bağımsız sıralı cümle
-bağın
-bağıntı
-bağıntıcı
-bağıntıcılık
-bağıntılı
-bağıntılılık
-bağır
-bağırabilme
-bağırabilmek
-bağıra çağıra
-bağırdak
-bağırgan
-bağırganlık
-bağırış
-bağırıverme
-bağırıvermek
-bağırma
-bağırmak
-bağırsak
-bağırsak askısı
-bağırsak düğümlenmesi
-bağırsak düşüklüğü
-bağırsak gazı
-bağırsak iltihabı
-bağırsak ingini
-bağırsak kazıntısı
-bağırsak kurdu
-bağırsak otu
-bağırsak solucanı
-bağırsak spazmı
-bağırtabilme
-bağırtabilmek
-bağırtı
-bağırtkan
-bağırtkanlık
-bağırtlak
-bağırtma
-bağırtmak
-bağırttırma
-bağırttırmak
-bağır yeleği
-bağış
-bağışçı
-bağışçılık
-bağışık
-bağışıklık
-bağışıklık bilimci
-bağışıklık bilimi
-bağışıklık bilimsel
-bağışık serum
-bağışlama
-bağışlamak
-bağışlamalı
-bağışlamasız
-bağışlanabilme
-bağışlanabilmek
-bağışlanış
-bağışlanma
-bağışlanmak
-bağışlatabilme
-bağışlatabilmek
-bağışlatılma
-bağışlatılmak
-bağışlatış
-bağışlatma
-bağışlatmak
-bağışlayabilme
-bağışlayabilmek
-bağışlayış
-bağışlayıverme
-bağışlayıvermek
-bağıt 
-bağıtçı
-bağıtlama
-bağıtlamak
-bağıtlanabilme
-bağıtlanabilmek
-bağıtlanış
-bağıtlanma
-bağıtlanmak
-bağıtlaşma
-bağıtlaşmak
-bağıtlayabilme
-bağıtlayabilmek
-bağıtlayış
-bağıtlı
-bağıtsız
-bağkesen
-bağlaç
-bağlaç grubu
-bağlaçlı
-bağlaçlı tamlama
-bağlaç öbeği
-bağlam
-bağlama
-bağlamacı
-bağlamacılık
-bağlama hattı
-bağlamak
-bağlamalık
-bağlama zarf-fiili
-bağlamsal
-bağlamsal anlam
-bağlanabilme
-bağlanabilmek
-bağlanak
-bağlanım
-bağlanış
-bağlanıverme
-bağlanıvermek
-bağlanma
-bağlanmak
-bağlantı
-bağlantı borusu
-bağlantı doku
-bağlantı gücü
-bağlantılı
-bağlantılılık
-bağlantısız
-bağlantısızlık
-bağlantısızlık politikası
-bağlantısızlık siyaseti
-bağlantısız ülkeler
-bağlantı ünlüsü
-bağlantı ünsüzü
-Bağlar
-bağlaşık
-bağlaşıklık
-bağlaşım
-bağlaşımlı
-bağlaşımsız
-bağlaşma
-bağlaşmak
-bağlatabilme
-bağlatabilmek
-bağlatma
-bağlatmak
-bağlattırma
-bağlattırmak
-bağlayabilme
-bağlayabilmek
-bağlayıcı
-bağlayıcılık
-bağlayıcı ünlü
-bağlayıcı ünsüz
-bağlayış
-bağlayıverme
-bağlayıvermek
-bağlı
-bağlık
-bağlık bahçelik
-bağlı kredi
-bağlılaşık
-bağlılaşma
-bağlılaşmak
-bağlılık
-bağlı su
-bağnaz
-bağnazca
-bağnazlaşma
-bağnazlaşmak
-bağnazlaştırılma
-bağnazlaştırılmak
-bağnazlaştırma
-bağnazlaştırmak
-bağnazlık
-bağrıkara
-bağrı kara
-bağrılma
-bağrılmak
-bağrış
-bağrışabilme
-bağrışabilmek
-bağrışa çağrışa
-bağrış çağrış
-bağrışma
-bağrışmak
-bağrıştırma
-bağrıştırmak
-bağrı yanık
-bağrı yanıklık
-bağrı yufka
-bağsız
-bağsızlık
-bahadır
-bahadırlık
-Bahai
-Bahailik
-bahane
-bahaneli
-bahanesiz
-bahanesizlik
-bahar
-baharat
-baharatçı
-baharatçılık
-baharatlandırma
-baharatlandırmak
-baharatlı
-baharatsız
-bahar bayramı
-baharcı
-baharcılık
-bahar dönemi
-bahariye
-baharlı
-bahar nezlesi
-bahçe
-bahçeci
-bahçecilik
-bahçe domatesi
-bahçe katı
-bahçe kekiği
-bahçeli
-Bahçelievler 
-bahçelik
-bahçelikli
-bahçe makası
-bahçemsi
-bahçe nanesi
-Bahçesaray 
-bahçesiz
-bahçesizlik
-bahçıvan
-bahçıvan çorbası
-bahçıvan kebabı
-bahçıvanlı
-bahçıvanlık
-bahçıvansız
-bahçıvansızlık
-bahir
-bahis
-bahisçi
-bahisçilik
-bahis konusu
-bahis mevzusu
-bahname
-bahri
-bahriye
-bahriye çiftetellisi
-bahriyeli
-bahriyelilik
-bahsedebilme
-bahsedebilmek
-bahsediliş
-bahsedilme
-bahsedilmek
-bahsediş
-bahsetme
-bahsetmek
-bahsolunma
-bahsolunmak
-bahşedebilme
-bahşedebilmek
-bahşediş
-bahşetme
-bahşetmek
-bahşettirme
-bahşettirmek
-Bahşılı 
-bahşiş
-baht
-bahtı açık
-bahtı açıklık
-bahtı kara
-bahtı karalık
-bahtiyar
-bahtiyarlık
-bahtlı
-bahtlılık
-bahtsız
-bahtsızca
-bahtsızcasına
-bahtsızlık
-bahusus
-bakabilme
-bakabilmek
-bakaç
-bakadurma
-bakadurmak
-bakakalış
-bakakalma
-bakakalmak
-bakalit
-bakalitli
-bakalorya
-bakam
-bakan
-bakanak
-Bakanlar Kurulu
-bakanlık
-bakara
-bakarak
-bakar kör
-bakar körlük
-bakaya
-bakayazma
-bakayazmak
-bakı
-bakıcı
-bakıcılık
-bakılabilme
-bakılabilmek
-bakılış
-bakılma
-bakılmak
-bakım
-bakımcı
-bakımcılık
-bakımdan
-bakımevi
-bakımından
-bakımlı
-bakımlı erkek
-bakımlık
-bakımlılık
-bakımsız
-bakımsızlık
-bakım yurdu
-bakınabilme
-bakınabilmek
-bakıncak
-bakındı
-bakınış
-bakınma
-bakınmak
-bakıntı
-bakır
-bakır alaşımı
-bakırcı
-bakırcılık
-bakır çalığı
-bakırımsı
-bakır kaplama
-Bakırköy 
-bakırlaşma
-bakırlaşmak
-bakırlı
-bakır oksit
-bakır pası
-bakır rengi
-bakırsı
-bakır sülfat
-bakır taşı
-bakır tuzu
-bakış
-bakışabilme
-bakışabilmek
-bakış açısı
-bakışım
-bakışımlı
-bakışımlılık
-bakışımsız
-bakışımsızlık
-bakışıverme
-bakışıvermek
-bakışlı
-bakışma
-bakışmak
-bakış tarzı
-bakıverme
-bakıvermek
-baki
-bakilik
-bakir
-bakire
-bakirelik
-bakirlik
-bakiye
-bakkal
-bakkal çakkal
-bakkal defteri
-bakkaliye
-bakkal kâğıdı
-bakkallık
-bakla
-baklaçiçeği
-bakla çiçeği
-bakla falı
-baklagiller
-bakla içi 
-bakla kırı
-baklalı
-baklalık
-baklamsı
-baklamsı meyve
-baklan
-baklava
-baklava börek
-baklavacı
-baklavacılık
-baklava dilimi
-baklavalı
-baklavalık
-bakliyat
-bakma
-bakmak
-bakraç
-baks
-bakteri
-bakteridi
-bakterigiller
-bakterikıran
-bakteri plağı
-bakterisit
-bakteriyel
-bakteriyolog
-bakteriyoloji
-bakteriyolojik
-bakteriyoskopi
-baktırabilme
-baktırabilmek
-baktırma
-baktırmak
-baktırtma
-baktırtmak
-bal
-bala
-Balâ
-balaban
-balaban kuşu
-balabanlaşma
-balabanlaşmak
-balabanlık
-balalayka
-balalık
-balama
-balans
-balans ayarı
-balans pensi
-balar
-bal arısı
-balast
-balast direnç
-balast gemi
-balast yem
-balat
-balata
-balayı
-balbal
-balcı
-balcılık
-balçak
-balçık
-balçık hurması
-balçık inciri
-balçıklaşma
-balçıklaşmak
-balçıklı
-balçiçeği
-Balçova
-baldır
-baldırak
-baldıran
-baldıranlık
-baldıranşerbeti
-baldır bacak
-baldırgan
-baldırı çıplak
-baldırı çıplaklık
-baldırıkara
-baldır kemiği
-baldırpatlatan
-baldırsokan
-baldız
-baldo
-baldudak
-baldudaklı
-baldudaklılık
-bale
-balerin
-balerinlik
-balet
-baletlik
-balgam
-balgamlı
-balgamsı
-balgamsız
-balgamsızlık
-balgam taşı
-balgümeci
-balhane
-balık
-balık adam
-balık adamlık
-balık bilimci
-balık bilimi
-balıkçı
-balıkçı düğümü
-balıkçı kahvesi
-balıkçı kazağı
-balıkçı köyü
-balıkçıl
-balıkçılgiller
-balıkçılık
-balıkçıllar
-balıkçın
-balıkçı yaka
-balık çorbası
-Balıkesir
-Balıkesirli
-Balıkesirlilik
-balıketi
-balık eti
-balıketinde
-balıkgözü
-balıkgözü objektif
-balıkhane
-balık istifi
-balık kartalı
-balıklama
-balıklandırma
-balıklandırmak
-balıklava
-balıklı
-balıknefesi
-balık otu
-balık pazarı
-balıksırtı
-balıksız
-balıksızlık
-balık sütü
-balık tabağı
-balık tutkalı
-balık unu
-balık yağı
-balık yemi
-balık yumurtası
-Balışeyh 
-baliğ
-balina
-balina çubuğu
-balinalar
-balinalı
-balina yağı
-balistik
-bal kabağı
-balkan
-Balkanlar
-balkanlık
-Balkanolog
-Balkanoloji
-Balkar
-Balkarca
-bal kelebeği
-balkı
-balkıma
-balkımak
-balkır
-balkon
-balkonsu
-balkonumsu
-balköpüğü
-ballama
-ballamak
-ballandırış
-ballandırma
-ballandırmak
-ballanma
-ballanmak
-ballı
-ballıbaba
-ballıbabagiller
-ballı börek
-ballıdarı
-ballık
-ballı pasta
-bal mumu
-bal mumu macunu
-balo
-balon
-balon balığı
-baloncu
-baloncuk
-balonculuk
-balon lastik
-balonvari
-balotaj
-balotaj kurulu
-baloz
-bal özlü
-bal özü
-bal özü bezi
-bal özülük
-bal peteği
-bal rengi
-balsam
-balsamik
-balsamlı
-balsıra
-balta
-baltabaş
-baltacı
-baltacık
-baltacılık
-baltalama
-baltalamak
-baltalanabilme
-baltalanabilmek
-baltalanış
-baltalanma
-baltalanmak
-baltalayabilme
-baltalayabilmek
-baltalayıcı
-baltalayıcılık
-baltalayış
-baltalayıverme
-baltalayıvermek
-baltalı
-baltalık
-Baltık
-Baltık dilleri
-baltrap
-balya
-balyalama
-balyalamak
-balyalanma
-balyalanmak
-balyalatma
-balyalatmak
-balyalayabilme
-balyalayabilmek
-balyalık
-balya makinesi
-balyemez
-balyos
-balyoz
-balyozlama
-balyozlamak
-balyozlanma
-balyozlanmak
-balyozlatma
-balyozlatmak
-bambaşka
-bambaşkalık
-bambu
-bambul
-bambul otu
-bam teli
-bamya
-bamya dolması
-bamyatarlası
-ban
-bana
-banabilme
-banabilmek
-ban ağacı
-banak
-banal
-banallik
-Banaz 
-bandaj
-bandajlama
-bandajlamak
-bandajlanma
-bandajlanmak
-bandajlatma
-bandajlatmak
-bandana
-bandıra
-bandırabilme
-bandırabilmek
-bandıralı
-bandırma
-bandırmak
-bando
-bandocu
-bandoculuk
-bandrol
-bandrollü
-bandrolsüz
-bangır bangır
-bangırdama
-bangırdamak
-Bangladeşli
-bani
-banilik
-banjo
-bank
-banka
-bankacı
-bankacılık
-banka cüzdanı
-banka defteri
-banka kartı
-bankamatik
-banker
-bankerlik
-bankerzede
-bankerzedelik
-banket
-bankiz
-banknot
-banko
-banko at
-banko sayı
-banlama
-banlamak
-banlatma
-banlatmak
-banlattırma
-banlattırmak
-banliyö
-banliyö treni
-banma
-banmak
-ban otu
-bant
-bantlama
-bantlamak
-bantlayabilme
-bantlayabilmek
-bantlayıcı
-bant zımpara
-ban yağı
-banyo
-banyo bataryası
-banyo dolabı
-banyo havlusu
-banyo kabini
-banyo kazanı
-banyo küveti
-banyolu
-banyo sabunu
-banyosuz
-banyosuzluk
-banyo takımı
-baobap
-baobap ağacı
-bap
-baptist
-bar
-bara
-baraj
-baraj ateşi
-barajlı santral
-baraj mesafesi
-barak
-baraka
-barakacık
-baran
-barata
-baratarya
-bar ateşi
-barba
-barbakan
-barbar
-bar bar
-barbarca
-barbarcasına
-barbarizm
-barbarlaşabilme
-barbarlaşabilmek
-barbarlaşma
-barbarlaşmak
-barbarlık
-barbaşı
-barbata
-barbekü
-barbun
-barbunya
-barbunyagiller
-barbunya pilakisi
-barbut
-barbutçu
-barcı
-barcılık
-barça
-barçak
-barda
-bardacık
-bardacık eriği
-bardak
-bardakaltı
-bardakçı
-bardakçılık
-bardak eriği
-bardan
-bardo
-barem
-baret
-baretlik
-barfiks
-bargâh
-bargam
-barhana
-bar havası
-barı
-barınabilme
-barınabilmek
-barınak
-barındırabilme
-barındırabilmek
-barındırılabilme
-barındırılabilmek
-barındırılma
-barındırılmak
-barındırma
-barındırmak
-barınılma
-barınılmak
-barınış
-barınma
-barınmak
-barış
-barışabilme
-barışabilmek
-barışçı
-barışçıl
-barışçılık
-barışçıllık
-barışık
-barışıklık
-barışma
-barışmak
-barışsever
-barışseverlik
-barıştırabilme
-barıştırabilmek
-barıştırılma
-barıştırılmak
-barıştırma
-barıştırmak
-bari
-barikat
-barikatlama
-barikatlamak
-barisfer
-barit
-baritin
-baritli
-bariton
-bariyer
-bariyerli
-bariyersiz
-bariz
-barizleşme
-barizleşmek
-barizleştirme
-barizleştirmek
-barizlik
-barka
-barkarol
-barkod
-barkodlu
-barkodsuz
-barlam
-barmen
-barmenlik
-baro
-baro başkanı
-barograf
-barok
-barokçu
-barokçuluk
-barok müzik
-barometre
-barometresiz
-baron
-baronluk
-baroskop
-barparalel
-barsam
-barsama
-Bartın
-Bartınlı
-Bartınlılık
-barudi
-barut
-barutçu
-barutçuluk
-barut esmeri
-barut fıçısı
-barut hakkı
-baruthane
-barut kabağı
-barutluk
-barut rengi
-baryum
-baryum karbonat
-baryum sülfat
-bas
-basabilme
-basabilmek
-basak
-basaklı
-basaksız
-basamak
-basamak basamak
-basamaklı
-basamaksı
-basamaksız
-basar
-basari
-basarna
-basbariton
-bas bas
-basbayağı
-basbayağılık
-basen
-basgitar
-bası
-basıcı
-basıcılık
-basık
-basıklaşma
-basıklaşmak
-basıklaştırma
-basıklaştırmak
-basıklık
-basıla
-basılabilme
-basılabilmek
-basılı
-basılış
-basılma
-basılma dayanımı
-basılmak
-basım
-basımcı
-basımcılık
-basımevi
-basın
-basın ataşesi
-basın bildirisi
-basınç
-basınç anahtarı
-basınç boynu
-basınç duyumu
-basınçlama
-basınçlamak
-basınçlanma
-basınçlı
-basınçlı hava
-basınçlı su
-basınç odası
-basınçölçer
-basınç ölçüm
-basınç tedavisi
-basınçyazar
-basın danışmanı
-basın danışmanlığı
-basın dünyası
-basın kartı
-basın özeti
-basın özgürlüğü
-basın toplantısı
-basın yasağı
-basıölçer
-basış
-basıverme
-basıvermek
-basil
-basiret
-basiretli
-basiretlilik
-basiretsiz
-basiretsizlik
-basit
-basit cisim
-basit cümle
-basitçe
-basit faiz
-basit kelime
-basit kesir
-basitleşebilme
-basitleşebilmek
-basitleşme
-basitleşmek
-basitleştirebilme
-basitleştirebilmek
-basitleştirilme
-basitleştirilmek
-basitleştirme
-basitleştirmek
-basitlik
-basit renk
-basit tümce
-Baskça
-basket
-basketbol
-basketbolcu
-basketbolculuk
-basketçi
-basketçilik
-baskı
-baskıcı
-baskıcılık
-baskı grubu
-baskı kalıbı
-baskılama
-baskılamak
-baskılanma
-baskılanmak
-baskılı
-baskılık
-baskın
-baskıncı
-baskıncılık
-baskınlık
-baskı resim
-baskı sayısı
-baskısız
-baskısızca
-baskısızcasına
-baskısızlık
-Baskil 
-basklarnet
-baskül
-basma
-basmacı
-basmacılık
-basmahane
-basmak
-basma kalıbı
-basmakalıp
-basmakalıplaşma
-basmakalıplaşmak
-basmakalıplık
-basmalı
-basmalık
-basmayazı
-basso
-bastana salatası
-bastı
-bastıbacak
-bastık
-bastırabilme
-bastırabilmek
-bastırak
-bastırık
-bastırılış
-bastırılma
-bastırılmak
-bastırım
-bastırış
-bastırıverme
-bastırıvermek
-bastırma
-bastırmak
-bastırtma
-bastırtmak
-bastika
-baston
-bastoncu
-bastonculuk
-baston francala
-baston kilidi
-baston kösteği
-bastonlu
-bastonsuz
-basur
-basurlu
-basur memesi
-basur otu
-basübadelmevt
-basya
-baş
-başa baş
-başa baş noktası
-başağaç
-başağırlık
-başağrısı
-baş ağrısı
-başak
-başakçı
-başakçık
-başakçılık
-başaklama
-başaklamak
-başaklanış
-başaklanma
-başaklanmak
-başaklı
-başakortçu
-başakortçuluk
-Başakşehir
-başaktör
-başaktörlük
-başaktris
-başaktrislik
-başaltı
-baş altı 
-başantrenör
-başantrenörlük
-başarabilme
-başarabilmek
-başarı
-başarılabilme
-başarılabilmek
-başarılı
-başarılılık
-başarılış
-başarılma
-başarılmak
-başarım
-başarısız
-başarısızlık
-başarış
-başarıverme
-başarıvermek
-başarma
-başarmak
-başartma
-başartmak
-başasistan
-başasistanlık
-baş aşağı
-başat
-başat karakter
-başatlık
-başatlık yasası
-başbakan
-başbakanlık
-baş baş
-baş başa
-başbayan
-başbayi
-başbayilik
-baş belası
-baş bezi
-baş bıçağı
-baş bodoslaması
-başbuğ
-başçavuş
-başçavuşluk
-başçı
-başçık
-Başçiftlik
-başdanışman
-başdanışmanlık
-başdekorcu
-başdekorculuk
-başdelege
-başdelegelik
-başdenetçi
-başdenetçilik
-başdenetmen
-başdenetmenlik
-başdizgici
-başdizgicilik
-başdoktor
-başdoktorluk
-baş döndürücü
-baş döndürücülük
-baş dönmesi
-başdümenci
-başdümencilik
-baş dümeni
-başeczacı
-başeczacılık
-başefendi
-başefendilik
-başeksper
-başeksperlik
-başeser
-başeski
-başfiyat
-başgardiyan
-başgardiyanlık
-başgarson
-başgarsonluk
-başgedikli
-başhakem
-başhakemlik
-baş halatı
-baş havlusu
-başhekim
-başhekimlik
-başhemşire
-başhemşirelik
-başhostes
-başhosteslik
-başı açık
-başı açıklık
-başı bağlı
-başı bağlılık
-başıboş
-başıboşluk
-başıbozuk
-başıbozukluk
-başı bütün
-başı dertte
-başı devletli
-başı dik
-başı diklik
-başı dimdik
-başı dinç
-başı dinçlik
-başı dumanlı
-başı havada
-başı kabak
-başı kalabalık
-başına buyruk
-başına buyrukluk
-başı önünde
-başı yerde
-başı yukarıda
-başı yumuşak
-başı yumuşaklık
-başimam
-başimamlık
-Başiskele
-başka
-başka başka
-başka biri
-başkaca
-başkafiye
-başkahraman
-başkahramanlık
-başkalaşabilme
-başkalaşabilmek
-başkalaşım
-başkalaşma
-başkalaşmak
-başkalaştırma
-başkalaştırmak
-başkaldırabilme
-başkaldırabilmek
-başkaldırı
-başkaldırıcı
-başkaldırıcılık
-başkaldırış
-başkaldırma
-başkaldırmak
-başkaldırtma
-başkaldırtmak
-Başkale 
-başkalık
-başkan
-başkanlık
-başkanlık makamı
-başkanlık sistemi
-başkan vekili
-başkan yardımcısı
-başkarakter
-başkası
-başkâtip
-başkâtiplik
-başkatsayı
-başkemancı
-başkemancılık
-başkent
-başkentli
-başkentlik
-başkentlilik
-başkesit
-başkeşiş
-başkeşişlik
-başkilise
-başkişi
-başkomutan
-başkomutanlık
-başkonakçı
-başkonsolos
-başkonsolosluk
-başköşe
-başkumandan
-başkumandanlık
-Başkurt
-Başkurtça
-başlahana
-başlama
-başlama atışı
-başlamak
-başlama meridyeni
-başlama vuruşu
-başlanabilme
-başlanabilmek
-başlangıç
-başlangıç noktası
-başlangıçta
-başlanılma
-başlanılmak
-başlanış
-başlanma
-başlanmak
-başlatabilme
-başlatabilmek
-başlatılabilme
-başlatılabilmek
-başlatılma
-başlatılmak
-başlatış
-başlatıverme
-başlatıvermek
-başlatma
-başlatmak
-başlattırma
-başlattırmak
-başlayabilme
-başlayabilmek
-başlayıcı
-başlayıcılık
-başlayış
-başlayıverme
-başlayıvermek
-başlı
-başlı başına
-başlıca
-başlık
-başlıkçı
-başlıklı
-başlık parası
-başlıksız
-başmabeyinci
-başmak
-başmakale
-başmakçı
-başmakçılık
-başmaklık
-başmal
-başmekân
-başmisafir
-başmuallim
-başmuallimlik
-başmubassır
-başmuharrir
-başmuharrirlik
-başmurakıp
-başmurakıplık
-başmüdür
-başmüdürlük
-başmüezzin
-başmüezzinlik
-başmüfettiş
-başmüfettişlik
-başmühendis
-başmühendislik
-başmürettip
-başmürettiplik
-başmüsevvit
-başmüşavir
-başmüşavirlik
-başmüzakereci
-başmüzakerecilik
-başnokta
-başoda
-başoyuncu
-başoyunculuk
-başöğretmen
-başöğretmenlik
-başörtü
-başörtülü
-başörtülülük
-baş örtüsü
-başpapaz
-başpapazlık
-başparmak
-başpehlivan
-başpehlivanlık
-başpiskopos
-başpiskoposluk
-başrahip
-başrahiplik
-başrejisör
-başrejisörlük
-başrol
-başsağlığı
-başsavcı
-başsavcılık
-başsız
-başsızlık
-başspiker
-başspikerlik
-başşehir
-başşehirli
-başşehirlilik
-başta
-baştaban
-baştabip
-baştabiplik
-baş tacı
-baştan
-baştan aşağı
-baştan başa
-baştanımaz
-baştanımazlık
-baştankara
-baştankaragiller
-baştan savma
-baştan savmacı
-baştan savmacılık
-baştan sona
-baştarda
-başteknisyen
-başteknisyenlik
-başucu
-baş ucu
-baş ucu kitabı
-başucu noktası
-başucu uzaklığı
-başuzman
-başuzmanlık
-başülke
-başüstü
-baş üstü dolabı
-başüstüne
-başvekâlet
-başvekil
-başvekillik
-başvezir
-başvezirlik
-başvurabilme
-başvurabilmek
-başvurdurma
-başvurdurmak
-başvurma
-başvurmak
-başvuru
-başvurucu
-başvurulabilme
-başvurulabilmek
-başvurulma
-başvurulmak
-başvuruş
-başyapıt
-başyardımcı
-başyardımcılık
-başyargıcı
-başyargıcılık
-baş yastığı
-başyaver
-başyaverlik
-Başyayla 
-başyazar
-başyazarlık
-başyazı
-başyazman
-başyazmanlık
-başyemek
-başyıldız
-başyönetmen
-başyönetmenlik
-başyukarı
-bat
-batabilme
-batabilmek
-bata çıka
-batak
-batakçı
-batakçıl
-batakçılık
-batakhane
-bataklık
-bataklık ardıcı
-bataklık baykuşu
-bataklık çulluğu
-bataklık gazı
-bataklık keteni
-bataklık kırlangıcı
-bataklık kuşları
-bataklık nergisi
-batar
-batarya
-batarya ateşi
-batarya kutusu
-bataryalı
-batçık
-bateri
-baterici
-baterist
-bateristlik
-batı
-Batı Bloku
-Batıcı
-Batıcılık
-batık
-batıl
-Batılı
-Batılıca
-Batılılaşabilme
-Batılılaşabilmek
-Batılılaşma
-Batılılaşmacı
-Batılılaşmacılık
-Batılılaşmak
-Batılılaştırılma
-Batılılaştırılmak
-Batılılaştırma
-Batılılaştırmak
-Batılılık
-batıl inanç
-batıl itikat
-batıllık
-batın
-bâtın
-bâtıni
-Bâtıniye
-batırabilme
-batırabilmek
-batırık
-batırılabilme
-batırılabilmek
-batırılış
-batırılma
-batırılmak
-batırış
-batırıverme
-batırıvermek
-batırma
-batırmak
-batırtma
-batırtmak
-batış
-Batı Türkçesi
-batıverme
-batıvermek
-bati
-batik
-batimetre
-batimetri
-batisfer
-batiskaf
-batkı
-batkın
-batkınlık
-batma
-batmak
-batman
-Batmanlı
-Batmanlılık
-baton
-batonsale
-batsat
-battal
-battal beden
-battal boy
-Battalgazi 
-battallaşma
-battallaşmak
-battallık
-battaniye
-battaniyeli
-battaniyesiz
-battıçıktı
-batur
-baturluk
-batyal
-bav
-bavcı
-bavcılık
-bavlı
-bavlıma
-bavlımak
-bavul
-bavulcu
-bavulculuk
-bavullu
-bavulsuz
-bavul ticareti
-bay
-bayağı
-bayağı kesir
-bayağılaşma
-bayağılaşmak
-bayağılaştırma
-bayağılaştırmak
-bayağılık
-bayan
-bayat
-bayatı
-bayati
-bayatiaraban
-bayatibuselik
-bayatlama
-bayatlamak
-bayatlatma
-bayatlatmak
-bayatlık
-bayatsı
-bayatsıma
-bayatsımak
-Bayburt
-Bayburtlu
-Bayburtluluk
-baygın
-baygınlaşma
-baygınlaşmak
-baygınlık
-baygıntı
-bayıla bayıla
-bayılabilme
-bayılabilmek
-bayılayazma
-bayılayazmak
-bayılış
-bayılma
-bayılmak
-bayıltılma
-bayıltılmak
-bayıltma
-bayıltmak
-bayılttırma
-bayılttırmak
-bayındır
-bayındırcı
-bayındırcılık
-bayındırlaşma
-bayındırlaşmak
-bayındırlaştırabilme
-bayındırlaştırabilmek
-bayındırlaştırma
-bayındırlaştırmak
-bayındırlık
-bayır
-bayır aşağı
-bayır kuşu
-bayırlaşma
-bayırlaşmak
-bayır turpu
-bayır yukarı
-bayi
-bayilik
-Baykan 
-baykuş
-baykuşgiller
-baykuşluk
-baylan
-baylanlık
-baylanma
-baylanmak
-bayma
-baymak
-baypas
-baypas ameliyatı
-bayrak
-bayrakaltı
-bayrak bilimci
-bayrak bilimi
-bayrakçı
-bayrakçılık
-bayrak direği
-bayraklaşabilme
-bayraklaşabilmek
-bayraklaşma
-bayraklaşmak
-bayraklaştırılma
-bayraklaştırılmak
-bayraklaştırma
-bayraklaştırmak
-bayraklı
-bayraklık
-bayrak merasimi
-bayraktar
-bayraktarlık
-bayrak töreni
-bayrak yarışı
-bayram
-bayram alayı
-bayram ayı
-bayram çocuğu
-bayramdan bayrama
-bayramda seyranda
-bayram gazetesi
-bayram günü
-bayram havası
-bayram hediyesi
-Bayrami
-Bayramiç 
-Bayramilik
-bayramlaşabilme
-bayramlaşabilmek
-bayramlaşma
-bayramlaşmak
-bayramlık
-bayramlık ad
-bayramlık ağız
-bayram namazı
-Bayramören 
-Bayrampaşa
-bayram şekeri
-bayram tebriği
-bayram topu
-bayramüstü
-bayramüzeri
-bayram yeri
-bayram ziyareti
-bayrı
-bayrılık
-baysal
-baysallık
-baysungur
-baytar
-baytarlık
-baz
-baza
-bazal
-bazalı
-bazalt
-bazasız
-bazen
-bazı
-bazı bazı
-bazısı
-baziçe
-bazidiyospor
-bazik
-bazik oksitler
-bazilika
-bazit
-bazitli
-bazitli mantarlar
-bazlama
-bazlamaç
-bazlaşma
-baz losyon
-baz morfin
-bazofil
-bazofobi
-bazuka
-baz yük
-be
-bebe
-bebe aspirini
-bebecik
-bebek
-bebekçe
-bebekleşme
-bebekleşmek
-bebeklik
-bebek ölümü
-beberuhi 
-Beberuhi
-becayiş
-becelleşme
-becelleşmek
-becerebilme
-becerebilmek
-beceri
-becerikli
-beceriklilik
-beceriksiz
-beceriksizce
-beceriksizleşme
-beceriksizleşmek
-beceriksizlik
-becerilme
-becerilmek
-beceriş
-beceriverme
-becerivermek
-beceri yitimi
-becerme
-becermek
-becertme
-becertmek
-becet
-Beçene
-Beç tavuğu
-bed
-bedahet
-bedaheten
-bedava
-bedavacı
-bedavacılık
-bedavadan
-bedavadan ucuz
-bedavalaşma
-bedavalaşmak
-bedavalık
-bedavasına
-bedavaya
-bedayi
-bedbaht
-bedbahtlık
-bedbin
-bedbinleşme
-bedbinleşmek
-bedbinleştirme
-bedbinleştirmek
-bedbinlik
-beddua
-bedel
-bedelci
-bedelli
-bedelli askerlik
-bedelsiz
-bedelsiz ithalat
-bedelsizlik
-beden
-bedence
-beden cezası
-bedenci
-beden dili
-beden eğitimi
-bedenen
-bedenî
-beden işçisi
-bedenleşme
-bedenleşmek
-bedensel
-bedensellik
-beden terbiyesi
-bedesten
-bedevi
-bedevilik
-bedhah
-bedhahlık
-bedihi
-bedii
-bediileşme
-bediileşmek
-bediilik
-bediiyat
-bedik
-bedir
-bedirik
-bedirlenme
-bedirlenmek
-bednam
-bedük
-begayet
-Begdili
-begonvil
-begonya
-begonyagiller
-begüm
-beğence
-beğendirebilme
-beğendirebilmek
-beğendirilme
-beğendirilmek
-beğendirme
-beğendirmek
-beğendirtme
-beğendirtmek
-beğenebilme
-beğenebilmek
-beğeni
-beğenili
-beğenilir
-beğenilirlik
-beğeniliş
-beğenilme
-beğenilmek
-beğenir
-beğenirlik
-beğenirlilik
-beğenisiz
-beğeniş
-beğeniverme
-beğenivermek
-beğenme
-beğenmek
-beğenmemezlik
-beğenmezlik
-Behçet hastalığı
-behemehâl
-beher
-beherglas
-behey
-behime
-behimi
-behimilik
-behişt
-behre
-behresiz
-beis
-bej
-bek
-beka
-bekar 
-bekâr
-bekâret
-bekârhane
-bekârlık
-bekâr odası
-bekas
-bekçi
-bekçilik
-Bekilli 
-bekiniş
-bekinme
-bekinmek
-bekitme
-bekitmek
-bekleme
-beklemek
-beklemeli
-bekleme odası
-bekleme salonu
-bekleme süresi
-bekleme yeri
-beklenebilme
-beklenebilmek
-beklenilme
-beklenilmek
-bekleniş
-beklenme
-beklenmedik
-beklenmek
-beklenmez
-beklenmezlik
-beklenmezlik fiili
-beklenti
-bekleşme
-bekleşmek
-bekletebilme
-bekletebilmek
-bekletilebilme
-bekletilebilmek
-bekletiliş
-bekletilme
-bekletilmek
-bekletiş
-bekletiverme
-bekletivermek
-bekletme
-bekletmek
+aza NN
+azabilme NN
+azabil IVB
+azade JJ
+azadelik NN
+azalabilme NN
+azalabil IVBN
+azalış NN
+azalma NN
+azal IVBN
+azaltabilme NN
+azaltabil VBN
+azaltılabilme NN
+azaltılabil IVBN
+azaltılış NN
+azaltılma NN
+azaltıl IVBN
+azaltım NN
+azaltış NN
+azaltma NN
+azalt VBN
+azalttırma NN
+azalttır VBN
+azamet NN
+azametli JJ
+azami JJP
+azap NN
+azaplı JJP
+azapsız JJN
+azar NN
+azar azar RB
+azarlama NN
+azarla VB
+azarlanabilme NN
+azarlanabil IVB
+azarlanış NN
+azarlanma NN
+azarlan IVB
+azarlatma NN
+azarlat VB
+azarlayabilme NN
+azarlayabil VB
+azarlayış NN
+azarlayıverme NN
+azarlayıver VB
+azat NN
+azatlı NN
+azatlık NN
+azatlık JJ
+azatsız JJ
+az az RB
+az buçuk RB
+azca RB
+az çok RB
+az daha RB
+Azdavay NN
+azdırabilme NN
+azdırabil VB
+azdırılma NN
+azdırıl IVB
+azdırış NN
+azdırma NN
+azdır VB
+azel NN
+azelleşme NN
+azelleş IVB
+Azerbaycan dili NN
+Azerbaycanlı JJ
+Azerbaycan NN
+Azeri NN
+Azerice NN
+az gelişmiş JJ
+az gelişmişlik NN
+azgın JJ
+azgınlaşma NN
+azgınlaş IVB
+azgınlaştırma NN
+azgınlaştır VB
+azgınlık NN
+azı NN
+azıcık JJ
+azıcık RB
+azık NN
+azıklı JJP
+azıklık NN
+azıksız JJN
+azıksızlık NN
+azılı JJ
+azımsama NN
+azımsa VB
+azımsanabilme NN
+azımsanabil IVB
+azımsanma NN
+azımsan IVB
+azımsayabilme NN
+azımsayabil VB
+azımsayış NN
+azınlık NN
+azış NN
+azışma NN
+azış IVB
+azıştırma NN
+azıştır VB
+azıtabilme NN
+azıtabil IVB
+azıtılma NN
+azıtıl IVB
+azıtma NN
+azıt IVB
+azıttırma NN
+azıttır VB
+azil NN
+azim NN
+azimet NN
+azimkâr JJ
+azimkârane RB
+azimkârlık NN
+azimli JJP
+azimlilik NN
+azimsiz JJN
+azimsizlik NN
+azit NN
+aziz NN
+aziz JJ
+azize NN
+aziziye NN
+azizlik NN
+azledilebilme NN
+azledilebil IVB
+azlediliş NN
+azledilme NN
+azledil IVB
+azlediş NN
+azletme NN
+azlet VB
+azlettirme NN
+azlettir VB
+azlık NN
+azlolunma NN
+azlolun IVB
+azma NN
+az IVB
+azman NN
+azmankaya NN
+azmanlaşma NN
+azmanlaş IVB
+azmanlık NN
+azmetme NN
+azmet IVB
+azmettirme NN
+azmettir VB
+aznavur NN
+aznif NN
+azoik NN
+azol NN
+azonal NN
+azot NN
+azotlama NN
+azotla VB
+azotlu JJ
+azotometre NN
+azotölçer NN
+Azrail NN
+az sonra RB
+azvay NN
+Ba NN
+baba NN
+babaanne NN
+babaannelik NN
+babaca JJ
+babacan JJ
+babacanca JJ
+babacanlaşma NN
+babacanlaş IVB
+babacanlık NN
+babacı JJ
+babacık NN
+babacıl JJ
+babacılık NN
+babaç NN
+babaçko JJ
+Babadağ NN
+babadan kalma JJ
+Babaeski NN
+babaevi NN
+babafingo NN
+Babai NN
+Babailik NN
+babaköş NN
+babalanabilme NN
+babalanabil IVB
+babalanma NN
+babalan IVB
+babalı JJP
+babalık NN
+babalık EX
+babasız JJN
+babasızlık NN
+babayani JJ
+babayanilik NN
+babayiğit NN
+babayiğitçe RB
+babayiğitlik NN
+Babıali NN
+Babi NN
+Babilik NN
+baca NN
+bacabaşı NN
+bacak NN
+bacakkalemi NN
+bacakkıran NN
+bacaklı JJP
+bacaklı NN
+bacaklık NN
+bacaksız JJN
+bacaksız EX
+bacaksızlık NN
+bacanak NN
+bacanaklık NN
+bacasız JJN
+bacasızlık NN
+bacı NN
+bacılık NN
+baç NN
+baççı NN
+baççılık NN
+bad NN
+badal NN
+badana NN
+badanacı NN
+badanacılık NN
+badanalama NN
+badanala VB
+badanalanma NN
+badanalan IVB
+badanalatma NN
+badanalat VB
+badanalı JJP
+badanasız JJN
+badanasızlık NN
+badas NN
+badat NN
+bade NN
+badehu RB
+badeli âşık NN
+badelmilat RB
+badem NN
+badema RB
+badem bıyıklı JJ
+badem bıyıklılık NN
+bademci NN
+bademcik NN
+bademcilik NN
+bademli JJP
+bademlik NN
+bademsi JJ
+bademsiz JJN
+baderna NN
+badıç NN
+badısaba NN
+badi NN
+badik NN
+badik JJ
+badikleme NN
+badikle VB
+badikleşme NN
+badikleş IVB
+badire NN
+badireli JJP
+badiresiz JJN
+badiye NN
+badya NN
+Bafra NN
+bagaj NN
+baget NN
+bagetli JJP
+bağ NN
+bağa NN
+bağan NN
+bağboğan NN
+bağcı NN
+bağcık NN
+bağcıklı JJP
+bağcıksız JJN
+Bağcılar NN
+bağcılık NN
+bağ çubuğu NN
+bağda NN
+bağdadi JJ
+bağdalama NN
+bağdala VB
+bağdama NN
+bağda VB
+bağdaş NN
+bağdaşabilme NN
+bağdaşabil IVB
+bağdaşık JJ
+bağdaşıklaşma NN
+bağdaşıklaş IVB
+bağdaşıklaştırma NN
+bağdaşıklaştır VB
+bağdaşıklık NN
+bağdaşılma NN
+bağdaşıl IVB
+bağdaşım NN
+bağdaşma NN
+bağdaş IVB
+bağdaşmaz JJN
+bağdaşmazlık NN
+bağdaştırabilme NN
+bağdaştırabil VB
+bağdaştırılabilme NN
+bağdaştırılabil IVB
+bağdaştırılma NN
+bağdaştırıl IVB
+bağdaştırma NN
+bağdaştırmacı JJ
+bağdaştırmacılık NN
+bağdaştır VB
+Bağdat NN
+bağ-fiil NN
+bağı NN
+bağıcı NN
+bağıcılık NN
+bağıl JJ
+bağıldak NN
+bağıllık NN
+bağım NN
+bağımlama NN
+bağımla VB
+bağımlaşma NN
+bağımlaş IVB
+bağımlı JJP
+bağımlılaşabilme NN
+bağımlılaşabil IVB
+bağımlılaşma NN
+bağımlılaş IVB
+bağımlılaştırılma NN
+bağımlılaştırıl IVB
+bağımlılaştırma NN
+bağımlılaştır VB
+bağımlılık NN
+bağımsız JJN
+bağımsızca RB
+bağımsızcasına RB
+bağımsızlaşabilme NN
+bağımsızlaşabil IVB
+bağımsızlaşma NN
+bağımsızlaş IVB
+bağımsızlaştırabilme NN
+bağımsızlaştırabil VB
+bağımsızlaştırma NN
+bağımsızlaştır VB
+bağımsızlık NN
+bağın NN
+bağıntı NN
+bağıntıcı JJ
+bağıntıcılık NN
+bağıntılı JJP
+bağıntılılık NN
+bağır NN
+bağırabilme NN
+bağırabil IVB
+bağıra çağıra RB
+bağırdak NN
+bağırgan JJ
+bağırganlık NN
+bağırış NN
+bağırıverme NN
+bağırıver IVB
+bağırma NN
+bağır IVB
+bağırsak NN
+bağırtabilme NN
+bağırtabil VB
+bağırtı NN
+bağırtkan JJ
+bağırtkanlık NN
+bağırtlak NN
+bağırtma NN
+bağırt VB
+bağırttırma NN
+bağırttır VB
+bağış NN
+bağışçı NN
+bağışçılık NN
+bağışık JJ
+bağışıklık NN
+bağışlama NN
+bağışla VB
+bağışlamalı JJP
+bağışlamasız JJN
+bağışlanabilme NN
+bağışlanabil IVB
+bağışlanış NN
+bağışlanma NN
+bağışlan IVB
+bağışlatabilme NN
+bağışlatabil VB
+bağışlatılma NN
+bağışlatıl IVB
+bağışlatış NN
+bağışlatma NN
+bağışlat VB
+bağışlayabilme NN
+bağışlayabil VB
+bağışlayış NN
+bağışlayıverme NN
+bağışlayıver VB
+bağıt NN
+bağıtçı JJ
+bağıtlama NN
+bağıtla VB
+bağıtlanabilme NN
+bağıtlanabil IVB
+bağıtlanış NN
+bağıtlanma NN
+bağıtlan IVB
+bağıtlaşma NN
+bağıtlaş IVB
+bağıtlayabilme NN
+bağıtlayabil VB
+bağıtlayış NN
+bağıtlı JJP
+bağıtsız JJN
+bağkesen NN
+bağlaç NN
+bağlaçlı JJ
+bağlam NN
+bağlama NN
+bağlamacı NN
+bağlamacılık NN
+bağla VB
+bağlamalık NN
+bağlamsal JJ
+bağlanabilme NN
+bağlanabil IVB
+bağlanak NN
+bağlanım NN
+bağlanış NN
+bağlanıverme NN
+bağlanıver IVB
+bağlanma NN
+bağlan IVB
+bağlantı NN
+bağlantılı JJP
+bağlantılılık NN
+bağlantısız JJN
+bağlantısızlık NN
+Bağlar NN
+bağlaşık JJ
+bağlaşıklık NN
+bağlaşım NN
+bağlaşımlı JJP
+bağlaşımsız JJN
+bağlaşma NN
+bağlaş IVB
+bağlatabilme NN
+bağlatabil VB
+bağlatma NN
+bağlat VB
+bağlattırma NN
+bağlattır VB
+bağlayabilme NN
+bağlayabil VB
+bağlayıcı JJ
+bağlayıcılık NN
+bağlayış NN
+bağlayıverme NN
+bağlayıver VB
+bağlı JJP
+bağlık NN
+bağlık bahçelik JJ
+bağlılaşık NN
+bağlılaşma NN
+bağlılaş IVB
+bağlılık NN
+bağnaz JJ
+bağnazca JJ
+bağnazlaşma NN
+bağnazlaş IVB
+bağnazlaştırılma NN
+bağnazlaştırıl IVB
+bağnazlaştırma NN
+bağnazlaştır VB
+bağnazlık NN
+bağrıkara NN
+bağrı kara JJ
+bağrılma NN
+bağrıl IVB
+bağrış NN
+bağrışabilme NN
+bağrışabil IVB
+bağrışa çağrışa RB
+bağrış çağrış NN
+bağrışma NN
+bağrış IVB
+bağrıştırma NN
+bağrıştır VB
+bağrı yufka JJ
+bağsız JJN
+bağsızlık NN
+bahadır NN
+bahadırlık NN
+Bahai NN
+Bahailik NN
+bahane NN
+bahaneli JJP
+bahanesiz JJN
+bahanesizlik NN
+bahar NN
+baharat NN
+baharatçı NN
+baharatçılık NN
+baharatlandırma NN
+baharatlandır VB
+baharatlı JJP
+baharatsız JJN
+baharcı NN
+baharcılık NN
+bahariye NN
+baharlı JJ
+bahçe NN
+bahçeci NN
+bahçecilik NN
+bahçeli JJP
+Bahçelievler NN
+bahçelik NN
+bahçelikli JJP
+bahçemsi JJ
+Bahçesaray NN
+bahçesiz JJN
+bahçesizlik NN
+bahçıvan NN
+bahçıvanlı JJP
+bahçıvanlık NN
+bahçıvansız JJN
+bahçıvansızlık NN
+bahir NN
+bahis NN
+bahisçi NN
+bahisçilik NN
+bahname NN
+bahri JJ
+bahriye NN
+bahriyeli NN
+bahriyelilik NN
+bahsedebilme NN
+bahsedebil IVB
+bahsediliş NN
+bahsedilme NN
+bahsedil IVB
+bahsediş NN
+bahsetme NN
+bahset IVB
+bahsolunma NN
+bahsolun IVB
+bahşedebilme NN
+bahşedebil VB
+bahşediş NN
+bahşetme NN
+bahşet VB
+bahşettirme NN
+bahşettir VB
+Bahşılı NN
+bahşiş NN
+baht NN
+bahtı açık JJ
+bahtı açıklık NN
+bahtı kara JJ
+bahtı karalık NN
+bahtiyar JJP
+bahtiyarlık NN
+bahtlı JJP
+bahtlılık NN
+bahtsız JJN
+bahtsızca RB
+bahtsızcasına RB
+bahtsızlık NN
+bahusus RB
+bakabilme NN
+bakabil IVB
+bakaç NN
+bakadurma NN
+bakadur IVB
+bakakalış NN
+bakakalma NN
+bakakal IVB
+bakalit NN
+bakalitli JJP
+bakalorya NN
+bakam NN
+bakan NN
+bakanak NN
+bakanlık NN
+bakara NN
+bakarak RB
+bakar kör JJ
+bakar körlük NN
+bakaya NN
+bakayazma NN
+bakayaz IVB
+bakı NN
+bakıcı NN
+bakıcılık NN
+bakılabilme NN
+bakılabil IVB
+bakılış NN
+bakılma NN
+bakıl IVB
+bakım NN
+bakımcı NN
+bakımcılık NN
+bakımdan RB
+bakımevi NN
+bakımından RB
+bakımlı JJP
+bakımlık NN
+bakımlılık NN
+bakımsız JJN
+bakımsızlık NN
+bakınabilme NN
+bakınabil IVB
+bakıncak NN
+bakındı EX
+bakınış NN
+bakınma NN
+bakın IVB
+bakıntı NN
+bakır NN
+bakırcı NN
+bakırcılık NN
+bakırımsı JJ
+Bakırköy NN
+bakırlaşma NN
+bakırlaş JJ
+bakırlı JJP
+bakırsı JJ
+bakış NN
+bakışabilme NN
+bakışabil IVB
+bakışım NN
+bakışımlı JJP
+bakışımlılık NN
+bakışımsız JJN
+bakışımsızlık NN
+bakışıverme NN
+bakışıver IVB
+bakışlı JJ
+bakışma NN
+bakış IVB
+bakıverme NN
+bakıver IVB
+baki NN
+bakilik NN
+bakir JJ
+bakire JJ
+bakirelik NN
+bakirlik NN
+bakiye NN
+bakkal NN
+bakkal çakkal NN
+bakkaliye NN
+bakkallık NN
+bakla NN
+baklaçiçeği NN
+baklalı JJP
+baklalık NN
+baklamsı JJ
+baklan NN
+baklava NN
+baklavacı NN
+baklavacılık NN
+baklavalı JJP
+baklavalık NN
+bakliyat NN
+bakma NN
+bak IVB
+bakraç NN
+baks NN
+bakteri NN
+bakteridi NN
+bakterigil NN
+bakterikıran NN
+bakterisit JJ
+bakteriyel JJ
+bakteriyolog NN
+bakteriyoloji NN
+bakteriyolojik JJ
+bakteriyoskopi NN
+baktırabilme NN
+baktırabil IVB
+baktırma NN
+baktır IVB
+baktırtma NN
+baktırt IVB
+bal NN
+bala NN
+Balâ NN
+balaban NN
+balaban JJ
+balabanlaşma NN
+balabanlaş IVB
+balabanlık NN
+balalayka NN
+balalık NN
+balama NN
+balans NN
+balar NN
+balast NN
+balat NN
+balata NN
+balayı NN
+balbal NN
+balcı NN
+balcılık NN
+balçak NN
+balçık NN
+balçıklaşma NN
+balçıklaş IVB
+balçıklı JJ
+balçiçeği NN
+Balçova NN
+baldır NN
+baldırak NN
+baldıran NN
+baldıranlık NN
+baldıranşerbeti NN
+baldır bacak NN
+baldırgan NN
+baldırıkara NN
+baldır kemiği NN
+baldırpatlatan NN
+baldırsokan NN
+baldız NN
+baldo NN
+baldudak NN
+baldudaklı JJ
+baldudaklılık NN
+bale NN
+balerin NN
+balerinlik NN
+balet NN
+baletlik NN
+balgam NN
+balgamlı JJP
+balgamsı JJ
+balgamsız JJN
+balgamsızlık NN
+balgümeci NN
+balhane NN
+balık NN
+balık adam NN
+balık adamlık NN
+balık bilimci NN
+balıkçı NN
+balıkçıl NN
+balıkçılgil NN
+balıkçılık NN
+balıkçın NN
+Balıkesir NN
+Balıkesirli JJ
+Balıkesirlilik NN
+balıketi JJ
+balıketinde JJ
+balıkgözü NN
+balıkhane NN
+balıklama RB
+balıklandırma NN
+balıklandır VB
+balıklava NN
+balıklı JJP
+balıknefesi NN
+balıksırtı NN
+balıksız JJN
+balıksızlık NN
+Balışeyh NN
+baliğ JJ
+balina NN
+balinalı JJP
+balistik NN
+bal kabağı NN
+balkan NN
+Balkanlar NN
+balkanlık JJ
+Balkanolog NN
+Balkanoloji NN
+Balkar NN
+Balkarca NN
+bal kelebeği NN
+balkı NN
+balkıma NN
+balkı IVB
+balkır NN
+balkon NN
+balkonsu JJ
+balkonumsu JJ
+balköpüğü NN
+ballama NN
+balla VB
+ballandırış NN
+ballandırma NN
+ballandır VB
+ballanma NN
+ballan IVB
+ballı JJ
+ballıbaba NN
+ballıbabagil NN
+ballıdarı NN
+ballık NN
+bal mumu NN
+balo NN
+balon NN
+baloncu NN
+baloncuk NN
+balonculuk NN
+balonvari JJ
+balotaj NN
+baloz NN
+bal özlü JJ
+bal özü NN
+bal özülük NN
+balsam NN
+balsamik JJ
+balsamlı JJ
+balsıra NN
+balta NN
+baltabaş NN
+baltacı NN
+baltacık NN
+baltacılık NN
+baltalama NN
+baltala VB
+baltalanabilme NN
+baltalanabil IVB
+baltalanış NN
+baltalanma NN
+baltalan IVB
+baltalayabilme NN
+baltalayabil VB
+baltalayıcı JJ
+baltalayıcılık NN
+baltalayış NN
+baltalayıverme NN
+baltalayıver VB
+baltalı JJ
+baltalık NN
+Baltık NN
+baltrap NN
+balya NN
+balyalama NN
+balyala VB
+balyalanma NN
+balyalan IVB
+balyalatma NN
+balyalat VB
+balyalayabilme NN
+balyalayabil VB
+balyalık NN
+balyemez NN
+balyos NN
+balyoz NN
+balyozlama NN
+balyozla VB
+balyozlanma NN
+balyozlan IVB
+balyozlatma NN
+balyozlat VB
+bambaşka JJ
+bambaşkalık NN
+bambu NN
+bambul NN
+bam tel NN
+bamya NN
+bamyatarlası NN
+ban NN
+bana PN
+banabilme NN
+banabil VB
+banak NN
+banal JJ
+banallik NN
+Banaz NN
+bandaj NN
+bandajlama NN
+bandajla VB
+bandajlanma NN
+bandajlan IVB
+bandajlatma NN
+bandajlat VB
+bandana NN
+bandıra NN
+bandırabilme NN
+bandırabil VB
+bandıralı JJ
+bandırma NN
+bandır VB
+bando NN
+bandocu NN
+bandoculuk NN
+bandrol NN
+bandrollü JJP
+bandrolsüz JJN
+bangır bangır RB
+bangırdama NN
+bangırda IVB
+Bangladeş NN
+Bangladeşli JJ
+bani JJ
+banilik NN
+banjo NN
+bank NN
+banka NN
+bankacı NN
+bankacılık NN
+bankamatik NN
+banker NN
+bankerlik NN
+bankerzede NN
+bankerzedelik NN
+banket NN
+bankiz NN
+banknot NN
+banko NN
+banlama NN
+banla VB
+banlatma NN
+banlat VB
+banlattırma NN
+banlattır VB
+banliyö NN
+banma NN
+ban VB
+bant NN
+bantlama NN
+bantla VB
+bantlayabilme NN
+bantlayabil VB
+bantlayıcı NN
+banyo NN
+banyolu JJP
+banyosuz JJN
+banyosuzluk NN
+baobap NN
+bap NN
+baptist NN
+bar NN
+bara NN
+baraj NN
+barak NN
+baraka NN
+barakacık NN
+baran NN
+barata NN
+baratarya NN
+barba NN
+barbakan NN
+barbar JJ
+bar bar RB
+barbarca JJ
+barbarcasına RB
+barbarizm NN
+barbarlaşabilme NN
+barbarlaşabil IVB
+barbarlaşma NN
+barbarlaş VB
+barbarlık NN
+barbaşı NN
+barbata NN
+barbekü NN
+barbun NN
+barbunya NN
+barbunyagil NN
+barbut NN
+barbutçu NN
+barcı NN
+barcılık NN
+barça NN
+barçak NN
+barda NN
+bardacık NN
+bardak NN
+bardakaltı NN
+bardakçı NN
+bardakçılık NN
+bardan JJ
+bardan NN
+bardo NN
+barem NN
+baret NN
+baretlik NN
+barfiks NN
+bargâh NN
+bargam NN
+barhana NN
+barı NN
+barınabilme NN
+barınabil IVB
+barınak NN
+barındırabilme NN
+barındırabil VB
+barındırılabilme NN
+barındırılabil IVB
+barındırılma NN
+barındırıl IVB
+barındırma NN
+barındır VB
+barınılma NN
+barınıl IVB
+barınış NN
+barınma NN
+barın IVB
+barış NN
+barışabilme NN
+barışabil IVBP
+barışçı JJP
+barışçıl JJP
+barışçılık NN
+barışçıllık NN
+barışık JJP
+barışıklık NN
+barışma NN
+barış IVBP
+barışsever JJ
+barışseverlik NN
+barıştırabilme NN
+barıştırabil VBP
+barıştırılma NN
+barıştırıl IVBP
+barıştırma NN
+barıştır VB
+bari RB
+bari EX
+barikat NN
+barikatlama NN
+barikatla IVB
+barisfer NN
+barit NN
+baritin NN
+baritli JJ
+bariton NN
+bariyer NN
+bariyerli JJP
+bariyersiz JJN
+bariz JJ
+barizleşme NN
+barizleş IVB
+barizleştirme NN
+barizleştir VB
+barizlik NN
+barka NN
+barkarol NN
+barkod NN
+barkodlu JJP
+barkodsuz JJN
+barlam NN
+barmen NN
+barmenlik NN
+baro NN
+barograf NN
+barok NN
+barokçu NN
+barokçuluk NN
+barometre NN
+barometresiz JJN
+baron NN
+baronluk NN
+baroskop NN
+barparalel NN
+barsam NN
+barsama NN
+Bartın NN
+Bartınlı JJ
+Bartınlılık NN
+barudi NN
+barut NN
+barutçu NN
+barutçuluk NN
+baruthane NN
+barutluk NN
+baryum NN
+baryum karbonat NN
+baryum sülfat NN
+bas NN
+basabilme NN
+basabil VB
+basak NN
+basaklı JJP
+basaksız JJN
+basamak NN
+basamak basamak RB
+basamaklı JJP
+basamaksı JJ
+basamaksız JJN
+basar NN
+basari JJ
+basarna NN
+basbariton NN
+bas bas RB
+basbayağı JJ
+basbayağılık NN
+basen NN
+basgitar NN
+bası NN
+basıcı NN
+basıcılık NN
+basık NN
+basıklaşma NN
+basıklaş IVB
+basıklaştırma NN
+basıklaştır VB
+basıklık NN
+basıla NN
+basılabilme NN
+basılabil IVB
+basılı JJ
+basılış NN
+basılma NN
+basıl IVB
+basım NN
+basımcı NN
+basımcılık NN
+basımevi NN
+basın NN
+basınç NN
+basınçlama NN
+basınçla VB
+basınçlanma NN
+basınçlı JJP
+basınçölçer NN
+basınçyazar NN
+basıölçer NN
+basış NN
+basıverme NN
+basıver IVB
+basil NN
+basiret NN
+basiretli JJP
+basiretlilik NN
+basiretsiz JJN
+basiretsizlik NN
+basit JJ
+basitçe RB
+basitleşebilme NN
+basitleşebil IVB
+basitleşme NN
+basitleş IVB
+basitleştirebilme NN
+basitleştirebil VB
+basitleştirilme NN
+basitleştiril IVB
+basitleştirme NN
+basitleştir VB
+basitlik NN
+Baskça NN
+basket NN
+basketbol NN
+basketbolcu NN
+basketbolculuk NN
+basketçi NN
+basketçilik NN
+baskı NN
+baskıcı JJ
+baskıcılık NN
+baskılama NN
+baskıla VB
+baskılanma NN
+baskılan IVB
+baskılı JJP
+baskılık NN
+baskın NN
+baskıncı NN
+baskıncılık NN
+baskınlık NN
+baskısız JJN
+baskısızca RB
+baskısızcasına RB
+baskısızlık NN
+Baskil NN
+basklarnet NN
+baskül NN
+basma NN
+basmacı NN
+basmacılık NN
+basmahane NN
+bas VB
+basmakalıp JJ
+basmakalıplaşma NN
+basmakalıplaş IVB
+basmakalıplık NN
+basmalı JJ
+basmalık NN
+basmayazı NN
+basso NN
+bastana salatası NN
+bastı NN
+bastıbacak JJ
+bastık NN
+bastırabilme NN
+bastırabil VB
+bastırak NN
+bastırık NN
+bastırılış NN
+bastırılma NN
+bastırıl IVB
+bastırım NN
+bastırış NN
+bastırıverme NN
+bastırıver VB
+bastırma NN
+bastır VB
+bastırtma NN
+bastırt VB
+bastika NN
+baston NN
+bastoncu NN
+bastonculuk NN
+baston francala NN
+bastonlu JJP
+bastonsuz JJN
+basur NN
+basurlu JJ
+basübadelmevt NN
+basya NN
+baş NN
+başa baş RB
+başağaç NN
+başağırlık NN
+başağrısı NN
+baş ağrısı NN
+başak NN
+başakçı NN
+başakçık NN
+başakçılık NN
+başaklama NN
+başakla VB
+başaklanış NN
+başaklanma NN
+başaklan IVB
+başaklı JJ
+başakortçu NN
+başakortçuluk NN
+Başakşehir NN
+başaktör NN
+başaktörlük NN
+başaktris NN
+başaktrislik NN
+başaltı NN
+baş altı NN
+başantrenör NN
+başantrenörlük NN
+başarabilme NN
+başarabil VB
+başarı NN
+başarılabilme NN
+başarılabil IVB
+başarılı JJP
+başarılılık NN
+başarılış NN
+başarılma NN
+başarıl IVB
+başarım NN
+başarısız JJN
+başarısızlık NN
+başarış NN
+başarıverme NN
+başarıver VB
+başarma NN
+başar VB
+başartma NN
+başart VB
+başasistan NN
+başasistanlık NN
+baş aşağı NN
+baş aşağı RB
+başat JJ
+başatlık NN
+başbakan NN
+başbakanlık NN
+baş baş EX
+baş başa RB
+başbayan NN
+başbayi NN
+başbayilik NN
+başbuğ NN
+başçavuş NN
+başçavuşluk NN
+başçı NN
+başçık NN
+Başçiftlik NN
+başdanışman NN
+başdanışmanlık NN
+başdekorcu NN
+başdekorculuk NN
+başdelege NN
+başdelegelik NN
+başdenetçi NN
+başdenetçilik NN
+başdenetmen NN
+başdenetmenlik NN
+başdizgici NN
+başdizgicilik NN
+başdoktor NN
+başdoktorluk NN
+baş döndürücü JJ
+baş döndürücülük NN
+başdümenci NN
+başdümencilik NN
+başeczacı NN
+başeczacılık NN
+başefendi NN
+başefendilik NN
+başeksper NN
+başeksperlik NN
+başeser NN
+başeski NN
+başfiyat NN
+başgardiyan NN
+başgardiyanlık NN
+başgarson NN
+başgarsonluk NN
+başgedikli NN
+başhakem NN
+başhakemlik NN
+başhekim NN
+başhekimlik NN
+başhemşire NN
+başhemşirelik NN
+başhostes NN
+başhosteslik NN
+başı açık JJ
+başı açıklık NN
+başı bağlı JJ
+başı bağlılık NN
+başıboş JJ
+başıboş RB
+başıboşluk NN
+başıbozuk JJ
+başıbozukluk NN
+başı bütün JJ
+başı dertte JJ
+başı devletli JJ
+başı dik JJ
+başı diklik NN
+başı dimdik JJ
+başı dinç JJ
+başı dinçlik NN
+başı dumanlı JJ
+başı havada JJ
+başı kabak JJ
+başı kalabalık JJ
+başına buyruk JJ
+başına buyrukluk NN
+başı önünde JJ
+başı yerde JJ
+başı yukarıda JJ
+başı yumuşak JJ
+başı yumuşaklık NN
+başimam NN
+başimamlık NN
+Başiskele NN
+başka RP
+başka başka JJ
+başka başka RB
+başka biri PN
+başkaca RB
+başkafiye NN
+başkahraman NN
+başkahramanlık NN
+başkalaşabilme NN
+başkalaşabil IVB
+başkalaşım NN
+başkalaşma NN
+başkalaş IVB
+başkalaştırma NN
+başkalaştır VB
+başkaldırabilme NN
+başkaldırabil IVB
+başkaldırı NN
+başkaldırıcı JJ
+başkaldırıcılık NN
+başkaldırış NN
+başkaldırma NN
+başkaldır IVB
+başkaldırtma NN
+başkaldırtmak IVB
+Başkale NN
+başkalık NN
+başkan NN
+başkanlık NN
+başkarakter NN
+başkası PN
+başkâtip NN
+başkâtiplik NN
+başkatsayı NN
+başkemancı NN
+başkemancılık NN
+başkent NN
+başkentli JJ
+başkentlik NN
+başkentlilik NN
+başkesit NN
+başkeşiş NN
+başkeşişlik NN
+başkilise NN
+başkişi NN
+başkomutan NN
+başkomutanlık NN
+başkonakçı NN
+başkonsolos NN
+başkonsolosluk NN
+başköşe NN
+başkumandan NN
+başkumandanlık NN
+Başkurt NN
+Başkurtça NN
+başlahana NN
+başlama NN
+başla IVBP
+başlanabilme NN
+başlanabil IVBP
+başlangıç NN
+başlangıçta RB
+başlanılma NN
+başlanıl IVBP
+başlanış NN
+başlanma NN
+başlan IVBP
+başlatabilme NN
+başlatabil VBP
+başlatılabilme NN
+başlatılabil IVBP
+başlatılma NN
+başlatıl IVBP
+başlatış NN
+başlatıverme NN
+başlatıver VBP
+başlatma NN
+başlat VBP
+başlattırma NN
+başlattır VBP
+başlayabilme NN
+başlayabil IVBP
+başlayıcı JJ
+başlayıcılık NN
+başlayış NN
+başlayıverme NN
+başlayıver IVBP
+başlı JJP
+başlı başına RB
+başlıca JJ
+başlık NN
+başlıkçı NN
+başlıklı JJP
+başlıksız JJN
+başmabeyinci NN
+başmak NN
+başmakale NN
+başmakçı NN
+başmakçılık NN
+başmaklık NN
+başmal NN
+başmekân NN
+başmisafir NN
+başmuallim NN
+başmuallimlik NN
+başmubassır NN
+başmuharrir NN
+başmuharrirlik NN
+başmurakıp NN
+başmurakıplık NN
+başmüdür NN
+başmüdürlük NN
+başmüezzin NN
+başmüezzinlik NN
+başmüfettiş NN
+başmüfettişlik NN
+başmühendis NN
+başmühendislik NN
+başmürettip NN
+başmürettiplik NN
+başmüsevvit NN
+başmüşavir NN
+başmüşavirlik NN
+başmüzakereci NN
+başmüzakerecilik NN
+başnokta NN
+başoda NN
+başoyuncu NN
+başoyunculuk NN
+başöğretmen NN
+başöğretmenlik NN
+başörtü NN
+başörtülü JJP
+başörtülülük NN
+başpapaz NN
+başpapazlık NN
+başparmak NN
+başpehlivan NN
+başpehlivanlık NN
+başpiskopos NN
+başpiskoposluk NN
+başrahip NN
+başrahiplik NN
+başrejisör NN
+başrejisörlük NN
+başrol NN
+başsağlığı NN
+başsavcı NN
+başsavcılık NN
+başsız JJN
+başsızlık NN
+başspiker NN
+başspikerlik NN
+başşehir NN
+başşehirli JJ
+başşehirlilik NN
+başta RB
+baştaban NN
+baştabip NN
+baştabiplik NN
+baştan RB
+baştan aşağı RB
+baştan başa RB
+baştanımaz JJ
+baştanımazlık NN
+baştankara NN
+baştankaragil NN
+baştan savma RB
+baştan savmacı NN
+baştan savmacılık NN
+baştan sona RB
+baştarda NN
+başteknisyen NN
+başteknisyenlik NN
+başucu NN
+baş ucu NN
+başuzman NN
+başuzmanlık NN
+başülke NN
+başüstü NN
+baş üstü NN
+başüstüne EX
+başvekâlet NN
+başvekil NN
+başvekillik NN
+başvezir NN
+başvezirlik NN
+başvurabilme NN
+başvurabil IVB
+başvurdurma NN
+başvurdur VB
+başvurma NN
+başvur IVB
+başvuru NN
+başvurucu NN
+başvurulabilme NN
+başvurulabil IVB
+başvurulma NN
+başvurul IVB
+başvuruş NN
+başyapıt NN
+başyardımcı NN
+başyardımcılık NN
+başyargıcı NN
+başyargıcılık NN
+başyaver NN
+başyaverlik NN
+Başyayla NN
+başyazar NN
+başyazarlık NN
+başyazı NN
+başyazman NN
+başyazmanlık NN
+başyemek NN
+başyıldız NN
+başyönetmen NN
+başyönetmenlik NN
+başyukarı NN
+bat NN
+batabilme NN
+batabil IVBN
+bata çıka RB
+batak NN
+batakçı JJ
+batakçıl JJ
+batakçılık NN
+batakhane NN
+bataklık NN
+batar NN
+batarya NN
+bataryalı JJ
+batçık NN
+bateri NN
+baterici NN
+baterist NN
+bateristlik NN
+batı NN
+Batıcı JJ
+Batıcılık NN
+batık JJN
+batıl JJ
+Batılı JJ
+Batılıca JJ
+Batılılaşabilme NN
+Batılılaşabil IVB
+Batılılaşma NN
+Batılılaşmacı JJ
+Batılılaşmacılık NN
+Batılılaşmak NN
+Batılılaştırılma NN
+Batılılaştırıl IVB
+Batılılaştırma NN
+Batılılaştır VB
+Batılılık NN
+batıllık NN
+batın NN
+bâtın NN
+bâtıni JJ
+Bâtıniye NN
+batırabilme NN
+batırabil VBN
+batırık NN
+batırılabilme NN
+batırılabil IVBN
+batırılış NN
+batırılma NN
+batırıl IVBN
+batırış NN
+batırıverme NN
+batırıver VBN
+batırma NN
+batır VBN
+batırtma NN
+batırt VBN
+batış NN
+batıverme NN
+batıver IVBN
+bati JJ
+batik NN
+batimetre NN
+batimetri NN
+batisfer NN
+batiskaf NN
+batkı NN
+batkın JJN
+batkınlık NN
+batma NN
+bat IVBN
+batman NN
+Batmanlı JJ
+Batmanlılık NN
+baton NN
+batonsale NN
+batsat RB
+battal JJP
+Battalgazi NN 
+battallaşma NN
+battallaş IVBP
+battallık NN
+battaniye NN
+battaniyeli JJP
+battaniyesiz JJN
+battıçıktı NN
+batur NN
+baturluk NN
+batyal NN
+bav NN
+bavcı NN
+bavcılık NN
+bavlı NN
+bavlıma NN
+bavlı VB
+bavul NN
+bavulcu NN
+bavulculuk NN
+bavullu JJP
+bavulsuz JJN
+bay NN
+bayağı JJ
+bayağılaşma NN
+bayağılaş IVB
+bayağılaştırma NN
+bayağılaştır VB
+bayağılık NN
+bayan NN
+bayat JJN
+bayatı NN
+bayati NN
+bayatiaraban NN
+bayatibuselik NN
+bayatlama NN
+bayatla IVB
+bayatlatma NN
+bayatlat VB
+bayatlık NN
+bayatsı JJN
+bayatsıma NN
+bayatsımak IVBN
+Bayburt NN
+Bayburtlu JJ
+Bayburtluluk NN
+baygın JJ
+baygınlaşma NN
+baygınlaş IVB
+baygınlık NN
+baygıntı NN
+bayıla bayıla RB
+bayılabilme NN
+bayılabil IVB
+bayılayazma NN
+bayılayaz IVB
+bayılış NN
+bayılma NN
+bayıl IVB
+bayıltılma NN
+bayıltıl IVB
+bayıltma NN
+bayılt VB
+bayılttırma NN
+bayılttır VB
+bayındır JJ
+bayındırcı NN
+bayındırcılık NN
+bayındırlaşma NN
+bayındırlaş IVB
+bayındırlaştırabilme NN
+bayındırlaştırabil VB
+bayındırlaştırma NN
+bayındırlaştır VB
+bayındırlık NN
+bayır NN
+bayır aşağı RB
+bayırlaşma NN
+bayırlaş IVB
+bayır yukarı RB
+bayi NN
+bayilik NN
+Baykan NN
+baykuş NN
+baykuşgil NN
+baykuşluk NN
+baylan JJ
+baylanlık NN
+baylanma NN
+baylan IVB
+bayma NN
+bay VB
+baypas NN
+bayrak NN
+bayrakaltı NN
+bayrakçı NN
+bayrakçılık NN
+bayraklaşabilme NN
+bayraklaşabil IVB
+bayraklaşma NN
+bayraklaş IVB
+bayraklaştırılma NN
+bayraklaştırıl IVB
+bayraklaştırma NN
+bayraklaştır VB
+bayraklı JJ
+bayraklık NN
+bayraktar NN
+bayraktarlık NN
+bayram NN
+bayramdan bayrama RB
+bayramda seyranda RB
+Bayrami NN
+Bayramiç NN
+Bayramilik NN
+bayramlaşabilme NN
+bayramlaşabil IVB
+bayramlaşma NN
+bayramlaş IVB
+bayramlık NN
+Bayramören NN
+Bayrampaşa NN
+bayramüstü RB
+bayramüzeri RB
+bayrı JJ
+bayrılık NN
+baysal JJ
+baysallık NN
+baysungur NN
+baytar NN
+baytarlık NN
+baz JJ
+baz NN
+baza NN
+bazal JJ
+bazalı JJP
+bazalt NN
+bazasız JJN
+bazen RB
+bazı DT
+bazı bazı RB
+bazısı PN
+baziçe NN
+bazidiyospor NN
+bazik JJ
+bazilika NN
+bazit NN
+bazitli JJ
+bazlama NN
+bazlamaç NN
+bazlaşma NN
+bazofil NN
+bazofobi NN
+bazuka NN
+be EX
+bebe NN
+bebecik NN
+bebek NN
+bebekçe RB
+bebekleşme NN
+bebekleş IVB
+bebeklik NN
+beberuhi NN
+Beberuhi NN
+becayiş NN
+becelleşme NN
+becelleş IVB
+becerebilme NN
+becerebil VB
+beceri NN
+becerikli JJP
+beceriklilik NN
+beceriksiz JJN
+beceriksizce RB
+beceriksizleşme NN
+beceriksizleş IVB
+beceriksizlik NN
+becerilme NN
+beceril IVB
+beceriş NN
+beceriverme NN
+beceriver VB
+becerme NN
+becer VB
+becertme NN
+becert VB
+becet NN
+Beçene NN
+Beç tavuğu NN
+bed JJ
+bedahet NN
+bedaheten RB
+bedava JJ
+bedavacı NN
+bedavacılık NN
+bedavadan RB
+bedavadan ucuz JJ
+bedavalaşma NN
+bedavalaş IVB
+bedavalık NN
+bedavasına RB
+bedavaya RB
+bedayi NN
+bedbaht JJ
+bedbahtlık NN
+bedbin JJ
+bedbinleşme NN
+bedbinleş IVB
+bedbinleştirme NN
+bedbinleştir VB
+bedbinlik NN
+beddua NN
+bedel NN
+bedelci NN
+bedelli JJP
+bedelsiz JJN
+bedelsizlik NN
+beden NN
+bedence RB
+bedenci NN
+bedenen RB
+bedenî JJ
+bedenleşme NN
+bedenleş IVB
+bedensel JJ
+bedensellik NN
+bedesten NN
+bedevi NN
+bedevilik NN
+bedhah JJ
+bedhahlık NN
+bedihi JJ
+bedii JJ
+bediileşme NN
+bediileş IVB
+bediilik NN
+bediiyat NN
+bedik NN
+bedir NN
+bedirik NN
+bedirlenme NN
+bedirlen IVB
+bednam JJ
+bedük NN
+begayet RB
+Begdili NN
+begonvil NN
+begonya NN
+begonyagil NN
+begüm NN
+beğence NN
+beğendirebilme NN
+beğendirebil VB
+beğendirilme NN
+beğendiril IVB
+beğendirme NN
+beğendir VB
+beğendirtme NN
+beğendirt VB
+beğenebilme NN
+beğenebil VB
+beğeni NN
+beğenili JJP
+beğenilir JJ
+beğenilirlik NN
+beğeniliş NN
+beğenilme NN
+beğenil IVB
+beğenir JJ
+beğenirlik NN
+beğenirlilik NN
+beğenisiz JJN
+beğeniş NN
+beğeniverme NN
+beğeniver VB
+beğenme NN
+beğen VB
+beğenmemezlik NN
+beğenmezlik NN
+behemehâl RB
+beher JJ
+beherglas NN
+behey EX
+behime NN
+behimi JJ
+behimilik NN
+behişt NN
+behre NN
+behresiz JJ
+beis NN
+bej NN
+bej JJ
+bek JJ
+bek NN
+beka NN
+bekar NN
+bekâr NN
+bekâret NN
+bekârhane NN
+bekârlık NN
+bekas NN
+bekçi NN
+bekçilik NN
+Bekilli NN
+bekiniş NN
+bekinme NN
+bekin IVB
+bekitme NN
+bekit VB
+bekleme NN
+beklemek NN
+beklemeli JJ
+beklenebilme NN
+beklenebil IVB
+beklenilme NN
+beklenil IVB
+bekleniş NN
+beklenme NN
+beklenmedik JJ
+beklen IVB
+beklenmez JJ
+beklenmezlik NN
+beklenti NN
+bekleşme NN
+bekleş IVB
+bekletebilme NN
+bekletebil VB
+bekletilebilme NN
+bekletilebil IVB
+bekletiliş NN
+bekletilme NN
+bekletil IVB
+bekletiş NN
+bekletiverme NN
+bekletiver VB
+bekletme NN
+beklet VB
 bekletme süresi
 bekleyebilme
 bekleyebilmek
@@ -7267,7 +6792,7 @@ belgisizlik
 belgisiz sıfat
 belgisiz zamir
 belgit
-beli
+beli RP
 beli bükük
 beli büküklük
 beliğ
@@ -7480,7 +7005,7 @@ beniçinci
 beniçincilik
 benildeme
 benildemek
-benimki
+benimki PN
 benimseme
 benimsemek
 benimsenebilme
@@ -7634,10 +7159,10 @@ berhane
 berhava
 berhayat
 berhudar
-beri
+beri RP
 beribenzer
 beriberi
-beriki
+beriki PN
 beril
 berilyum
 berjer
@@ -8378,7 +7903,7 @@ bildirmek
 bildirme kipi
 bildirtme
 bildirtmek
-bile
+bile IJ
 bile bile
 bilebilme
 bilebilmek
@@ -8443,7 +7968,7 @@ bileyleme
 bileylemek
 bilezik
 bilezikli
-bilfarz
+bilfarz RP
 bilfiil
 bilge
 bilgece
@@ -8885,7 +8410,7 @@ birler
 birleşebilme
 birleşebilmek
 birleşen
-birleşik
+birleşik JJP
 birleşik ad
 birleşik cümle
 birleşik fiil
@@ -8920,7 +8445,7 @@ birleştiriş
 birleştiriverme
 birleştirivermek
 birleştirme
-birleştirmek
+birleştir VBP
 birli
 birlik
 birlikte
@@ -9014,19 +8539,19 @@ bitey
 bitik
 bitiklik
 bitim
-bitimli
+bitimli JJP
 bitimlilik
-bitimsiz
+bitimsiz JJN
 bitimsizlik
 bitirebilme
-bitirebilmek
+bitirebil VBN
 bitirilebilme
-bitirilebilmek
+bitirilebil IVBN
 bitiriliş
 bitiriliverme
-bitirilivermek
+bitiriliver IVBN
 bitirilme
-bitirilmek
+bitiril IVBN
 bitirim
 bitirimci
 bitirimcilik
@@ -9036,17 +8561,17 @@ bitirim yeri
 bitiriş
 bitiriş yemi
 bitiriverme
-bitirivermek
+bitiriver VBN
 bitirme
 bitirme fiili
-bitirmek
+bitir VBN
 bitirmiş
 bitirmişlik
 bitirtme
-bitirtmek
+bitirt VBN
 bitiş
 bitişebilme
-bitişebilmek
+bitişebil IVB
 bitişik
 bitişik çanak yapraklılar
 bitişik kelime
@@ -9114,7 +8639,7 @@ Bitlis köftesi
 Bitlisli
 Bitlislilik
 bitme
-bitmek
+bit IVBN
 bitmişi
 bitnik
 bit otu
@@ -14980,7 +14505,7 @@ cüzzamlı
 çoğunlukla
 çoğunluk sistemi
 çoğurcuk
-çok
+çok DT
 çokal
 çok anlamlı
 çok anlamlılık
@@ -15428,7 +14953,7 @@ cüzzamlı
 çükür
 çülaki
 Çüngüş 
-çünkü
+çünkü IJ
 çürük
 çürük boya
 çürük çarık
@@ -15460,8 +14985,8 @@ cüzzamlı
 çürüyüverme
 çürüyüvermek
 çüş
-d
-da / de
+da IJ
+de IJ
 Dadacı
 Dadacılık
 Dadaist
@@ -15599,7 +15124,7 @@ daha
 daha bir
 daha daha
 dahası
-dahi 
+dahi IJ
 dâhi
 dâhice
 dahil
@@ -16469,7 +15994,7 @@ değim
 değimli
 değimsiz
 değimsizlik
-değin
+değin RP
 değinebilme
 değinebilmek
 değini
@@ -16582,7 +16107,7 @@ dejenere
 dejenereleşme
 dejenereleşmek
 dejenerelik
-dek
+dek RP
 dekadan
 dekadanlık
 dekadans
@@ -16737,7 +16262,7 @@ dembedem
 demci
 deme
 demeç
-demek
+demek IJ
 demet
 demetçi
 demetçik
@@ -17128,7 +16653,7 @@ denkleştirmek
 denklik
 denktaş
 denktaşlık
-denli
+denli RP
 denli densiz
 denlilik
 denme
@@ -17228,7 +16753,8 @@ derebeylik
 derebilme
 derebilmek
 Derebucak
-derece
+derece RP
+derece NN
 derece derece
 dereceleme
 derecelemek
@@ -18953,7 +18479,9 @@ doğratmak
 doğrayabilme
 doğrayabilmek
 doğrayış
-doğru
+doğru JJ
+doğru NN
+doğru RP
 doğru açı
 doğru akım
 doğruca
@@ -20819,7 +20347,7 @@ eğeleme
 eğelemek
 eğelenme
 eğelenmek
-eğer
+eğer IJ
 eğiç
 eğik
 eğik biçme
@@ -22986,7 +22514,7 @@ evelemek gevelemek
 everme
 evermek
 ev eşyası
-evet
+evet RP
 evet efendimci
 evet efendimcilik
 evetleme
@@ -23318,7 +22846,7 @@ faizli
 faiz oranı
 faizsiz
 fak
-fakat
+fakat IJ
 fakfon
 Fak Fuk Fonu
 fakih
@@ -25597,7 +25125,7 @@ gençleştirme
 gençleştirmek
 gençlik
 gençten
-gene
+gene IJ
 genel
 genel af
 Genel Ağ
@@ -25774,8 +25302,8 @@ gerebilmek
 gereç
 Gerede 
 gereğince
-gerek
-gerek ... gerek ...
+gerek NN
+gerek IJ
 gerekçe
 gerekçelendirme
 gerekçelendirmek
@@ -26115,7 +25643,7 @@ gıybetçilik
 gıygıy
 gıy gıy
 gıygıycı
-gibi
+gibi RP
 gibilerden
 gibisi
 gibisinden
@@ -27960,7 +27488,7 @@ güzlük
 güz noktası
 güzün
 h
-ha
+ha RP
 hab
 habanera
 habaset
@@ -28271,7 +27799,8 @@ halayıklı
 halayıklık
 halaza
 halazade
-hâlbuki
+halbuki IJ
+hâlbuki IJ
 hal çaresi
 hâl değişimi
 haldır haldır
@@ -29076,7 +28605,7 @@ hatiplik
 hatmetme
 hatmetmek
 hatmi
-hatta
+hatta IJ
 hattat
 hattatlık
 hattıhareket
@@ -29317,8 +28846,8 @@ hayıf
 hayıflanış
 hayıflanma
 hayıflanmak
-hayır 
-hayır
+hayır RP
+hayır NN
 hayır dua
 hayırhah
 hayırhahlık
@@ -29494,8 +29023,7 @@ hazret
 Hazro 
 hazzetme
 hazzetmek
-ha  ha 
-he
+he RP
 heba
 hebenneka
 heccav
@@ -29556,14 +29084,14 @@ helalli
 helallik
 helalühoş
 helalzade
-hele
+hele IJ
 helecan
 helecanlanma
 helecanlanmak
 hele hele
 Helen
 Helenist
-Helenistik
+Helenistik
 Helenizm
 helezon
 helezoni
@@ -29603,7 +29131,7 @@ helyodor
 helyograf
 helyoterapi
 helyum
-hem
+hem IJ
 hemati
 hematit
 hematolog
@@ -29641,7 +29169,6 @@ hemşirezade
 hemze
 hemzemin
 hemzemin geçit
-hem  hem 
 hendek
 hendese
 hendesi
@@ -29664,7 +29191,7 @@ heple hiç ilkesi
 hepsi
 hepten
 hepyek
-her
+her DT
 her bir
 her biri
 herbivor
@@ -31386,7 +30913,7 @@ içilmek
 içim
 içimli
 içimlik
-için
+için RP
 içinde
 içindekiler
 içine kapanık
@@ -32004,7 +31531,7 @@ iktisatsız
 iktisatsızlık
 iktiza
 il
-ila
+ila RP
 ilaç
 ilaç bilimi
 ilaçlama
@@ -32046,7 +31573,7 @@ ilca
 ilçe
 ilçebay
 ilçeli
-ile
+ile IJ
 ilek
 ilelebet
 ilenç
@@ -33098,6 +32625,7 @@ isabetsizlik
 isal
 isale
 İscehisar
+ise IJ
 İsevi
 İsevilik
 isfendan
@@ -33690,7 +33218,7 @@ iştahlılık
 iştahsız
 iştahsızca
 iştahsızlık
-işte
+işte RP
 işteş
 işteş çatı
 işteş fiil
@@ -34436,7 +33964,7 @@ kaçma
 kaçmak
 kaçmaklık
 kaçta
-kadar
+kadar RP
 kadastro
 kadastrolama
 kadastrolamak
@@ -37944,7 +37472,7 @@ kelleci
 kellecilik
 kelleşme
 kelleşmek
-kelli
+kelli RP
 kelli felli
 kellik
 keloğlan
@@ -39008,7 +38536,7 @@ kısa
 kısabilme
 kısabilmek
 kısaca
-kısacası
+kısacası IJ
 kısacık
 kısa çizgi
 kısa dalga
@@ -39494,7 +39022,7 @@ kızmemesi
 kızoğlan
 kızoğlankız
 kız tavlası
-ki
+ki IJ
 kibar
 kibarca
 kibarcasına
@@ -43224,7 +42752,8 @@ lakırtı
 lakırtıcı
 lakırtı ebesi
 lakırtı kavafı
-lakin
+lakin IJ
+lâkin IJ
 laklak
 laklaka
 laklakiyat
@@ -44049,9 +43578,9 @@ maddiyat
 maddiyatçı
 maddiyatçılık
 maddiyet
-maddi zarar 
-madem
-mademki
+maddi zarar
+madem IJ
+mademki IJ
 maden
 maden bilimi
 maden bilimsel
@@ -45788,7 +45317,7 @@ mesame
 mesane
 mescit
 mesel
-mesela
+mesela RP
 mesele
 meseleli
 meselesiz
@@ -46192,7 +45721,10 @@ mezür
 mezzo
 mezzosoprano
 Mg
-mı / mi
+mı RP
+mi RP
+mu RP
+mü RP
 mıcır
 mıgır
 mıgırlık
@@ -48570,6 +48102,7 @@ nasbetme
 nasbetmek
 nasfet
 nasıl
+nasıl ki IJ
 nasılsa
 nasıp
 nasır
@@ -48695,7 +48228,7 @@ nazmetme
 nazmetmek
 Nb
 Nd
-ne
+ne IJ
 ne âlâ
 nebat
 nebatat
@@ -48953,6 +48486,8 @@ netlik
 net resim
 net ücret
 neuzübillah
+ne var ki IJ
+ne yazık ki IJ
 nev
 neva
 nevabuselik
@@ -48983,7 +48518,7 @@ Nevyunanilik
 nevzat
 ney
 neyçe
-neyse
+neyse IJ
 neyzen
 neyzen bakışlı
 neyzenlik
@@ -49159,7 +48694,7 @@ nişastalı
 nişastasız
 nişasta şekeri
 nite
-nitekim
+nitekim IJ
 nitel
 niteleme
 nitelemek
@@ -49790,7 +49325,7 @@ olaylaştırmak
 olaylı
 olaysız
 olçum
-oldu
+oldu RP
 oldubitti
 oldukça
 oldum bittim
@@ -49845,6 +49380,7 @@ olmamışlık
 olmaz
 olmazlı
 olmazlık
+olmazsa IJ
 olmazsa olmaz
 olmuş
 olmuşluk
@@ -49894,8 +49430,9 @@ olunabilmek
 olunma
 olunmak
 olupbitti
-olur
+olur RP
 olurluk
+olursa IJ
 olur olmaz
 oluru
 oluş
@@ -50774,8 +50311,8 @@ oynayıvermek
 o yolda
 o yönden
 oy pusulası
-oysa
-oysaki
+oysa IJ
+oysaki IJ
 oy sandığı
 oyuk
 oyuklu
@@ -51534,7 +51071,7 @@ ozuga
 örmek
 örme kepenek
 örmeli
-örneğin
+örneğin RP
 örnek
 örneklem
 örnekleme
@@ -51726,12 +51263,13 @@ ozuga
 öykünmek
 öykünüş
 öyle
+öyle ki IJ
 öylece
 öylelikle
 öyle öyle
 öylesi
 öylesine
-öyleyse
+öyleyse IJ
 öz
 Özalp
 öz bağışıklık
@@ -52924,7 +52462,7 @@ pek çok
 pek doku
 pekent
 pek gözlü
-peki
+peki RP
 Pekin ördeği
 pekişilme
 pekişilmek
@@ -56510,7 +56048,7 @@ sanitasyon
 saniye
 saniyelik
 saniyesi saniyesine 
-sanki
+sanki IJ
 sanlı
 sanma
 sanmak
@@ -57003,7 +56541,8 @@ savaş
 savaşabilme
 savaşabilmek
 savaş alanı
-savaşçı
+savaşçı NN
+savaşçı JJN
 savaşçılık
 savaş düzeni
 savaş gemisi
@@ -60387,8 +59926,8 @@ söz ebesi
 söz ehli
 sözel
 sözel öğrenme
-söz gelimi
-söz gelişi
+söz gelimi RP
+söz gelişi RP
 söz gösterisi
 sözgötürmez
 söz hazinesi
@@ -60435,7 +59974,7 @@ söz sırası
 sözsüz
 sözsüzlük
 sözsüz oyun
-söz temsili
+söz temsili RP
 söz ustası
 sözüm ona
 sözüne sahip
@@ -61953,7 +61492,7 @@ süzüş
 şayak
 şayan
 şayeste
-şayet
+şayet IJ
 şayi
 şayia
 şayka
@@ -63285,7 +62824,7 @@ tamahkâr
 tamahkârlık
 tam algı
 tam altın
-tamam
+tamam RP
 tamamen
 tamamı tamamına
 tamamıyla
@@ -64308,7 +63847,7 @@ tayyör
 tazallüm
 tazammun
 tazarru
-taze
+taze JJP
 tazece
 taze fasulye
 tazekan
@@ -65096,7 +64635,7 @@ temposuzluk
 temren
 temrin
 temriye
-temsil
+temsil RP
 temsilci
 temsilcilik
 temsilî
@@ -68968,7 +68507,7 @@ uzviyet
 üstelenme
 üstelenmek
 üsteleyiş
-üstelik
+üstelik IJ
 üstenci
 üstencilik
 üstenme
@@ -69108,7 +68647,7 @@ uzviyet
 üzengisiz
 üzengi taşı
 üzenti
-üzere
+üzere RP
 üzeri
 üzerinde
 üzerine
@@ -69536,7 +69075,7 @@ vazo
 vazoluk
 vazolunma
 vazolunmak
-ve
+ve IJ
 veba
 vebal
 vebalı
@@ -69605,7 +69144,7 @@ veledrom
 velense
 velespit
 velet
-velev ki
+velev ki IJ
 velhasıl
 velhasılıkelam
 veli
@@ -69751,8 +69290,8 @@ veterinerlik
 vetire
 veto
 veto hakkı
-veya
-veyahut
+veya IJ
+veyahut IJ
 vezaret
 vezikül
 vezin
@@ -70081,7 +69620,8 @@ vüsat
 vüzera
 V yaka
 y
-ya
+ya EX
+ya RP
 yaba
 yabalama
 yabalamak
@@ -70167,7 +69707,7 @@ yaban yasemini
 yabgu
 yad 
 yâd
-ya da
+ya da IJ
 yada taşı
 yad el
 yad eller
@@ -70339,7 +69879,7 @@ Yahudi pazarlığı
 Yahudi takvimi
 Yahudi tapınağı
 Yahudi tavlası
-yahut
+yahut IJ
 Yahyalı 
 yak
 yaka
@@ -70639,7 +70179,8 @@ yalı yar
 yalız
 yallah
 yalman
-yalnız
+yalnız JJ
+yalnız IJ
 yalnız başına
 yalnızca
 yalnızcı
@@ -72591,6 +72132,7 @@ yeteneksiz
 yeteneksizce
 yeteneksizlik
 yeter
+yeter ki IJ
 yeterince
 yeterli
 yeterli beslenme
@@ -72978,7 +72520,7 @@ yiğitleşme
 yiğitleşmek
 yiğitlik
 yilbik
-yine
+yine IJ
 yineleme
 yinelemek
 yinelemeli
@@ -73104,7 +72646,7 @@ yoğuşmalı
 yoğuşturma
 yoğuşturmak
 yoğuşturucu
-yok
+yok RP
 yokçu
 yokçuluk
 yoklama
@@ -73125,7 +72667,7 @@ yokluk
 yokluk eki
 yokoğluyok
 yok pahasına
-yoksa
+yoksa IJ
 yoksul
 yoksullaşma
 yoksullaşmak
@@ -74655,7 +74197,7 @@ zindeleştirmek
 zindelik
 zinhar
 zir
-zira
+zira IJ
 ziraat
 ziraatçı
 ziraatçılık
@@ -74826,4 +74368,4 @@ zürriyetli
 zürriyetsiz
 zürriyetsizlik
 züyuf
-züyuf akçeee
+züyuf akçe
