@@ -10,7 +10,8 @@ namespace TurkishTextContradictionAnalysis
     {	
 		// NOUN-BASED
         PLU,  // -lar, -ler 									Plural Suffix
-		ACC,  // -ı, -i, -u, -ü 								Accusative Case
+		ACC,  // -ı, -i, -u, -ü, -sı, -si, -su, -sü,
+		//		 -yı, -yi, -yu, -yü, -nı, -ni, -nu, -nü  		Accusative Case
 		DAT,  // -a, -e 										Dative Case
 		LOC,  // -da, -de, -ta, -te 							Locative Case
 		ABL,  // -dan, -den, -tan, -ten 						Ablative Case
@@ -18,7 +19,8 @@ namespace TurkishTextContradictionAnalysis
 		NPH,  // -ın, -in, -un, -ün 							Noun Phrase 	 - Other Cases
 		PSF,  // -m, -ım, -im, -um, -üm 						Possessive Case  - Singular First
 		PSS,  // -n, -ın, -in, -un, -ün 						Possessive Case  - Singular Second
-		PST,  // -ı, -i, -u, -ü, -sı, -si, -su, -sü				Possessive Case  - Singular Third
+		PST,  // -ı, -i, -u, -ü, -sı, -si, -su, -sü,
+		//		 -yı, -yi, -yu, -yü, -nı, -ni, -nu, -nü  		Possessive Case  - Singular Third
 		PPF,  // -mız, -miz, -muz, -müz							Possessive Case  - Plural First
 		PPS,  // -nız, -niz, -nuz, -nüz 						Possessive Case  - Plural Second
 		PPT,  // -ları, -leri 									Possessive Case  - Plural Third

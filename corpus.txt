@@ -578,6 +578,7 @@ adlı NN
 adlılık NN
 adli JJ
 adliye NN
+adli yıl
 adrenalin NN
 adres NN
 adsal JJ
@@ -890,6 +891,7 @@ ağızlıkçı NN
 ağızlıkçılık NN
 ağızotu NN
 ağızsıl JJ
+ağızsıl ünlü
 ağızsız JJN
 ağızsızlık NN
 ağlak JJN
@@ -1136,7 +1138,7 @@ akçıllaşma NN
 akçıllaş VB
 akçıllık NN
 akçöpleme NN
-Akdağmadeni NN
+Akdağmadeni NN 
 akdarı NN
 akdedebilme NN
 akdedebil VB
@@ -1265,7 +1267,7 @@ akkarınca NN
 akkavak NN
 akkefal NN
 akkelebek NN
-Akkışla NN
+Akkışla NN 
 akkor NN
 akkorlaşma NN
 akkorlaş VB
@@ -1557,7 +1559,7 @@ akvarist NN
 akvaryum NN
 akvaryumcu NN
 akvaryumculuk NN
-Akyaka NN
+Akyaka NN 
 Akyazı NN
 Ak Yıldız NN
 Akyurt NN
@@ -1645,7 +1647,7 @@ alaminüt NN
 alan NN
 alan talan JJ
 Alanya NN
-Alaplı NN
+Alaplı NN 
 alarga NN
 alarm NN
 alarma NN
@@ -1787,7 +1789,7 @@ aldırma NN
 aldır VB
 aldırmaz JJ
 aldırmazlık NN
-aldırtabilme NN
+aldırtabilme NN 
 aldırtabil VB
 aldırtma NN
 aldırt VB
@@ -2089,7 +2091,7 @@ allık NN
 allı pullu JJ
 alma NN
 almaç NN
-al VB
+al VBN
 Alman NN
 almanak NN
 Almanca NN
@@ -2107,7 +2109,7 @@ almaşlı JJ
 almazlanma NN
 almazlan VB
 almazlık NN
-Almus NN
+Almus NN 
 alnaç NN
 alnı açık JJ
 alnı açıklık NN
@@ -2239,7 +2241,7 @@ amansızca RB
 amansızcasına RB
 amansızlık NN
 aman zaman NN
-Amasra NN
+Amasra NN 
 Amasya NN
 Amasyalı NN
 Amasyalılık NN
@@ -2336,8 +2338,8 @@ amit NN
 amitoz NN
 amiyane JJ
 amiyanelik NN
-amma IJ
-amma velakin IJ
+amma CO
+amma velakin CO
 amme NN
 amnezi NN
 amniyon NN
@@ -3560,7 +3562,7 @@ asepsi NN
 aseptik JJ
 ases NN
 asesbaşı NN
-asetat NN
+asetat NN 
 asetatlı JJP
 asetik JJ
 asetilen NN
@@ -3663,7 +3665,7 @@ askospor NN
 asla RB
 aslan NN
 aslanağzı NN
-Aslanapa NN
+Aslanapa NN 
 aslanca RB
 aslancasına RB
 aslanımsı JJ
@@ -4418,7 +4420,7 @@ ayıklama NN
 ayıkla VB
 ayıklanabilme NN
 ayıklanabil IVB
-ayıklanış NN
+ayıklanış
 ayıklanıverme NN
 ayıklanıver IVB
 ayıklanma NN
@@ -6325,7 +6327,7 @@ baton NN
 batonsale NN
 batsat RB
 battal JJP
-Battalgazi NN
+Battalgazi NN 
 battallaşma NN
 battallaş IVBP
 battallık NN
@@ -6662,900 +6664,767 @@ bekletiverme NN
 bekletiver VB
 bekletme NN
 beklet VB
-bekleyebilme
-bekleyebilmek
-bekleyedurma
-bekleyedurmak
-bekleyekoyma
-bekleyekoymak
-bekleyiş
-bekleyiverme
-bekleyivermek
-bekri
-bekrilik
-Bektaşi
-Bektaşi babası
-Bektaşi dedesi
-bektaşikavuğu
-Bektaşilik
-Bektaşi sırrı
-Bektaşi üzümü
-bel
-bela
-belagat
-belagatli
-belagatsiz
-bel ağrısı
-belahet
-belalı
-belasız
-belasızlık
-bel bağı
-bel bel
-belce
-Belçikalı
-belde
-beledi
-belediye
-belediye başkanı
-belediyeci
-belediyecilik
-belediye çavuşu
-belediye encümeni
-belediyelik
-belediye meclisi
-belediye nikâhı
-belediye polisi
-belediye reisi
-belediye sarayı
-belediye teşkilatı
-belediye zabıtası
-belek
-beleme
-belemek
-belemir
-belen
-belenme
-belenmek
-belerme
-belermek
-belertme
-belertmek
-beleş
-beleşçi
-beleşçilik
-beleşe
-beleşlik
-beleşten
-beletme
-beletmek
-bel evladı
-beleyiş
-bel fıtığı
-belge
-belgeci
-belgecilik
-belgeç
-belgeçleme
-belgeçlemek
-belgeçletme
-belgeçletmek
-belgegeçer
-belgegeçerleme
-belgegeçerlemek
-belgegeçerletme
-belgegeçerletmek
-belgeleme
-belgelemek
-belgelendirebilme
-belgelendirebilmek
-belgelendirilebilme
-belgelendirilebilmek
-belgelendiriliş
-belgelendirilme
-belgelendirilmek
-belgelendiriş
-belgelendirme
-belgelendirmek
-belgelenebilme
-belgelenebilmek
-belgelenme
-belgelenmek
-belgeletme
-belgeletmek
-belgeleyebilme
-belgeleyebilmek
-belgeleyiverme
-belgeleyivermek
-belgeli
-belgelik
-belgelikçi
-belgelikçilik
-belgesel
-belgeselci
-belgeselcilik
-belgesel film
-belgesiz
-belgesizlik
-belgevşekliği
-belgi
-belgileme
-belgilemek
-belgili
-belgin
-belginlik
-belgisiz
-belgisizlik
-belgisiz sıfat
-belgisiz zamir
-belgit
+bekleyebilme NN
+bekleyebil VB
+bekleyedurma NN
+bekleyedur VB
+bekleyekoyma NN
+bekleyekoy VB
+bekleyiş NN
+bekleyiverme NN
+bekleyiver VB
+bekri JJ
+bekrilik NN
+Bektaşi NN
+bektaşikavuğu NN
+Bektaşilik NN
+bel NN
+bela NN
+belagat NN
+belagatli JJP
+belagatsiz JJN
+belahet NN
+belalı JJP
+belasız JJN
+belasızlık NN
+bel bel RB
+belce NN
+Belçikalı JJ
+belde NN
+beledi JJ
+belediye NN
+belediyeci NN
+belediyecilik NN
+belediyelik NN
+belek NN
+beleme NN
+bele IVB
+belemir NN
+belen NN
+belenme NN
+belen IVB
+belerme NN
+beler IVB
+belertme NN
+belert VB
+beleş JJ
+beleşçi NN
+beleşçilik NN
+beleşe RB
+beleşlik NN
+beleşten RB
+beletme NN
+belet VB
+beleyiş NN
+belge NN
+belgeci NN
+belgecilik NN
+belgeç NN
+belgeçleme NN
+belgeçle VB
+belgeçletme NN
+belgeçlet VB
+belgegeçer NN
+belgegeçerleme NN
+belgegeçerle VB
+belgegeçerletme NN
+belgegeçerlet VB
+belgeleme NN
+belgele VB
+belgelendirebilme NN
+belgelendirebil VB
+belgelendirilebilme NN
+belgelendirilebil IVB
+belgelendiriliş NN
+belgelendirilme NN
+belgelendiril IVB
+belgelendiriş NN
+belgelendirme NN
+belgelendir VB
+belgelenebilme NN
+belgelenebil IVB
+belgelenme NN
+belgelen IVB
+belgeletme NN
+belgelet VB
+belgeleyebilme NN
+belgeleyebil VB
+belgeleyiverme NN
+belgeleyiver VB
+belgeli JJP
+belgelik NN
+belgelikçi NN
+belgelikçilik NN
+belgesel NN
+belgeselci NN
+belgeselcilik NN
+belgesiz JJN
+belgesizlik NN
+belgevşekliği NN
+belgi NN
+belgileme NN
+belgile VB
+belgili JJP
+belgin JJ
+belginlik NN
+belgisiz JJN
+belgisizlik NN
+belgit NN
 beli RP
-beli bükük
-beli büküklük
-beliğ
-belik
-belikleme
-beliklemek
-belinleme
-belinlemek
-belirebilme
-belirebilmek
-belirge
-belirgin
-belirginleşebilme
-belirginleşebilmek
-belirginleşme
-belirginleşmek
-belirginleştirebilme
-belirginleştirebilmek
-belirginleştirilebilme
-belirginleştirilebilmek
-belirginleştirilme
-belirginleştirilmek
-belirginleştirme
-belirginleştirmek
-belirginlik
-beliriş
-beliriverme
-belirivermek
-belirleme
-belirlemek
-belirlenebilme
-belirlenebilmek
-belirlenim
-belirlenimci
-belirlenimcilik
-belirleniş
-belirlenme
-belirlenmek
-belirlenmezci
-belirlenmezcilik
-belirleşme
-belirleşmek
-belirletme
-belirletmek
-belirleyebilme
-belirleyebilmek
-belirleyiş
-belirleyiverme
-belirleyivermek
-belirli
-belirli belirsiz
-belirli geçmiş
-belirlilik
-belirli nesne
-belirme
-belirmek
-belirsiz
-belirsizce
-belirsiz geçmiş
-belirsizleşebilme
-belirsizleşebilmek
-belirsizleşme
-belirsizleşmek
-belirsizleştirebilme
-belirsizleştirebilmek
-belirsizleştirilebilme
-belirsizleştirilebilmek
-belirsizleştirilme
-belirsizleştirilmek
-belirsizleştirme
-belirsizleştirmek
-belirsizlik
-belirsizlik sıfatı
-belirsizlik zamiri
-belirtebilme
-belirtebilmek
-belirteç
-belirten
-belirti
-belirti bilimi
-belirti bilimsel
-belirtik
-belirtilebilme
-belirtilebilmek
-belirtilen
-belirtili
-belirtililik
-belirtili nesne
-belirtiliş
-belirtili tamlama
-belirtilme
-belirtilmek
-belirtisiz
-belirtisizlik
-belirtisiz nesne
-belirtisiz tamlama
-belirtiş
-belirtke
-belirtken
-belirtke tablosu
-belirtme
-belirtme durumu
-belirtme grubu
-belirtmek
-belirtme sıfatı
-belit
-belitken
-belitleme
-belitlemek
-belitlenebilirlik
-belitlenebilme
-belitlenebilmek
-beliye
-bel kemeri
-belkemiği
-bel kemiği
-belki
-belkili
-bel kündesi
-belladonna
-bellek
-bellek daralması
-bellek karışıklığı
-bellek kaybı
-bellek körlüğü
-bellekli
-belleksiz
-belleksizlik
-bellek yitimi
-bellem
-belleme
-bellemek
-bellenebilme
-bellenebilmek
-bellenme
-bellenmek
-belletebilme
-belletebilmek
-belleten
-belletici
-belleticilik
-belletilebilme
-belletilebilmek
-belletilme
-belletilmek
-belletme
-belletmek
-belletmen
-bellettirme
-bellettirmek
-belleyebilme
-belleyebilmek
-belleyiş
-belleyiverme
-belleyivermek
-belli
-belli başlı
-belli belirsiz
-belli belirsizlik
-bellik
-bellilik
-bellisiz
-belsoğukluğu
-bembeyaz
-bembeyazlık
-bemol
+beli bükük JJ
+beli büküklük NN
+beliğ JJ
+belik NN
+belikleme NN
+belikle VB
+belinleme NN
+belinle VB
+belirebilme NN
+belirebil IVB
+belirge NN
+belirgin JJ
+belirgen RB
+belirginleşebilme NN
+belirginleşebil VB
+belirginleşme NN
+belirginleş VB
+belirginleştirebilme NN
+belirginleştirebil VB
+belirginleştirilebilme NN
+belirginleştirilebil IVB
+belirginleştirilme NN
+belirginleştiril IVB
+belirginleştirme NN
+belirginleştir VB
+belirginlik NN
+beliriş NN
+beliriverme NN
+beliriver IVB
+belirleme NN
+belirle VB
+belirlenebilme NN
+belirlenebil IVB
+belirlenim NN
+belirlenimci JJP
+belirlenimcilik NN
+belirleniş NN
+belirlenme NN
+belirlen IVB
+belirlenmezci JJN
+belirlenmezcilik NN
+belirleşme NN
+belirleş IVB
+belirletme NN
+belirlet VB
+belirleyebilme NN
+belirleyebil VB
+belirleyiş NN
+belirleyiverme NN
+belirleyiver VB
+belirli JJP
+belirli belirsiz JJ
+belirlilik NN
+belirme NN
+belir IVB
+belirsiz JJN
+belirsizce RB
+belirsizleşebilme NN
+belirsizleşebil IVB
+belirsizleşme NN
+belirsizleş IVB
+belirsizleştirebilme NN
+belirsizleştirebil VB
+belirsizleştirilebilme NN
+belirsizleştirilebil IVB
+belirsizleştirilme NN
+belirsizleştiril IVB
+belirsizleştirme NN
+belirsizleştir VB
+belirsizlik NN
+belirtebilme NN
+belirtebil VB
+belirteç NN
+belirten NN
+belirti NN
+belirtik JJ
+belirtilebilme NN
+belirtilebil IVB
+belirtilen NN
+belirtili JJP
+belirtililik NN
+belirtiliş NN
+belirtilme NN
+belirtil IVB
+belirtisiz JJN
+belirtisizlik NN
+belirtiş NN
+belirtke NN
+belirtken NN
+belirtme NN
+belirt VB
+belit NN
+belitken NN
+belitleme NN
+belitle VB
+belitlenebilirlik NN
+belitlenebilme NN
+belitlenebil IVB
+beliye NN
+belkemiği NN
+bel kemiği NN
+belki RB
+belki IJ
+belkili JJ
+belladonna NN
+bellek NN
+bellekli JJP
+belleksiz JJN
+belleksizlik NN
+bellem NN
+belleme NN
+belle VB
+bellenebilme NN
+bellenebil IVB
+bellenme NN
+bellen IVB
+belletebilme NN
+belletebil VB
+belleten NN
+belletici NN
+belleticilik NN
+belletilebilme NN
+belletilebil IVB
+belletilme NN
+belletil IVB
+belletme NN
+bellet VB
+belletmen NN
+bellettirme NN
+bellettir VB
+belleyebilme NN
+belleyebil VB
+belleyiş NN
+belleyiverme NN
+belleyiver VB
+belli JJ
+belli başlı JJ
+belli belirsiz RB
+belli belirsiz JJ
+belli belirsizlik NN
+bellik NN
+bellilik NN
+bellisiz JJ
+belsoğukluğu NN
+bembeyaz JJ
+bembeyazlık NN
+bemol NN
 ben NN
 ben PN
-benbenci
-benbencilik
-bence
-benci
-bencil
-bencilce
-bencilcesine
-bencileyin
-bencilik
-bencilleşebilme
-bencilleşebilmek
-bencilleşme
-bencilleşmek
-bencillik
-bende
-bendegân
-bendehane
-bendezade
-bendir
-benek
-beneklenebilme
-beneklenebilmek
-benekleniverme
-beneklenivermek
-beneklenme
-beneklenmek
-benekleşme
-benekleşmek
-benekli
-benekli köpek balığı
-beneklilik
-bengi
-bengileşme
-bengileşmek
-bengileştirme
-bengileştirmek
-bengilik
-bengi su
-beniâdem
-benibeşer
-beniçinci
-beniçincilik
-benildeme
-benildemek
+benbenci JJ
+benbencilik NN
+bence RB
+benci JJ
+bencil JJ
+bencilce RB
+bencilcesine RB
+bencileyin RB
+bencilik NN
+bencilleşebilme NN
+bencilleşebil IVB
+bencilleşme NN
+bencilleş IVB
+bencillik NN
+bende NN
+bendegân NN
+bendehane NN
+bendezade NN
+bendir NN
+benek NN
+beneklenebilme NN
+beneklenebil IVB
+benekleniverme NN
+benekleniver IVB
+beneklenme NN
+beneklen IVB
+benekleşme NN
+benekleş IVB
+benekli JJ
+beneklilik NN
+bengi JJ
+bengileşme NN
+bengileş IVB
+bengileştirme NN
+bengileştir VB
+bengilik NN
+beniâdem NN
+benibeşer NN
+beniçinci JJ
+beniçincilik NN
+benildeme NN
+benildemek NN
 benimki PN
-benimseme
-benimsemek
-benimsenebilme
-benimsenebilmek
-benimseniş
-benimseniverme
-benimsenivermek
-benimsenme
-benimsenmek
-benimsetebilme
-benimsetebilmek
-benimsetilebilme
-benimsetilebilmek
-benimsetiliş
-benimsetilme
-benimsetilmek
-benimsetiş
-benimsetme
-benimsetmek
-benimsettirme
-benimsettirmek
-benimseyebilme
-benimseyebilmek
-benimseyiş
-benimseyiverme
-benimseyivermek
-beniz
-benlenme
-benlenmek
-benli
-benlik
-benlik çatışması
-benlikçi
-benlikçilik
-benlik davası
-benlik ikileşmesi
-benlik yitimi
-benmari
-benmerkezci
-benmerkezcilik
-bensiz
-bent
-benzeme
-benzemek
-benzemeklik
-benzemez
-benzemezlik
-benzen
-benzer
-benzeri
-benzerlik
-benzersiz
-benzersizleşme
-benzersizleşmek
-benzersizlik
-benzer şekiller
-benzeş
-benzeşen
-benzeşik
-benzeşiklik
-benzeşim
-benzeşim oranı
-benzeşlik
-benzeşme
-benzeşmek
-benzeşmezlik
-benzeştirme
-benzeştirmek
-benzetebilme
-benzetebilmek
-benzeti
-benzetici ressam
-benzetilebilme
-benzetilebilmek
-benzetilme
-benzetilmek
-benzetim
-benzeti ressamı
-benzetiş
-benzetme
-benzetmek
-benzetmeli
-benzeyebilme
-benzeyebilmek
-benzeyiş
-benzeyişsizlik
-benzin
-benzinci
-benzincilik
-benzin göstergesi
-benzin istasyonu
-benzinleme
-benzinlemek
-benzinli
-benzinlik
-benzin pompası
-benzol
-beraat
-beraatizimmet
-beraber
-beraberce
-beraberinde
-beraberlik
-beraberlik müziği
-berat
-Berat Gecesi
-Berat Kandili
-berbat
-berber
-berber balığı
-Berberi
-Berberice
-berber koltuğu
-berberlik
-berber salonu
-berceste
-berdel
-berdelacuz
-berdevam
-berduş
-berduşluk
-bere
-bereket
-bereketlendirme
-bereketlendirmek
-bereketlenebilme
-bereketlenebilmek
-bereketlenme
-bereketlenmek
-bereketli
-bereketlilik
-bereketsiz
-bereketsizleşme
-bereketsizleşmek
-bereketsizlik
-bereleme
-berelemek
-berelenebilme
-berelenebilmek
-berelenme
-berelenmek
-bereleyebilme
-bereleyebilmek
-bereli
-berenarı
-Bergama 
-bergamodi
-bergamot
-bergüzar
-berhane
-berhava
-berhayat
-berhudar
+benimseme NN
+benimse VB
+benimsenebilme NN
+benimsenebil IVB
+benimseniş NN
+benimseniverme NN
+benimseniver IVB
+benimsenme NN
+benimsen IVB
+benimsetebilme NN
+benimsetebil VB
+benimsetilebilme NN
+benimsetilebil IVB
+benimsetiliş NN
+benimsetilme NN
+benimsetil IVB
+benimsetiş NN
+benimsetme NN
+benimset VB
+benimsettirme NN
+benimsettir VB
+benimseyebilme NN
+benimseyebil VB
+benimseyiş NN
+benimseyiverme NN
+benimseyiver VB
+beniz NN
+benlenme NN
+benlen IVB
+benli JJP
+benlik NN
+benlikçi JJ
+benlikçilik NN
+benmari NN
+benmerkezci JJ
+benmerkezcilik NN
+bensiz JJN
+bent NN
+benzeme NN
+benze IVB
+benzemeklik NN
+benzemez NN
+benzemezlik NN
+benzen NN
+benzer JJP
+benzeri NN
+benzerlik NN
+benzersiz JJN
+benzersizleşme NN
+benzersizleş IVB
+benzersizlik NN
+benzeş JJP
+benzeşen NN
+benzeşik JJP
+benzeşiklik NN
+benzeşim NN
+benzeşlik NN
+benzeşme NN
+benzeş IVB
+benzeşmezlik NN
+benzeştirme NN
+benzeştir VB
+benzetebilme NN
+benzetebil VB
+benzeti NN
+benzetilebilme NN
+benzetilebil IVB
+benzetilme NN
+benzetil IVB
+benzetim NN
+benzetiş NN
+benzetme NN
+benzet VB
+benzetmeli JJ
+benzeyebilme NN
+benzeyebil IVB
+benzeyiş NN
+benzeyişsizlik NN
+benzin NN
+benzinci NN
+benzincilik NN
+benzinleme NN
+benzinle VB
+benzinli JJP
+benzinlik NN
+benzol NN
+beraat NN
+beraatizimmet NN
+beraber JJ
+beraber RP
+beraber RB
+beraberce RB
+beraberinde RB
+beraberlik NN
+berat NN
+berbat JJ
+berber NN
+Berberi NN
+Berberice NN
+berberlik NN
+berceste JJ
+berdel NN
+berdelacuz NN
+berdevam JJ
+berduş NN
+berduş JJ
+berduşluk NN
+bere NN
+bereket NN
+bereketlendirme NN
+bereketlendir VB
+bereketlenebilme NN
+bereketlenebil VB
+bereketlenme NN
+bereketlen IVB
+bereketli JJP
+bereketlilik NN
+bereketsiz JJN
+bereketsizleşme NN
+bereketsizleş IVB
+bereketsizlik NN
+bereleme NN
+berele VB
+berelenebilme NN
+berelenebil IVB
+berelenme NN
+berelen IVB
+bereleyebilme NN
+bereleyebil VB
+bereli JJP
+berenarı RB
+Bergama NN
+bergamodi JJ
+bergamodi NN
+bergamot NN
+bergüzar NN
+berhane JJ
+berhava JJ
+berhayat JJ
+berhudar JJ
 beri RP
-beribenzer
-beriberi
+beribenzer JJ
+beriberi NN
 beriki PN
-beril
-berilyum
-berjer
-berk
-berkelyum
-berkemal
-berkime
-berkimek
-berkinme
-berkinmek
-berkitilme
-berkitilmek
-berkitme
-berkitmek
-berklik
-bermuda
-bermutat
-berrak
-berraklaşabilme
-berraklaşabilmek
-berraklaşma
-berraklaşmak
-berraklaştırabilme
-berraklaştırabilmek
-berraklaştırılma
-berraklaştırılmak
-berraklaştırma
-berraklaştırmak
-berraklık
-berri
-bertafsil
-bertaraf
-bertik
-bertilme
-bertilmek
-bertme
-bertmek
-berzah
-besalet
-besbedava
-besbelli
-besbellilik
-besbeter
-beserek
-besi
-besici
-besicilik
-besi doku
-besi dokulu
-besi dokusu
-besi dokusuz
-besihane
-besi hayvanı
-besili
-besi merası
-besin
-besinli
-besinsiz
-besinsizlik
-besi örü
-besi suyu
-besi yeri
-beslek
-besleme
-besleme basın
-besleme basıncı
-besleme gerilimi
-beslemek
-besleme kız
-beslemelik
-besleme noktası
-beslenebilme
-beslenebilmek
-beslenen
-beslengi
-beslenilme
-beslenilmek
-besleniş
-beslenme
-beslenme bozukluğu
-beslenme çantası
-beslenme eğitimcisi
-beslenme eğitimi
-beslenmek
-beslenme odası
-beslenme saati
-beslenme sorunu
-beslenme uzmanı
-beslenme yetersizliği
-besletebilme
-besletebilmek
-besletme
-besletmek
-besleyebilme
-besleyebilmek
-besleyici
-besleyicilik
-besleyiş
-besmele
-besmelesiz
-besni
-beste
-besteci
-bestecilik
-bestekâr
-bestekârlık
-besteleme
-bestelemek
-bestelenebilme
-bestelenebilmek
-besteleniş
-bestelenme
-bestelenmek
-besteletme
-besteletmek
-besteleyebilme
-besteleyebilmek
-besteleyiş
-besteleyiverme
-besteleyivermek
-besteli
-bestelik
-bestenigâr
-bestesiz
-beş
-beşamel
-beşaret
-beş beter
-beşbıyık
-beş binlik
-beş bir
-beş dört
-beş duyu
-beşer
-beşerî
-beşerî coğrafya
-beşeriyet
-beşeriyetçi
-beşeriyetçilik
-beşerli
-beşgen
-beşibirarada
-beşibirlik
-beşibiryerde
-beşik
-beşikçi
-beşikçilik
-Beşikdüzü 
-beş iki
-beşik kertiği
-beşik kertme
-beşiklik
-beşik ölümü
-beşikörtüsü
-beşik salıncak
-Beşiktaş 
-beşinci
-beşinci ayak
-beşinci kol
-beşincilik
-Beşiri 
-beşiz
-beşizli
-beşkardeş
-beşleme
-beşlemek
-beşli
-beşli ganyan
-beşlik
-beşme
-beş milyonluk
-beşon
-beş on
-beş para
-beş paralık
-beş parasız
-beş parasızlık
-beşparmak
-beşparmak otu
-beşpençe
-beştaş
-beşuş
-beş üç
-beş vakit
-beş yüzlü
-beş yüzlük
-bet 
-beta
-beta ışınları
-betatron
-betelenme
-betelenmek
-beter
-beterleşebilme
-beterleşebilmek
-beterleşme
-beterleşmek
-beti
-betik
-betili
-betili sanat
-betim
-betimleme
-betimlemeci
-betimlemecilik
-betimlemek
-betimlemeli
-betimlemeli dil bilgisi
-betimlenebilme
-betimlenebilmek
-betimleniş
-betimlenme
-betimlenmek
-betimleyebilme
-betimleyebilmek
-betimleyiş
-betimleyiverme
-betimleyivermek
-betimsel
-betimsel dil bilgisi
-betimsellik
-betisiz
-betisiz sanat
-beton
-betonarme
-betoncu
-betonculuk
-betoniyer
-betonkarar
-betonlaşma
-betonlaşmak
-betonlaştırma
-betonlaştırmak
-betonlu
-beton santrali
-beton soğutma
-betonsu
-betonumsu
-bet suratlı
-bet suratlılık
-bevliye
-bevliyeci
-bevliyecilik
-bevvap
-bey
-beyaban
-Beyağaç
-beyan
-beyanat
-beyan değeri
-beyanname
-bey armudu
-beyaz
-beyaz adam
-beyaz baston
-beyaz bayrak
-beyaz cam
-beyaz dizi
-beyaz eşya
-beyaz et
-beyazımsı
-beyazımtırak
-beyaz ırk
-beyaz iş
-beyaz kitap
-beyaz kömür
-beyazlanma
-beyazlanmak
-beyazlaşma
-beyazlaşmak
-beyazlaştırma
-beyazlaştırmak
-beyazlatabilme
-beyazlatabilmek
-beyazlatıcı
-beyazlatılma
-beyazlatılmak
-beyazlatma
-beyazlatmak
-beyazlı
-beyazlık
-beyaz oy
-beyaz perde
-beyaz peynir
-Beyaz Rus
-beyazsinek
-beyaz şarap
-beyaztilki
-beyaz yakalı
-beyaz yalan
-beyaz zehir
-beybaba
-Beydağ 
-beyefendi
-beyefendilik
-bey erki
-beygir
-beygirci
-beygircilik
-beygir gücü
-beygirli
-beygirlik
-beygirsiz
-beyhude
-beyhudeleşme
-beyhudeleşmek
-beyhudeleştirme
-beyhudeleştirmek
-beyhudelik
-beyhude yere
-beyin
-beyin cerrahı
-beyin cerrahisi
-beyincik
-beyin çizgesi
-beyin çizgesi yöntemi
-beyin fırtınası
-beyin göçü
-beyin gücü
-beyin jimnastiği
-beyin kabuğu
-beyin kanaması
-beyin karıncıkları
-beyinli
-beyin omurilik sıvısı
-beyinorağı
-beyinsel
-beyinsellik
-beyinsi
-beyinsiz
-beyinsizce 
-beyinsizlik
-beyin takımı
-beyin üçgeni
-beyin yangısı
-beyin zarı
-beyin zarları
-beyit
-beyitli
-bey kardeş
-Beykoz
-beylerbeyi
-beylik
-beylikçi
-Beylikdüzü
-Beylikova 
-beylik söz
-beylik tabanca
-beynamaz
-beynamazlık
-beynelmilel
-beynelmilelci
-beynelmilelcilik
-beyninde
-Beyoğlu 
-Beypazarı 
-Beypazarı kurusu
-bey soylu
-Beyşehir 
-beyti kebabı
-beytülmal
-Beytüşşebap
-beyyine
-beyzade
-beyzadelik
-beyzbol
-beyzbolcu
-beyzbolculuk
-beyzbol sopası
-beyzi
-bez
-bezci
-bezcilik
-bezdirebilme
-bezdirebilmek
-bezdiri
-bezdirici
-bezdirilebilme
-bezdirilebilmek
-bezdirilme
-bezdirilmek
-bezdirme
-bezdirmek
-beze
-bezebilme
-bezebilmek
-bezek
-bezekçi
-bezekçilik
-bezekleme
-bezeklemek
-bezekli
-bezeleme
-bezelemek
-bezeli
-bezelye
+beril NN
+berilyum NN
+berjer NN
+berk JJ
+berkelyum NN
+berkemal JJ
+berkime NN
+berki IVB
+berkinme NN
+berkin IVB
+berkitilme NN
+berkitil IVB
+berkitme NN
+berkit VB
+berklik NN
+bermuda NN
+bermutat RB
+berrak JJ
+berraklaşabilme NN
+berraklaşabil IVB
+berraklaşma NN
+berraklaş IVB
+berraklaştırabilme NN
+berraklaştırabil VB
+berraklaştırılma NN
+berraklaştırıl IVB
+berraklaştırma NN
+berraklaştır VB
+berraklık NN
+berri JJ
+bertafsil RB
+bertaraf JJ
+bertik NN
+bertik JJ
+bertilme NN
+bertil IVB
+bertme NN
+bert VB
+berzah NN
+besalet NN
+besbedava JJ
+besbelli RB
+besbellilik NN
+besbeter JJ
+beserek NN
+besi NN
+besici NN
+besicilik NN
+besihane NN
+besili JJP
+besin NN
+besinli JJP
+besinsiz JJN
+besinsizlik NN
+beslek NN
+besleme NN
+besle VB
+beslemelik NN
+beslenebilme NN
+beslenebil IVB
+beslenen JJ
+beslengi NN
+beslenilme NN
+beslenil IVB
+besleniş NN
+beslenme NN
+beslen IVB
+besletebilme NN
+besletebil VB
+besletme NN
+beslet VB
+besleyebilme NN
+besleyebil VB
+besleyici JJ
+besleyicilik NN
+besleyiş NN
+besmele NN
+besmelesiz RB
+besni NN
+beste NN
+besteci NN
+bestecilik NN
+bestekâr NN
+bestekârlık NN
+besteleme NN
+bestele VB
+bestelenebilme NN
+bestelenebil IVB
+besteleniş NN
+bestelenme NN
+bestelen IVB
+besteletme NN
+bestelet VB
+besteleyebilme NN
+besteleyebil VB
+besteleyiş NN
+besteleyiverme NN
+besteleyiver VB
+besteli JJP
+bestelik NN
+bestenigâr NN
+bestesiz JJN
+beş NN
+beşamel NN
+beşaret NN
+beşbıyık NN
+beş binlik NN
+beş bir NN
+beş dört NN
+beşer NN
+beşerî JJ
+beşeriyet NN
+beşeriyetçi JJ
+beşeriyetçilik NN
+beşerli JJ
+beşgen NN
+beşibirarada NN
+beşibirlik NN
+beşibiryerde NN
+beşik NN
+beşikçi NN
+beşikçilik NN
+Beşikdüzü NN
+beş iki NN
+beşik kertme NN
+beşiklik JJ
+beşikörtüsü NN
+Beşiktaş NN
+beşinci JJ
+beşincilik NN
+Beşiri NN
+beşiz JJ
+beşizli JJ
+beşkardeş NN
+beşleme NN
+beşle VB
+beşli JJ
+beşlik JJ
+beşlik NN
+beşme NN
+beş milyonluk NN
+beşon NN
+beş on NN
+beş para NN
+beş paralık NN
+beş parasız JJ
+beş parasızlık NN
+beşparmak NN
+beşpençe NN
+beştaş NN
+beşuş JJ
+beş üç NN
+beş vakit NN
+beş vakit RB
+beş yüzlü NN
+beş yüzlük NN
+bet NN
+beta NN
+betatron NN
+betelenme NN
+betelen IVB
+beter JJ
+beterleşebilme NN
+beterleşebil IVB
+beterleşme NN
+beterleş IVB
+beti NN
+betik NN
+betili JJP
+betim NN
+betimleme NN
+betimlemeci JJ
+betimlemecilik NN
+betimle VB
+betimlemeli JJ
+betimlenebilme NN
+betimlenebil IVB
+betimleniş NN
+betimlenme NN
+betimlen IVB
+betimleyebilme NN
+betimleyebil VB
+betimleyiş NN
+betimleyiverme NN
+betimleyiver VB
+betimsel JJ
+betimsellik NN
+betisiz JJN
+beton NN
+betonarme NN
+betonarme JJ
+betoncu NN
+betonculuk NN
+betoniyer NN
+betonkarar NN
+betonlaşma NN
+betonlaş IVB
+betonlaştırma NN
+betonlaştır VB
+betonlu JJ
+betonsu JJ
+betonumsu JJ
+bet suratlı JJ
+bevliye NN
+bevliyeci NN
+bevliyecilik NN
+bevvap NN
+bey NN
+beyaban NN
+Beyağaç NN
+beyan NN
+beyanat NN
+beyanname NN
+beyaz NN
+beyaz JJ
+beyazımsı JJ
+beyazımtırak JJ
+beyazlanma NN
+beyazlan IVB
+beyazlaşma NN
+beyazlaş IVB
+beyazlaştırma NN
+beyazlaştır VB
+beyazlatabilme NN
+beyazlatabil VB
+beyazlatıcı JJ
+beyazlatılma NN
+beyazlatıl IVB
+beyazlatma NN
+beyazlat VB
+beyazlı JJ
+beyazlık NN
+Beyaz Rus NN
+Beyaz Rusya NN
+beyazsinek NN
+beyaztilki NN
+beybaba NN
+Beydağ NN
+beyefendi JJ
+beyefendi NN
+beyefendilik NN
+beygir NN
+beygirci NN
+beygircilik NN
+beygirli JJP
+beygirlik NN
+beygirsiz JJN
+beyhude JJ
+beyhude RB
+beyhudeleşme NN
+beyhudeleş IVB
+beyhudeleştirme NN
+beyhudeleştir VB
+beyhudelik NN
+beyhude yere RB
+beyin NN
+beyincik NN
+beyinli JJP
+beyinorağı NN
+beyinsel JJ
+beyinsellik NN
+beyinsi JJ
+beyinsiz JJN
+beyinsizce RB
+beyinsizlik NN
+beyit NN
+beyitli JJ
+Beykoz NN
+beylerbeyi NN
+beylik NN
+beylik JJ
+beylikçi NN
+Beylikdüzü NN
+Beylikova NN
+beynamaz JJ
+beynamazlık NN
+beynelmilel JJ
+beynelmilelci JJ
+beynelmilelcilik NN
+beyninde RB
+Beyoğlu NN
+Beypazarı NN
+Beyşehir NN
+beytülmal NN
+Beytüşşebap NN
+beyyine NN
+beyzade NN
+beyzadelik NN
+beyzbol NN
+beyzbolcu NN
+beyzbolculuk NN
+beyzi JJ
+bez NN
+bezci NN
+bezcilik NN
+bezdirebilme NN
+bezdirebil VB
+bezdiri NN
+bezdirici NN
+bezdirilebilme NN
+bezdirilebil IVB
+bezdirilme NN
+bezdiril IVB
+bezdirme NN
+bezdir VB
+beze NN
+bezebilme NN
+bezebil IVB
+bezek NN
+bezekçi NN
+bezekçilik NN
+bezekleme NN
+bezekle VB
+bezekli JJ
+bezeleme NN
+bezele VB
+bezeli JJ
+bezelye NN
 bezeme
 bezemeci
 bezemecilik
@@ -8146,7 +8015,7 @@ billurumsu
 bilme
 bilmece
 bilmeceli
-bilmek
+bil VB
 bilmezleme
 bilmezlemek
 bilmezlenme
@@ -8223,7 +8092,9 @@ binnetice
 bin türlü
 binyıl
 biperva
-bir
+bir JJ
+bir RB
+bir NN
 bira
 bira bardağı
 biracı
@@ -8688,7 +8559,7 @@ biyosfer
 biyoşimi
 biyotit
 biyotop
-biz
+biz PN
 Bizans oyunu
 bizar
 bizarlık
@@ -9711,7 +9582,8 @@ bröve
 Brüksel lahanası
 brülör
 brüt
-bu
+bu JJ
+bu PN
 bu açıdan
 bu arada
 buat
@@ -9841,7 +9713,7 @@ buharlı ısıtma
 buharlı makine
 buharlı tren
 buharlı ütü
-buhar makinesi
+buhar makinesi
 buhar valfi
 bu haysiyetle
 buhran
@@ -10525,7 +10397,8 @@ büyü
 büyücek
 büyücü
 büyücülük
-büyük
+büyük JJP
+büyük NN
 büyük abdest
 büyük aile
 büyük amiral
@@ -12239,7 +12112,7 @@ cüzzamlı
 çalışma günü
 çalışma hayatı
 çalışma izni
-çalışmak
+çalış IVB
 çalışma kampı
 çalışma karnesi
 çalışma odası
@@ -13680,7 +13553,7 @@ cüzzamlı
 çıkkınlaşmak
 çıkma
 çıkma durumu
-çıkmak
+çık IVBN
 çıkmaklık
 çıkmalı
 çıkmalı tamlama
@@ -14415,24 +14288,10 @@ cüzzamlı
 çobantuzluğu
 çobanüzümü
 Çoban Yıldızı
-çocuk
-çocuk bahçesi
-çocuk bakıcılığı
-çocuk bakıcısı
-çocuk başına
-çocuk bezi
-çocuk bilimci
-çocuk bilimi
-çocuk bilimsel
+çocuk NN
 çocukcağız
 çocukça
 çocukçu
-çocuk dili
-çocuk doktoru
-çocuk edebiyatı
-çocuk felci
-çocuk işi
-çocuk lafı
 çocuklama
 çocuklamak
 çocuklaşabilme
@@ -14444,10 +14303,8 @@ cüzzamlı
 çocuklu
 çocukluk
 çocukluluk
-çocuk oyuncağı
-çocuk oyunu
-çocuk ruhlu
-çocuk ruhluluk
+çocuk ruhlu JJ
+çocuk ruhluluk NN
 çocuksu
 çocuksulaşma
 çocuksulaşmak
@@ -14983,7 +14840,6 @@ cüzzamlı
 çürüyüvermek
 çüş
 da IJ
-de IJ
 Dadacı
 Dadacılık
 Dadaist
@@ -15117,7 +14973,7 @@ dağ taş
 dağ tavuğu
 dağ topu
 dah
-daha
+daha RB
 daha bir
 daha daha
 dahası
@@ -15806,8 +15662,8 @@ dazlaklaşmak
 dazlaklık
 dazlama
 dazlamak
-Db
-de
+de IJ
+de IVB
 debagat
 debbağ
 debbe
@@ -15986,7 +15842,7 @@ değersizleştirmek
 değersizlik
 değer yargısı
 değgin
-değil
+değil NN
 değim
 değimli
 değimsiz
@@ -20773,7 +20629,7 @@ ekvator
 ekvatoral
 ekvatoral iklim
 ekzotermik
-el
+el NN
 ela
 el adamı
 el âlem
@@ -21325,7 +21181,8 @@ emzirme
 emzirmek
 emzirtme
 emzirtmek
-en
+en NN
+en RB
 enam
 enaniyet
 en aşağı
@@ -25081,7 +24938,7 @@ geliştirmek
 geliverme
 gelivermek
 gelme
-gelmek
+gel IVBP
 gelmiç
 gelmiş geçmiş
 gem
@@ -25765,7 +25622,7 @@ giriverme
 girivermek
 girizgâh
 girme
-girmek
+gir IVBP
 girmelik
 gişe
 gitar
@@ -25774,7 +25631,7 @@ gitarcılık
 gitarist
 gitgide
 gitme
-gitmek
+git IVBN
 gitmeli gelmeli
 gittikçe
 giydirebilme
@@ -26343,7 +26200,7 @@ görme engelli
 görme engellilik
 görme gözesi
 görme hücresi
-görmek
+gör VB
 görmemezlik
 görmemiş
 görmemişlik
@@ -27137,7 +26994,7 @@ gümüşümsü
 gümüş varak
 gümüş yağmurcun
 gümüş yıl
-gün
+gün NN
 günah
 günahkâr
 günahkârlık
@@ -30911,7 +30768,7 @@ içim
 içimli
 içimlik
 için RP
-içinde
+içinde RB
 içindekiler
 içine kapanık
 içine kapanıklık
@@ -31360,7 +31217,8 @@ ikbal düşkünlüğü
 ikbal düşkünü
 ikdam
 ikebana
-iki
+iki NN
+iki JJ
 iki anlamlı
 iki anlamlılık
 iki ayaklı
@@ -32312,12 +32170,12 @@ insafsız
 insafsızca
 insafsızcasına
 insafsızlık
-insan
-insan biçimci
-insan biçimcilik
-insan bilimci
-insan bilimi
-insan bilimsel
+insan NN
+insan biçimci JJ
+insan biçimcilik NN
+insan bilimci NN
+insan bilimi NN
+insan bilimsel JJ
 insanca
 insancasına
 insancı
@@ -32831,7 +32689,7 @@ isteksizce
 isteksizlik
 istem
 isteme
-istemek
+iste VB
 isteme kipleri
 istemli
 istemlilik
@@ -33007,7 +32865,7 @@ isyancı
 isyancılık
 isyankâr
 isyankârlık
-iş
+iş NN
 iş adamı
 iş adamlığı
 iş akdi
@@ -33962,6 +33820,7 @@ kaçmak
 kaçmaklık
 kaçta
 kadar RP
+kadar RB
 kadastro
 kadastrolama
 kadastrolamak
@@ -37576,7 +37435,7 @@ kenar semt
 kenarsız
 kenarsızlık
 kenar suyu
-kendi
+kendi PN
 kendi adına
 kendi başına
 kendi beslek
@@ -42237,7 +42096,7 @@ kübik
 kübist
 kübizm
 küçücük
-küçük
+küçük JJN
 küçük abdest
 küçük ad
 Küçük Asya
@@ -48225,6 +48084,10 @@ nazmetme
 nazmetmek
 Nb
 Nd
+ne JJ
+ne RB
+ne PN
+ne EX
 ne IJ
 ne âlâ
 nebat
@@ -48546,7 +48409,6 @@ nezleli
 nezle otu
 nezretme
 nezretmek
-ne  ne 
 nısfınnehar
 nısfiye
 nısıf
@@ -48978,7 +48840,9 @@ nütasyon
 nüve
 nüzul
 nüzullü
-o
+o JJ
+o EX
+o PN
 o açıdan
 o ara
 o aralık
@@ -49371,7 +49235,7 @@ olimpiyat
 olivin
 olma
 olmadık
-olmak
+ol IVB
 olmamış
 olmamışlık
 olmaz
@@ -59450,7 +59314,8 @@ sonlu
 sonlu büyüklük
 son nefes
 sonnot 
-sonra
+sonra RB
+sonra NN
 sonradan
 sonradan görme
 sonradan görmelik
@@ -61806,7 +61671,7 @@ süzüş
 şevksiz
 şevksizlik
 şevval
-şey
+şey NN
 şeyh
 şeyhlik
 şeyhülislam
@@ -68847,7 +68712,8 @@ vapur
 vapurcu
 vapurculuk
 vapurdumanı
-var
+var JJP
+var NN
 varabilme
 varabilmek
 varagele
@@ -69238,7 +69104,7 @@ veriverme
 verivermek
 verkaç
 verme
-vermek
+ver VBP
 vermut
 vernik
 vernikleme
@@ -69619,6 +69485,7 @@ V yaka
 y
 ya EX
 ya RP
+ya IJ
 yaba
 yabalama
 yabalamak
@@ -70603,7 +70470,7 @@ yapmacıksız
 yapma çiçek
 yapma dil
 yapma gübre
-yapmak
+yap VB
 yapma uydu
 yapracık
 yaprak
@@ -71582,8 +71449,6 @@ yaz saati
 yaz sömestiri
 yaz uykusu
 yaz yağmuru
-ya  ya 
-Yb
 ye
 yedek
 yedek akçe
@@ -71931,7 +71796,7 @@ yenmek
 yensiz
 yepelek
 yepyeni
-yer
+yer NN
 yer adı
 yer adı bilimi
 yer alıştırmaları
@@ -72318,7 +72183,7 @@ yıktırılma
 yıktırılmak
 yıktırma
 yıktırmak
-yıl
+yıl NN
 yılan
 yılan balığı
 yılan balığıgiller
@@ -72644,6 +72509,9 @@ yoğuşturma
 yoğuşturmak
 yoğuşturucu
 yok RP
+yok IJ
+yok NN
+yok JJN
 yokçu
 yokçuluk
 yoklama
@@ -73613,7 +73481,7 @@ zalimce
 zalimcesine
 zalimlik
 zam
-zaman
+zaman NN
 zaman aşımı
 zaman ayarlı
 zaman belirteci
