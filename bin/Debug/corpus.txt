@@ -578,7 +578,6 @@ adlı NN
 adlılık NN
 adli JJ
 adliye NN
-adli yıl
 adrenalin NN
 adres NN
 adsal JJ
@@ -891,7 +890,6 @@ ağızlıkçı NN
 ağızlıkçılık NN
 ağızotu NN
 ağızsıl JJ
-ağızsıl ünlü
 ağızsız JJN
 ağızsızlık NN
 ağlak JJN
@@ -1138,7 +1136,7 @@ akçıllaşma NN
 akçıllaş VB
 akçıllık NN
 akçöpleme NN
-Akdağmadeni NN 
+Akdağmadeni NN
 akdarı NN
 akdedebilme NN
 akdedebil VB
@@ -1267,7 +1265,7 @@ akkarınca NN
 akkavak NN
 akkefal NN
 akkelebek NN
-Akkışla NN 
+Akkışla NN
 akkor NN
 akkorlaşma NN
 akkorlaş VB
@@ -1559,7 +1557,7 @@ akvarist NN
 akvaryum NN
 akvaryumcu NN
 akvaryumculuk NN
-Akyaka NN 
+Akyaka NN
 Akyazı NN
 Ak Yıldız NN
 Akyurt NN
@@ -1647,7 +1645,7 @@ alaminüt NN
 alan NN
 alan talan JJ
 Alanya NN
-Alaplı NN 
+Alaplı NN
 alarga NN
 alarm NN
 alarma NN
@@ -1789,7 +1787,7 @@ aldırma NN
 aldır VB
 aldırmaz JJ
 aldırmazlık NN
-aldırtabilme NN 
+aldırtabilme NN
 aldırtabil VB
 aldırtma NN
 aldırt VB
@@ -2109,7 +2107,7 @@ almaşlı JJ
 almazlanma NN
 almazlan VB
 almazlık NN
-Almus NN 
+Almus NN
 alnaç NN
 alnı açık JJ
 alnı açıklık NN
@@ -2241,7 +2239,7 @@ amansızca RB
 amansızcasına RB
 amansızlık NN
 aman zaman NN
-Amasra NN 
+Amasra NN
 Amasya NN
 Amasyalı NN
 Amasyalılık NN
@@ -2338,8 +2336,8 @@ amit NN
 amitoz NN
 amiyane JJ
 amiyanelik NN
-amma CO
-amma velakin CO
+amma IJ
+amma velakin IJ
 amme NN
 amnezi NN
 amniyon NN
@@ -3562,7 +3560,7 @@ asepsi NN
 aseptik JJ
 ases NN
 asesbaşı NN
-asetat NN 
+asetat NN
 asetatlı JJP
 asetik JJ
 asetilen NN
@@ -3665,7 +3663,7 @@ askospor NN
 asla RB
 aslan NN
 aslanağzı NN
-Aslanapa NN 
+Aslanapa NN
 aslanca RB
 aslancasına RB
 aslanımsı JJ
@@ -4420,7 +4418,7 @@ ayıklama NN
 ayıkla VB
 ayıklanabilme NN
 ayıklanabil IVB
-ayıklanış
+ayıklanış NN
 ayıklanıverme NN
 ayıklanıver IVB
 ayıklanma NN
@@ -4548,7 +4546,7 @@ aynılaş IVB
 aynılık NN
 aynısefa NN
 aynısı PN
-aynısının tıpkısı JJ 
+aynısının tıpkısı JJ
 aynıyla RB
 aynı zamanda RB
 ayni JJ
@@ -6327,7 +6325,7 @@ baton NN
 batonsale NN
 batsat RB
 battal JJP
-Battalgazi NN 
+Battalgazi NN
 battallaşma NN
 battallaş IVBP
 battallık NN
@@ -6664,16 +6662,15 @@ bekletiverme NN
 bekletiver VB
 bekletme NN
 beklet VB
-bekletme süresi
-bekleyebilme
-bekleyebilmek
-bekleyedurma
-bekleyedurmak
-bekleyekoyma
-bekleyekoymak
-bekleyiş
-bekleyiverme
-bekleyivermek
+bekleyebilme NN
+bekleyebil VB
+bekleyedurma NN
+bekleyedur VB
+bekleyekoyma NN
+bekleyekoy VB
+bekleyiş NN
+bekleyiverme NN
+bekleyiver VB
 bekri
 bekrilik
 Bektaşi

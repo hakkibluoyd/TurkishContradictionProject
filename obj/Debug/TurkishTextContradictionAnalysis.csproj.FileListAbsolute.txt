@@ -8,3 +8,13 @@ C:\Users\Muratcan\source\repos\TurkishTextContradictionAnalysis\TurkishTextContr
 C:\Users\Muratcan\source\repos\TurkishTextContradictionAnalysis\TurkishTextContradictionAnalysis\obj\Debug\TurkishTextContradictionAnalysis.csproj.CoreCompileInputs.cache
 C:\Users\Muratcan\source\repos\TurkishTextContradictionAnalysis\TurkishTextContradictionAnalysis\obj\Debug\TurkishTextContradictionAnalysis.exe
 C:\Users\Muratcan\source\repos\TurkishTextContradictionAnalysis\TurkishTextContradictionAnalysis\obj\Debug\TurkishTextContradictionAnalysis.pdb
+C:\Users\dogac\TurkishContradictionProject\bin\Debug\TurkishTextContradictionAnalysis.exe.config
+C:\Users\dogac\TurkishContradictionProject\bin\Debug\TurkishTextContradictionAnalysis.exe
+C:\Users\dogac\TurkishContradictionProject\bin\Debug\TurkishTextContradictionAnalysis.pdb
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.csprojAssemblyReference.cache
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.MainForm.resources
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.Properties.Resources.resources
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.csproj.GenerateResource.cache
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.exe
+C:\Users\dogac\TurkishContradictionProject\obj\Debug\TurkishTextContradictionAnalysis.pdb

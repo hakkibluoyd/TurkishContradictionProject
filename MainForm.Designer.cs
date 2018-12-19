@@ -30,9 +30,9 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.field1 = new System.Windows.Forms.TextBox();
+            this.field2 = new System.Windows.Forms.TextBox();
+            this.startProcess = new System.Windows.Forms.Button();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
@@ -54,28 +54,30 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Input 2";
             // 
-            // textBox1
+            // field1
             // 
-            this.textBox1.Location = new System.Drawing.Point(58, 29);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(263, 20);
-            this.textBox1.TabIndex = 2;
+            this.field1.Location = new System.Drawing.Point(58, 29);
+            this.field1.Name = "field1";
+            this.field1.Size = new System.Drawing.Size(263, 20);
+            this.field1.TabIndex = 2;
+            this.field1.TextChanged += new System.EventHandler(this.field1_TextChanged);
             // 
-            // textBox2
+            // field2
             // 
-            this.textBox2.Location = new System.Drawing.Point(58, 60);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(263, 20);
-            this.textBox2.TabIndex = 3;
+            this.field2.Location = new System.Drawing.Point(58, 60);
+            this.field2.Name = "field2";
+            this.field2.Size = new System.Drawing.Size(263, 20);
+            this.field2.TabIndex = 3;
             // 
-            // button1
+            // startProcess
             // 
-            this.button1.Location = new System.Drawing.Point(133, 86);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Analyze";
-            this.button1.UseVisualStyleBackColor = true;
+            this.startProcess.Location = new System.Drawing.Point(133, 86);
+            this.startProcess.Name = "startProcess";
+            this.startProcess.Size = new System.Drawing.Size(75, 23);
+            this.startProcess.TabIndex = 4;
+            this.startProcess.Text = "Analyze";
+            this.startProcess.UseVisualStyleBackColor = true;
+            this.startProcess.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox3
             // 
@@ -85,6 +87,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 5;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // MainForm
             // 
@@ -92,9 +95,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(356, 174);
             this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.startProcess);
+            this.Controls.Add(this.field2);
+            this.Controls.Add(this.field1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -110,9 +113,9 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox field1;
+        private System.Windows.Forms.TextBox field2;
+        private System.Windows.Forms.Button startProcess;
         private System.Windows.Forms.TextBox textBox3;
     }
 }

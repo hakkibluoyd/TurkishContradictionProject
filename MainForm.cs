@@ -18,11 +18,34 @@ namespace TurkishTextContradictionAnalysis
             InitializeComponent();
         }
 
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (field1.Text != "" && field2.Text != "")
+            {
+                Sentence.ParseIntoSentence(field1.Text);
+                Sentence.ParseIntoSentence(field2.Text);
+            }
+        }
+
+        private void field1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+        }
+
         private void MainForm_Load(object sender, EventArgs e)
         {
-            Corpus c = new Corpus();
-            c.CorpusList.ForEach(delegate (CorpusWord cl) {
-                Console.WriteLine(cl.Word + " | " + cl.Attribute);
+            Corpus.CorpusList.ForEach(delegate (CorpusWord cl) {
+                if(cl.Attribute == Attribute.NULL)
+                    Console.WriteLine(cl.Word + " | " + cl.Attribute);
             });
         }
     }

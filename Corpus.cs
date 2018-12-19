@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace TurkishTextContradictionAnalysis
 {
-    public class Corpus
+    public static class Corpus
     {
-        private List<CorpusWord> corpusList = new List<CorpusWord>();
-        public List<CorpusWord> CorpusList {
+        private static List<CorpusWord> corpusList = new List<CorpusWord>();
+        public static List<CorpusWord> CorpusList {
             get
             {
                 return corpusList;
@@ -20,28 +20,35 @@ namespace TurkishTextContradictionAnalysis
                 corpusList = value;
             }
         }
-        public Corpus()
+        static Corpus()
         {
             CreateList();
         }
 
-        private void CreateList()
+        private static void CreateList()
         {
             StreamReader sr = new StreamReader("corpus.txt"); /** Change textfile name from here. **/
-            int c = 0;
             string line;
-            while((line = sr.ReadLine()) != null && c++ < 3000) {
+            while((line = sr.ReadLine()) != null) {
                 CorpusWord cw = new CorpusWord();
                 List<string> tokens = line.Split(' ').ToList();
-                while(tokens.Count > 2)
-                {
-                    tokens[0] = tokens[0] + " " + tokens[1];
-                    tokens[1] = tokens[2];
-                    tokens.RemoveAt(tokens.Count - 1);
+                if(tokens.Count > 1)
+                { 
+                    while(tokens.Count > 2)
+                    {
+                        tokens[0] = tokens[0] + " " + tokens[1];
+                        tokens[1] = tokens[2];
+                        if (tokens.Count > 3) tokens[2] = tokens[3]; 
+                        tokens.RemoveAt(tokens.Count - 1);
+                    }
+                    cw.Attribute = CorpusWord.ToAttribute(tokens[1]);
                 }
-                Console.WriteLine("Read as: " + tokens[0] + " " + tokens[1]);
-                cw.Word = tokens[0];
-                cw.Attribute = CorpusWord.ToAttribute(tokens[1]);
+                else
+                {
+                    cw.Attribute = Attribute.NULL;
+                }
+
+                cw.Word = tokens[0];    
                 corpusList.Add(cw);
             }
         }
