@@ -10,20 +10,19 @@ namespace TurkishTextContradictionAnalysis
     {	
 		// NOUN-BASED
         PLU,  // -lar, -ler 									Plural Suffix
-		ACC,  // -ı, -i, -u, -ü, -sı, -si, -su, -sü,
+		ACC,  // -ı, -i, -u, -ü
 		//		 -yı, -yi, -yu, -yü, -nı, -ni, -nu, -nü  		Accusative Case
 		DAT,  // -a, -e 										Dative Case
 		LOC,  // -da, -de, -ta, -te 							Locative Case
-		ABL,  // -dan, -den, -tan, -ten 						Ablative Case
-		NPF,  // -im 											Noun Phrase 	 - Singular/Plural First Cases
-		NPH,  // -ın, -in, -un, -ün 							Noun Phrase 	 - Other Cases
+		ABL,  // -dan, -den, -tan, -ten, -ndan, -nden			Ablative Case
 		PSF,  // -m, -ım, -im, -um, -üm 						Possessive Case  - Singular First
 		PSS,  // -n, -ın, -in, -un, -ün 						Possessive Case  - Singular Second
-		PST,  // -ı, -i, -u, -ü, -sı, -si, -su, -sü,
-		//		 -yı, -yi, -yu, -yü, -nı, -ni, -nu, -nü  		Possessive Case  - Singular Third
-		PPF,  // -mız, -miz, -muz, -müz							Possessive Case  - Plural First
-		PPS,  // -nız, -niz, -nuz, -nüz 						Possessive Case  - Plural Second
-		PPT,  // -ları, -leri 									Possessive Case  - Plural Third
+		PST,  // -ı, -i, -u, -ü, -sı, -si, -su, -sü,            Possessive Case  - Singular Third
+		PPF,  // -mız, -miz, -muz, -müz, 
+        //       -ımız, -imiz, -umuz, -ümüz                     Possessive Case  - Plural First
+		PPS,  // -nız, -niz, -nuz, -nüz 						
+        //       -ınız, -iniz, -unuz, -ünüz                     Possessive Case  - Plural Second
+        PPT,  // -ları, -leri 									Possessive Case  - Plural Third
 		ISF,  // -yım, -yim, -yum, -yüm, -ım, -im, -um, -üm		Indicative Case  - Singular First
 		ISS,  // -sın, -sin, -sun, -sün							Indicative Case  - Singular Second
 		IST,  // -dır, -dir, -dur, -dür, -tır, -tir, -tur, -tür	Indicative Case  - Singular Third
@@ -38,17 +37,17 @@ namespace TurkishTextContradictionAnalysis
 		KST,  // -dı, -di, -du, -dü, -tı, -ti, -tu, -tü,
 		//		 -ydı, -ydi, -ydu, -ydü				 			Known Past Case  - Singular Third
 		KPF,  // -ydık, -ydik, -yduk, -ydük, 		
-		//		 -dık, -dik, -duk, -dük							Known Past Case  - Plural First
+		//		 -dık, -dik, -duk, -dük, -tık, -tik, -tuk, -tük	Known Past Case  - Plural First
 		KPS,  // -dınız, -diniz, -dunuz, -dünüz
 		//		 -tınız, -tiniz, -tunuz, -tünüz					Known Past Case  - Plural Second
-		KPT,  // -dırlar, -dirler, -durlar, -dürler,  
-		//		 -tırlar, -tirler, -turlar, -türler				Known Past Case  - Plural Third
+		KPT,  // -dılar, -diler, -dular, -düler,  
+		//		 -tılar, -tiler, -tular, -tüler			    	Known Past Case  - Plural Third
 		HSF,  // -ymışım, -ymişim, -ymuşum, -ymüşüm, 
 		//		 -mışım, -mişim, -muşum, -müşüm					Heard Past Case  - Singular First
 		HSS,  // -ymışsın, -ymişsin, -ymuşsun, -ymüşsün
 		// 		 -mışsın, -mişsin, -muşsun, -müşsün				Heard Past Case  - Singular Second
-		HST,  // -mış, -miş, -muş, -müş, -mış, -miş,
-		//		 -muş, -müş, -ymış, -ymiş, -ymuş, -ymüş			Heard Past Case  - Singular Third
+		HST,  // -mış, -miş, -muş, -müş,
+		//		 -ymış, -ymiş, -ymuş, -ymüş			            Heard Past Case  - Singular Third
 		HPF,  // -ymışız, -ymişiz, -ymuşuz, -ymüşüz
 		// 		 -mışız, -mişiz, -muşuz, -müşüz					Heard Past Case  - Plural First
 		HPS,  // -ymışsınız, -ymişsiniz, -ymuşsunuz, -ymüşsünüz
@@ -130,13 +129,32 @@ namespace TurkishTextContradictionAnalysis
 		NEPT, // -malılar, -meliler								Necessity Case	 - Plural Third
 		MPST, // -sın, -sin, -sun, -sün							Imperative Case  - Singular Third
 		MPPS, // -ın, -in, -un, -ün, -ınız, -iniz, -unuz, -ünüz	Imperative Case  - Singular Third
-		MPPT  // -sınlar, -sinler, -sunlar, -sünler				Imperative Case  - Singular Third
+		MPPT, // -sınlar, -sinler, -sunlar, -sünler				Imperative Case  - Singular Third
+
+        NULL
     }
 
     public class Suffix
     {
         private string syntax;
+        public string Syntax { get { return syntax; } set { syntax = value; } }
         private Semantics semantics;
+        public Semantics Semantics { get { return semantics; } set { semantics = value; } }
         private short polarity;
+        public short Polarity { get { return Polarity; } set { polarity = value; } }
+
+        public Suffix(string syntax, Semantics semantics, short polarity)
+        {
+            this.syntax = syntax;
+            this.semantics = semantics;
+            this.polarity = polarity;
+        }
+
+        public override string ToString()
+        {
+            return syntax + " " + semantics + " " + polarity;
+        }
     }
+
+
 }
