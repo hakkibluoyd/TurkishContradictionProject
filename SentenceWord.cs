@@ -22,6 +22,38 @@ namespace TurkishTextContradictionAnalysis
         private Suffix[] suffixes;
         private SentenceRole sr;
 
+        public static SentenceWord MorphologicalParsingOfAdverbs(string word)
+        {
+            bool success;
+            List<Suffix> s = new List<Suffix>();
+            SentenceWord sw = new SentenceWord();
+            string stem = word;
+            while (Corpus.CorpusList.Find(w => w.Word.Equals(stem)) == null || Corpus.CorpusList.Find(w => w.Word.Equals(stem) && w.Attribute == Attribute.RB) != null && stem.Length > 0)
+            {
+                Console.WriteLine(stem + " " + word);
+                stem = stem.Substring(0, stem.Length - 1);
+            }
+
+            if (stem.Length == 0) {
+                Console.WriteLine("Unparseable string error.");
+                return null;
+            }
+
+
+            sw.stem.Word = stem;
+            sw.stem.Attribute = Corpus.CorpusList.Find(w => w.Word.Equals(stem)).Attribute;
+
+            if (sw.stem.Attribute == Attribute.NN || sw.stem.Attribute == Attribute.JJ || /* Temporary */ sw.stem.Attribute == Attribute.NULL /* Temporary */ || sw.stem.Attribute == Attribute.JJN || sw.stem.Attribute == Attribute.JJP)
+            {
+                s = ParseNameSuffixes(sw.stem.Word, word, out success, false);
+                sw.suffixes = s.ToArray();
+            }
+            for (int j = 0; j < sw.suffixes.Length; j++)
+                Console.WriteLine(sw.suffixes[j].ToString());
+            Console.WriteLine("Final result: " + sw.stem.Word + " " + sw.stem.Attribute);
+            return sw;
+
+        }
 
         public static SentenceWord MorphologicalParsing(string word)
         {
@@ -34,38 +66,41 @@ namespace TurkishTextContradictionAnalysis
                 stem = word;
                 while ((Corpus.CorpusList.Find(w => w.Word.Equals(stem)) == null) && stem.Length > 0)
                 {
-                    stem = stem.Substring(0, stem.Length - 1);
-                    if(stem.Length > 0) {
-                        if(!sw.isSoftened) { 
-                            if (stem[stem.Length - 1] == 'ğ') { 
-                                char[] stemArray = stem.ToCharArray();
-                                stemArray[stem.Length - 1] = 'k';
-                                stem = new string(stemArray);
-                                sw.isSoftened = TestForAvailability('ğ', stem, word, out s);
-                            }
-                            if (stem[stem.Length - 1] == 'd')
-                            {
-                                char[] stemArray = stem.ToCharArray();
-                                stemArray[stem.Length - 1] = 't';
-                                stem = new string(stemArray);
-                                sw.isSoftened = TestForAvailability('d', stem, word, out s);
-                            }
-                            if (stem[stem.Length - 1] == 'b')
-                            {
-                                char[] stemArray = stem.ToCharArray();
-                                stemArray[stem.Length - 1] = 'p';
-                                stem = new string(stemArray);
-                                sw.isSoftened = TestForAvailability('b', stem, word, out s);
-                            }
-                            if (stem[stem.Length - 1] == 'c')
-                            {
-                                char[] stemArray = stem.ToCharArray();
-                                stemArray[stem.Length - 1] = 'ç';
-                                stem = new string(stemArray);
-                                sw.isSoftened = TestForAvailability('c', stem, word, out s);
-                            }
+                    Console.WriteLine("Word: " + stem);             
+                    if(!sw.isSoftened) { 
+                        if (stem[stem.Length - 1] == 'ğ') { 
+                            char[] stemArray = stem.ToCharArray();
+                            stemArray[stem.Length - 1] = 'k';
+                            stem = new string(stemArray);
+                            sw.isSoftened = TestForAvailability('ğ', stem, word, out s);
+                            if (sw.isSoftened) break;
+                        }
+                        if (stem[stem.Length - 1] == 'd')
+                        {
+                            char[] stemArray = stem.ToCharArray();
+                            stemArray[stem.Length - 1] = 't';
+                            stem = new string(stemArray);
+                            sw.isSoftened = TestForAvailability('d', stem, word, out s);
+                            if (sw.isSoftened) break;
+                        }
+                        if (stem[stem.Length - 1] == 'b')
+                        {
+                            char[] stemArray = stem.ToCharArray();
+                            stemArray[stem.Length - 1] = 'p';
+                            stem = new string(stemArray);
+                            sw.isSoftened = TestForAvailability('b', stem, word, out s);
+                            if (sw.isSoftened) break;
+                        }
+                        if (stem[stem.Length - 1] == 'c')
+                        {
+                            char[] stemArray = stem.ToCharArray();
+                            stemArray[stem.Length - 1] = 'ç';
+                            stem = new string(stemArray);
+                            sw.isSoftened = TestForAvailability('c', stem, word, out s);
+                            if (sw.isSoftened) break;
                         }
                     }
+                    stem = stem.Substring(0, stem.Length - 1);
                 }
 
 
@@ -75,6 +110,7 @@ namespace TurkishTextContradictionAnalysis
                     if (word != null)
                     { 
                         sw.stem.Word = word;
+                        sw.stem.Attribute = Corpus.CorpusList.Find(w => w.Word.Equals(sw.stem.Word)).Attribute;
                     }
                     else
                     { 
@@ -86,19 +122,24 @@ namespace TurkishTextContradictionAnalysis
                 {
                     
                     sw.stem.Word = stem;
+                    sw.stem.Attribute = Corpus.CorpusList.Find(w => w.Word.Equals(sw.stem.Word)).Attribute;
                 }
             }
             else
             {
                 sw.stem.Word = word;
+                sw.stem.Attribute = Corpus.CorpusList.Find(w => w.Word.Equals(sw.stem.Word)).Attribute;
             }
             if (!stem.Equals(word)) {
-                if (sw.stem.Attribute == Attribute.NN || sw.stem.Attribute == Attribute.JJ || sw.stem.Attribute == Attribute.JJN || sw.stem.Attribute == Attribute.JJP) {
+                if (sw.stem.Attribute == Attribute.NN || sw.stem.Attribute == Attribute.JJ || /* Temporary */ sw.stem.Attribute == Attribute.NULL /* Temporary */ || sw.stem.Attribute == Attribute.JJN || sw.stem.Attribute == Attribute.JJP) {
                     if (!sw.isSoftened)
                         s = ParseNameSuffixes(sw.stem.Word, word, out success, false);
                     else
                         success = true;
                 }
+                if (sw.stem.Attribute == Attribute.RB)
+                    return MorphologicalParsingOfAdverbs(word);
+
 
                 if (!success) { 
                     Console.WriteLine("Unparseable string error.");
@@ -175,6 +216,14 @@ namespace TurkishTextContradictionAnalysis
             return v;
         }
 
+        private static bool IsRough(string word)
+        {
+            if (LastConsonant(word) == 'p' || LastConsonant(word) == 'ç' || LastConsonant(word) == 't' || LastConsonant(word) == 'k')
+                return true;
+            else
+                return false;
+        }
+
         private static List<Suffix> ParseNameSuffixes(string stem, string word, out bool success, bool foundPossessive)
         {
             Console.WriteLine(stem + " with " + word + ".");
@@ -203,28 +252,28 @@ namespace TurkishTextContradictionAnalysis
 
                         // ABL
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' ||
-                            LastVowel(stem) == 'u') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tan"))
+                            LastVowel(stem) == 'u') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tan"))
                         {
                             suffixes.Add(new Suffix("tan", Semantics.ABL, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' ||
-                            LastVowel(stem) == 'ü') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("ten"))
+                            LastVowel(stem) == 'ü') && IsRough(stem) && word.Substring(i + 1, 3).Equals("ten"))
                         {
                             suffixes.Add(new Suffix("ten", Semantics.ABL, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' ||
-                            LastVowel(stem) == 'u') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dan"))
+                            LastVowel(stem) == 'u') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dan"))
                         {
                             suffixes.Add(new Suffix("dan", Semantics.ABL, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' ||
-                            LastVowel(stem) == 'ü') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("den"))
+                            LastVowel(stem) == 'ü') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("den"))
                         {
                             suffixes.Add(new Suffix("den", Semantics.ABL, 1));
                             stem = stem + (word.Substring(i + 1, 3));
@@ -336,49 +385,49 @@ namespace TurkishTextContradictionAnalysis
                         }
 
                         // IST
-                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dır"))
+                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dır"))
                         {
                             suffixes.Add(new Suffix("dır", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dir"))
+                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dir"))
                         {
                             suffixes.Add(new Suffix("dir", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dur"))
+                        if ((LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dur"))
                         {
                             suffixes.Add(new Suffix("dur", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dür"))
+                        if ((LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dür"))
                         {
                             suffixes.Add(new Suffix("dür", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tır"))
+                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tır"))
                         {
                             suffixes.Add(new Suffix("tır", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tir"))
+                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tir"))
                         {
                             suffixes.Add(new Suffix("tir", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tur"))
+                        if ((LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tur"))
                         {
                             suffixes.Add(new Suffix("tur", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if ((LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tür"))
+                        if ((LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tür"))
                         {
                             suffixes.Add(new Suffix("tür", Semantics.IST, 1));
                             stem = stem + (word.Substring(i + 1, 3));
@@ -412,27 +461,51 @@ namespace TurkishTextContradictionAnalysis
                         }
 
                         // KSF
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && word.Substring(i + 1, 3).Equals("dım"))
+                        if (EndsWithConsonant(stem) && !IsRough(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && word.Substring(i + 1, 3).Equals("dım"))
                         {
                             suffixes.Add(new Suffix("dım", Semantics.KSF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && word.Substring(i + 1, 3).Equals("dim"))
+                        if (EndsWithConsonant(stem) && !IsRough(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && word.Substring(i + 1, 3).Equals("dim"))
                         {
                             suffixes.Add(new Suffix("dim", Semantics.KSF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && word.Substring(i + 1, 3).Equals("dum"))
+                        if (EndsWithConsonant(stem) && !IsRough(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && word.Substring(i + 1, 3).Equals("dum"))
                         {
                             suffixes.Add(new Suffix("dum", Semantics.KSF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && word.Substring(i + 1, 3).Equals("düm"))
+                        if (EndsWithConsonant(stem) && !IsRough(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && word.Substring(i + 1, 3).Equals("düm"))
                         {
                             suffixes.Add(new Suffix("düm", Semantics.KSF, 1));
+                            stem = stem + (word.Substring(i + 1, 3));
+                            i = i + 3;
+                        }
+                        if (EndsWithConsonant(stem) && IsRough(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && word.Substring(i + 1, 3).Equals("tım"))
+                        {
+                            suffixes.Add(new Suffix("tım", Semantics.KSF, 1));
+                            stem = stem + (word.Substring(i + 1, 3));
+                            i = i + 3;
+                        }
+                        if (EndsWithConsonant(stem) && IsRough(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && word.Substring(i + 1, 3).Equals("tim"))
+                        {
+                            suffixes.Add(new Suffix("tim", Semantics.KSF, 1));
+                            stem = stem + (word.Substring(i + 1, 3));
+                            i = i + 3;
+                        }
+                        if (EndsWithConsonant(stem) && IsRough(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && word.Substring(i + 1, 3).Equals("tum"))
+                        {
+                            suffixes.Add(new Suffix("tum", Semantics.KSF, 1));
+                            stem = stem + (word.Substring(i + 1, 3));
+                            i = i + 3;
+                        }
+                        if (EndsWithConsonant(stem) && IsRough(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && word.Substring(i + 1, 3).Equals("tüm"))
+                        {
+                            suffixes.Add(new Suffix("tüm", Semantics.KSF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
@@ -490,49 +563,49 @@ namespace TurkishTextContradictionAnalysis
                         }
 
                         // KPF
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dık"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dık"))
                         {
                             suffixes.Add(new Suffix("dık", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dik"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dik"))
                         {
                             suffixes.Add(new Suffix("dik", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("duk"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("duk"))
                         {
                             suffixes.Add(new Suffix("duk", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 3).Equals("dük"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && !IsRough(stem) && word.Substring(i + 1, 3).Equals("dük"))
                         {
                             suffixes.Add(new Suffix("dük", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tık"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tık"))
                         {
                             suffixes.Add(new Suffix("tık", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tik"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tik"))
                         {
                             suffixes.Add(new Suffix("tik", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tuk"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tuk"))
                         {
                             suffixes.Add(new Suffix("tuk", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
                             i = i + 3;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 3).Equals("tük"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && IsRough(stem) && word.Substring(i + 1, 3).Equals("tük"))
                         {
                             suffixes.Add(new Suffix("tük", Semantics.KPF, 1));
                             stem = stem + (word.Substring(i + 1, 3));
@@ -721,28 +794,28 @@ namespace TurkishTextContradictionAnalysis
 
                         // LOC                      
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' ||
-                            LastVowel(stem) == 'u') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("ta"))
+                            LastVowel(stem) == 'u') && IsRough(stem) && word.Substring(i + 1, 2).Equals("ta"))
                         {
                             suffixes.Add(new Suffix("ta", Semantics.LOC, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' ||
-                        LastVowel(stem) == 'ü') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("te"))
+                        LastVowel(stem) == 'ü') && IsRough(stem) && word.Substring(i + 1, 2).Equals("te"))
                         {
                             suffixes.Add(new Suffix("te", Semantics.LOC, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' ||
-                        LastVowel(stem) == 'u') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("da"))
+                        LastVowel(stem) == 'u') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("da"))
                         {
                             suffixes.Add(new Suffix("da", Semantics.LOC, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
                         if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' ||
-                            LastVowel(stem) == 'ü') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("de"))
+                            LastVowel(stem) == 'ü') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("de"))
                         {
                             suffixes.Add(new Suffix("de", Semantics.LOC, 1));
                             stem = stem + (word.Substring(i + 1, 2));
@@ -751,28 +824,28 @@ namespace TurkishTextContradictionAnalysis
 
                         if(!foundPossessive)
                         {
-                            // IST
+                            // ISF
                             if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && word.Substring(i + 1, 2).Equals("ım"))
                             {
-                                suffixes.Add(new Suffix("ım", Semantics.IST, 1));
+                                suffixes.Add(new Suffix("ım", Semantics.ISF, 1));
                                 stem = stem + (word.Substring(i + 1, 2));
                                 i = i + 2;
                             }
                             if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && word.Substring(i + 1, 2).Equals("im"))
                             {
-                                suffixes.Add(new Suffix("im", Semantics.IST, 1));
+                                suffixes.Add(new Suffix("im", Semantics.ISF, 1));
                                 stem = stem + (word.Substring(i + 1, 2));
                                 i = i + 2;
                             }
                             if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && word.Substring(i + 1, 2).Equals("um"))
                             {
-                                suffixes.Add(new Suffix("um", Semantics.IST, 1));
+                                suffixes.Add(new Suffix("um", Semantics.ISF, 1));
                                 stem = stem + (word.Substring(i + 1, 2));
                                 i = i + 2;
                             }
                             if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && word.Substring(i + 1, 2).Equals("üm"))
                             {
-                                suffixes.Add(new Suffix("üm", Semantics.IST, 1));
+                                suffixes.Add(new Suffix("üm", Semantics.ISF, 1));
                                 stem = stem + (word.Substring(i + 1, 2));
                                 i = i + 2;
                             }
@@ -860,49 +933,49 @@ namespace TurkishTextContradictionAnalysis
 
                         // KST
                         //Console.WriteLine(stem + " and its values: " + "\n Ends with vowel: " + EndsWithVowel(stem) + "\n Ends with consonant: " + EndsWithConsonant(stem) + "\n Last vowel: " + LastVowel(stem) + "\n Last consonant: " + LastConsonant(stem));
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("dı"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("dı"))
                         {
                             suffixes.Add(new Suffix("dı", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("di"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("di"))
                         {
                             suffixes.Add(new Suffix("di", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("du"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("du"))
                         {
                             suffixes.Add(new Suffix("du", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("dü"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("dü"))
                         {
                             suffixes.Add(new Suffix("dü", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("tı"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'a' || LastVowel(stem) == 'ı') && IsRough(stem) && word.Substring(i + 1, 2).Equals("tı"))
                         {
                             suffixes.Add(new Suffix("tı", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("ti"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'e' || LastVowel(stem) == 'i') && IsRough(stem) && word.Substring(i + 1, 2).Equals("ti"))
                         {
                             suffixes.Add(new Suffix("ti", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("tu"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && IsRough(stem) && word.Substring(i + 1, 2).Equals("tu"))
                         {
                             suffixes.Add(new Suffix("tu", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("tü"))
+                        if (EndsWithConsonant(stem) && (LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && IsRough(stem) && word.Substring(i + 1, 2).Equals("tü"))
                         {
                             suffixes.Add(new Suffix("tü", Semantics.KST, 1));
                             stem = stem + (word.Substring(i + 1, 2));
@@ -946,25 +1019,25 @@ namespace TurkishTextContradictionAnalysis
                         }
 
                         // EQU
-                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("ca"))
+                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("ca"))
                         {
                             suffixes.Add(new Suffix("ca", Semantics.EQU, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) != 'p' && LastConsonant(stem) != 'ç' && LastConsonant(stem) != 't' && LastConsonant(stem) != 'k') && word.Substring(i + 1, 2).Equals("ce"))
+                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && !IsRough(stem) && word.Substring(i + 1, 2).Equals("ce"))
                         {
                             suffixes.Add(new Suffix("ce", Semantics.EQU, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("ça"))
+                        if ((LastVowel(stem) == 'a' || LastVowel(stem) == 'ı' || LastVowel(stem) == 'o' || LastVowel(stem) == 'u') && IsRough(stem) && word.Substring(i + 1, 2).Equals("ça"))
                         {
                             suffixes.Add(new Suffix("ce", Semantics.EQU, 1));
                             stem = stem + (word.Substring(i + 1, 2));
                             i = i + 2;
                         }
-                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && (LastConsonant(stem) == 'p' || LastConsonant(stem) == 'ç' || LastConsonant(stem) == 't' || LastConsonant(stem) == 'k') && word.Substring(i + 1, 2).Equals("çe"))
+                        if ((LastVowel(stem) == 'e' || LastVowel(stem) == 'i' || LastVowel(stem) == 'ö' || LastVowel(stem) == 'ü') && IsRough(stem) && word.Substring(i + 1, 2).Equals("çe"))
                         {
                             suffixes.Add(new Suffix("ce", Semantics.EQU, 1));
                             stem = stem + (word.Substring(i + 1, 2));
