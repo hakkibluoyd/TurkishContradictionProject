@@ -1,38 +1,4 @@
-DOKUZLULAR
-HPS -ymýþsýnýz, -ymiþsiniz, -ymuþsunuz, -ymüþsünüz
-
-SEKÝZLÝLER
-HPS -mýþsýnýz, -miþsiniz, -muþsunuz, -müþsünüz
-
-YEDÝLÝLER
-HSS -ymýþsýn, -ymiþsin, -ymuþsun, -ymüþsün
-
-ALTILILAR
-IPT -dýrlar, -dirler, -durlar, -dürler, -týrlar, -tirler, -turlar, -türler
-HSF -ymýþým, -ymiþim, -ymuþum, -ymüþüm
-HPF -ymýþýz, -ymiþiz, -ymuþuz, -ymüþüz
-HPT -mýþlar, -miþler, -muþlar, -müþler
-CPS -ysanýz, -yseniz
-CPT -ysalar, -yseler
-
-BEÞLÝLER
-IPS -sýnýz, -siniz, -sunuz, -sünüz
-KPS -dýnýz, -diniz, -dunuz, -dünüz, -týnýz, -tiniz, -tunuz, -tünüz
-KPT -dýlar, -diler, -dular, -düler, -týlar, -tiler, -tular, -tüler
-HSF -mýþým, -miþim, -muþum, -müþüm
-HPF -mýþýz, -miþiz, -muþuz, -müþüz
-CPS -sanýz, -seniz
-CPT -salar, -seler
-
-DÖRTLÜLER
-ABL -ndan, -nden
-PPF -ýmýz, -imiz, -umuz, -ümüz
-PPS -ýnýz, -iniz, -unuz, -ünüz
-PPT -larý, -leri
-KSF -ydým, -ydim, -ydum, -ydüm
-KSS -ydýn, -ydin, -ydun, -ydün
-KPF -ydýk, -ydik, -yduk, -ydük
-HST -ymýþ, -ymiþ, -ymuþ, -ymüþ
-CSF -ysem, -ysam
-CSS -ysen, -ysan
-CPF -ysek, -ysak
+YAPISAL OPERATÖRLER
+ve
+veya
+ya da

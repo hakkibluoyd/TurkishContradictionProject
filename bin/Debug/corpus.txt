@@ -310,7 +310,7 @@ acyo NN
 acyocu NN
 acyoculuk NN
 aç JJN
-aç VB
+aç VBP
 açabilme NN
 açabil VB
 açacak NN
@@ -2970,7 +2970,7 @@ apseleş VB
 apseli JJ
 apsent NN
 apsis NN
-aptal JJ
+aptal JJN
 aptal aptal RB
 aptalca RB
 aptalcasına RB
@@ -4275,7 +4275,6 @@ ayakkabıcı NN
 ayakkabıcılık NN
 ayakkabılık NN
 ayaklama NN
-ayakla VB
 ayaklanabilme NN
 ayaklanabil IVB
 ayaklandırabilme NN
@@ -6919,8 +6918,8 @@ belsoğukluğu NN
 bembeyaz JJ
 bembeyazlık NN
 bemol NN
-ben NN
 ben PN
+ben NN
 benbenci JJ
 benbencilik NN
 bence RB
@@ -7483,8 +7482,8 @@ bıçakçılık
 bıçaklama
 bıçaklamak
 bıçaklanış
-bıçaklanma
-bıçaklanmak
+bıçaklanma NN
+bıçaklan IVB
 bıçaklatma
 bıçaklatmak
 bıçaklayabilme
@@ -7561,7 +7560,7 @@ bırakıt
 bırakıverme
 bırakıvermek
 bırakma
-bırakmak
+bırak VB
 bıraktırabilme
 bıraktırabilmek
 bıraktırılabilme
@@ -7847,7 +7846,7 @@ bilgeleşmek
 bilgeleştirme
 bilgeleştirmek
 bilgelik
-bilgi
+bilgi NN
 bilgice
 bilgici
 bilgicilik
@@ -8125,7 +8124,7 @@ bir atımlık
 bir avuç
 bir ayak evvel
 bir ayak önce
-biraz
+biraz JJ
 birazcık
 birazdan
 bir bakıma
@@ -8256,7 +8255,7 @@ birinci sınıf
 birinci zabit
 birinci zabitlik
 birinci zar
-birisi
+birisi PN
 birkaç
 birkaçı
 bir kalem
@@ -9106,7 +9105,7 @@ botanikçi
 botanikçilik
 botanik parkı
 bovling
-boy
+boy NN
 boya
 Boyabat
 boy abdesti
@@ -9750,7 +9749,6 @@ bukleli
 buklesiz
 buklet
 bukran
-bul
 bula
 bulabilme
 bulabilmek
@@ -9945,7 +9943,6 @@ bu merkezde
 bu meyanda
 bumlama
 bumlamak
-bun
 bunak
 bunakça
 bunaklaşabilme
@@ -10063,7 +10060,6 @@ burma
 burmak
 burnaz
 burnu büyük
-burnu büyüklük
 burnu havada
 burs
 Bursa
@@ -10429,8 +10425,7 @@ büyüklenebilmek
 büyükleniş
 büyüklenme
 büyüklenmek
-büyüklük
-büyüklük hastalığı
+büyüklük NN
 büyüklü küçüklü
 büyük mağaza
 büyük mevlit ayı
@@ -10638,7 +10633,7 @@ can alıcılık
 canan
 cananlık
 can arkadaşı
-canavar
+canavar NN
 canavarca
 canavarcasına
 canavar düdüğü
@@ -11702,7 +11697,7 @@ cübbe
 cübbeci
 cübbecilik
 cübbeli
-cüce
+cüce JJN
 cüce aynası
 cüceleşme
 cüceleşmek
@@ -11720,7 +11715,7 @@ cümbüş
 cümbüşçü
 cümbüşçülük
 cümbüşlü
-cümle
+cümle NN
 cümle âlem
 cümle bilgisi
 cümlecik
@@ -13481,7 +13476,7 @@ cüzzamlı
 çıkarma gemisi
 çıkarma harekâtı
 çıkarma işareti
-çıkarmak
+çıkar VB
 çıkarma yeri
 çıkarsama
 çıkarsever
@@ -14102,7 +14097,7 @@ cüzzamlı
 çirkefleşmek
 çirkefli
 çirkeflik
-çirkin
+çirkin JJN
 çirkince
 çirkinleşebilme
 çirkinleşebilmek
@@ -14118,7 +14113,7 @@ cüzzamlı
 çirkinleştirilmek
 çirkinleştirme
 çirkinleştirmek
-çirkinlik
+çirkinlik NN
 çirkinseme
 çirkinsemek
 çiroz
@@ -17033,7 +17028,7 @@ devleştirebilme
 devleştirebilmek
 devleştirme
 devleştirmek
-devlet
+devlet NN
 devlet adamı
 devlet baba
 devlet bakanı
@@ -17172,7 +17167,8 @@ dırlanma
 dırlanmak
 dırlaşma
 dırlaşmak
-dış
+dış JJP
+dış NN
 dış açı
 dışa dönük
 dışa dönüklük
@@ -18795,7 +18791,7 @@ doruk toplantısı
 dorum
 dosdoğru
 dosdoğruluk
-dost
+dost NN
 dostane
 dost canlısı
 dostça
@@ -18977,7 +18973,7 @@ döngü
 dönme
 dönme dolap
 dönme ekseni
-dönmek
+dön IVB
 dönmeli
 dönmelik
 dönük
@@ -19388,7 +19384,7 @@ duvar takvimi
 duvar topu
 duvar yazısı
 duvar yüzlü
-duy
+duy NN
 duyabilme
 duyabilmek
 duyar
@@ -19433,7 +19429,7 @@ duygu sömürüsü
 duygusuz
 duygusuzluk
 duyma
-duymak
+duy VB
 duymazlık
 duy priz
 duysal
@@ -19697,14 +19693,14 @@ düşmanlaştırma
 düşmanlaştırmak
 düşmanlık
 düşme
-düşmek
+düş IVBN
 düşsel
 düşsellik
 düşsüz
 düşsüzlük
 düşük
 düşüklük
-düşün
+düşün NN
 düşünce
 düşünce alışverişi
 düşüncel
@@ -20030,7 +20026,6 @@ edepsizleşme
 edepsizleşmek
 edepsizlik
 edep yeri
-eder
 edevat
 edi
 edibane
@@ -20546,7 +20541,7 @@ ekseriyetle
 eksi
 eksibe
 eksibisyonizm
-eksik
+eksik JJN
 eksik artık
 eksik etek
 eksik gedik
@@ -21812,7 +21807,7 @@ esiş
 eskalasyon
 eskalop
 eskatologya
-eski
+eski JJN
 eskice
 eskici
 eskicilik
@@ -21827,14 +21822,14 @@ eski kurt
 Eskil 
 eskileşme
 eskileşmek
-eskilik
+eskilik NN
 eskime
 eskimek
 Eskimo
 Eskimoca
 eskimsi
-Eskipazar 
-eski püskü                    
+Eskipazar
+eski püskü JJN
 Eskişehir
 Eskişehirli
 Eskişehirlilik
@@ -22117,11 +22112,11 @@ eşsiz
 eşsizlik
 eştirme
 eştirmek
-eşya
-eşyalı
+eşya NN
+eşyalı JJP
 eş yapı
 eş yapım
-eşyasız
+eşyasız JJN
 eşyasızlık
 eş yükselti
 eş yükselti eğrisi
@@ -22129,7 +22124,7 @@ eş zaman
 eş zamanlı
 eş zamanlı dil bilimi
 eş zamanlılık
-et
+et NN
 etajer
 etalon
 etamin
@@ -22372,8 +22367,6 @@ everme
 evermek
 ev eşyası
 evet RP
-evet efendimci
-evet efendimcilik
 evetleme
 evetlemek
 ev gezmesi
@@ -22964,14 +22957,14 @@ faziletlilik
 faziletsiz
 faziletsizlik
 faz kalemi
-fazla
+fazla JJP
 fazlaca
 fazladan
 fazlalaşma
 fazlalaşmak
 fazlalaştırma
 fazlalaştırmak
-fazlalık
+fazlalık NN
 fazlasıyla
 fe
 fecaat
@@ -24594,7 +24587,7 @@ gebelik
 gebelik testi
 geberik
 geberme
-gebermek
+geber IVB
 gebertebilme
 gebertebilmek
 gebertilme
@@ -25022,7 +25015,7 @@ genelleştirmek
 genelleyebilme
 genelleyebilmek
 genellik
-genellikle
+genellikle RB
 genelme
 genelmek
 genel müdür
@@ -25405,7 +25398,7 @@ gezinebilme
 gezinebilmek
 geziniş
 gezinme
-gezinmek
+gezin IVB
 gezinti
 gezinti yeri
 geziş
@@ -25797,7 +25790,7 @@ Gotik sanat
 Gotlar
 goygoycu
 goygoyculuk
-göbek
+göbek NN
 göbek adı
 göbek bağı
 göbek dansı
@@ -26131,13 +26124,13 @@ görebilme
 görebilmek
 görece
 görececilik
-göreceli
+göreceli JJ
 görecelik
 görecelilik
 göreci
 görecilik
 Görele 
-göreli
+göreli JJ
 görelik
 görelilik
 görenek
@@ -27302,7 +27295,7 @@ güya
 güz
 güz çiğdemi
 güz dönemi
-güzel
+güzel JJP
 güzelavrat otu
 Güzelbahçe 
 güzelce
@@ -27322,7 +27315,7 @@ güzelleştirilme
 güzelleştirilmek
 güzelleştirme
 güzelleştirmek
-güzellik
+güzellik NN
 güzellik enstitüsü
 güzellik kraliçesi
 güzellikle
@@ -28648,7 +28641,7 @@ hayâsız
 hayâsızca
 hayâsızcasına
 hayâsızlık
-hayat
+hayat NN
 hayat adamı
 hayatağacı
 hayat arkadaşı
@@ -28999,7 +28992,7 @@ hemcins
 hemcinslik
 hemdert
 hemdertlik
-hemen
+hemen RB
 hemencecik
 hemencek
 hemen hemen
@@ -29411,7 +29404,7 @@ hicvetmek
 hicviye
 hiç RB
 hiçbir
-hiçbiri
+hiçbiri PN
 hiççi
 hiççilik
 hiç kimse
@@ -30676,8 +30669,8 @@ icracı
 icracılık
 icra kuvveti
 icra vekili
+iç JJN
 iç NN
-iç JJ
 iç acısı
 iç ağ
 iç ağa
@@ -33172,8 +33165,8 @@ itibarsızlaşmak
 itibarsızlaştırma
 itibarsızlaştırmak
 itibarsızlık
-itici
-iticilik
+itici JJN
+iticilik NN
 itidal
 itidalli
 itidal sahibi
@@ -33287,30 +33280,30 @@ iye
 iyelik
 iyelik eki
 iyelikli tamlama
-iyi JJ
+iyi JJP
 iyi RB
 iyice
 iyicene
 iyicil
 iyicillik
 iyiden iyiye
-İyidere 
+İyidere
 iyi gün
 iyi gün dostu
 iyi hâl
 iyi hâl belgesi
 iyi huylu
 iyi huyluluk
-iyi kalpli
+iyi kalpli JJP
 iyi kalplilik
-iyi kötü
+iyi kötü RB
 iyileşme
 iyileşmek
 iyileştirebilme
 iyileştirebilmek
 iyileştirme
 iyileştirmek
-iyilik
+iyilik NN
 iyilikbilir
 iyilikbilirlik
 iyilikbilmez
@@ -33325,8 +33318,8 @@ iyiliksever
 iyilikseverlik
 iyimser
 iyimserlik
-iyi niyet
-iyi niyetli
+iyi niyet NN
+iyi niyetli JJP
 iyi niyetlilik
 iyisiyle kötüsüyle
 iyi yürekli
@@ -34211,8 +34204,6 @@ kakule
 kakuleli
 kâkül
 kâküllü
-kal 
-kal
 kala
 kalaba
 kalabalık
@@ -34530,7 +34521,7 @@ kalkış yarışı
 kalkıverme
 kalkıvermek
 kalkma
-kalkmak
+kalk IVBP
 kalkojen
 kalkolitik
 kallavi
@@ -35156,8 +35147,7 @@ kapatılmak
 kapatış
 kapatıverme
 kapatıvermek
-kapatma
-kapatmak
+kapat VBN
 kapattırma
 kapattırmak
 kapayabilme
@@ -35168,7 +35158,7 @@ kapçık
 kapçıklı
 kapçık meyve
 kapela
-kapı
+kapı NN
 kapı ağası
 kapı ağzı
 kapıaltı
@@ -38395,12 +38385,12 @@ kırtıpilleşme
 kırtıpilleşmek
 kırt kırt
 kırtlama
-kısa
+kısa JJN
 kısabilme
 kısabilmek
 kısaca
 kısacası IJ
-kısacık
+kısacık JJN
 kısa çizgi
 kısa dalga
 kısadan
@@ -38409,7 +38399,7 @@ kısa far
 kısa görüşlü
 kısa görüşlülük
 kısa kafalı
-kısalık
+kısalık NN
 kısalış
 kısalma
 kısalmak
@@ -38971,7 +38961,8 @@ kilizman
 killeme
 killemek
 killi
-kilo
+kilo NN
+kilosuz JJN
 kiloamper
 kilogram
 kilogramağırlık
@@ -38981,7 +38972,7 @@ kilogrammetre
 kilohertz
 kilojul
 kilokalori
-kilolu
+kilolu JJP
 kiloluk
 kiloluluk
 kilometre
@@ -39568,7 +39559,7 @@ kolancı
 kolancılık
 kolasız
 kolasızlık
-kolay
+kolay JJN
 kolayca
 kolaycacık
 kolaycı
@@ -40024,7 +40015,7 @@ konuşma çizgisi
 konuşma dili
 konuşma engelli
 konuşma güçlüğü
-konuşmak
+konuş VB
 konuşma korkusu
 konuşmama hakkı
 konuşma merkezi
@@ -40473,7 +40464,7 @@ koydurtmak
 koygun
 koyma
 koyma akıl
-koymak
+koymak VB
 koyu
 koyu gri
 koyu kahverengi
@@ -40892,18 +40883,10 @@ köşker
 köşkerlik
 köşklü
 kötek
-kötü
-kötü adam
+kötü JJN
 kötücül
 kötücüllük
 kötücül yazılım
-kötü göz
-kötü haber
-kötü huylu
-kötü huyluluk
-kötü kadın
-kötü kalpli
-kötü kalplilik
 kötüleme
 kötülemek
 kötüleniş
@@ -41276,7 +41259,7 @@ kullandırmak
 kullandırtma
 kullandırtmak
 kullanılma
-kullanılmak
+kullanıl IVB
 kullanılmış
 kullanılmışlık
 kullanım
@@ -48161,7 +48144,8 @@ nefis muhasebesi
 nefis mücadelesi
 nefis müdafaası
 nefiy
-nefret
+nefret NN
+nefret et IVBN
 nefrit
 nefsani
 nefsaniyet
@@ -48602,7 +48586,7 @@ nitroselüloz
 niyabet
 niyaz
 niye
-niyet
+niyet NN
 niyetçi
 niyetçilik
 niyeti bozuk
@@ -49142,7 +49126,6 @@ okyanus mavisi
 Okyanusyalı
 Okyanusyalılık
 ok yılanı
-ol
 olabildiğince
 olabilir
 olabilirlik
@@ -49181,11 +49164,9 @@ olasılı
 olasılık
 olasılık hesabı
 olasıya
-olay
+olay NN
 olayazma
 olayazmak
-olay bilimi
-olay bilimsel
 olaycı
 olaycık
 olaycılık
@@ -49305,7 +49286,7 @@ olurluk
 olursa IJ
 olur olmaz
 oluru
-oluş
+oluş NN
 oluşabilme
 oluşabilmek
 oluşma
@@ -49359,7 +49340,7 @@ omuzlayabilmek
 omuzlu
 omuzluk
 omuz omuza
-on
+on NN
 ona
 ona buna
 onaltılık
@@ -49477,6 +49458,7 @@ ontolojizm
 onulma
 onulmak
 onum
+onun PN
 onuncu
 onunculuk
 onunki
@@ -49696,7 +49678,7 @@ ornitolojik
 ornitorenk
 orografya
 orojeni
-orospu
+orospu NN
 orospu bohçası
 orospu böreği
 orospu çocuğu
@@ -50018,7 +50000,7 @@ oturma duvarı
 oturma grevi
 oturma grubu
 oturma izni
-oturmak
+otur VB
 oturmalık
 oturma mobilyası
 oturma odası
@@ -50149,7 +50131,7 @@ oynakça
 oynak kemiği
 oynaklık
 oynama
-oynamak
+oyna VB
 oynanabilme
 oynanabilmek
 oynanış
@@ -50211,7 +50193,7 @@ oyuncak
 oyuncakçı
 oyuncakçılık
 oyuncaklı
-oyuncu
+oyuncu NN
 oyuncu kadrosu
 oyuncuktan
 oyunculuk
@@ -50290,7 +50272,7 @@ ozuga
 ödeme
 ödeme belgesi
 ödeme emri
-ödemek
+öde VB
 ödeme kartı
 ödemeli
 Ödemiş 
@@ -51111,7 +51093,9 @@ ozuga
 öykünmecilik
 öykünmek
 öykünüş
-öyle
+öyle JJ
+öyle EX
+öyle RB
 öyle ki IJ
 öylece
 öylelikle
@@ -51663,7 +51647,7 @@ papura
 papyekuşe
 papyon
 papyon kravat
-para
+para NN
 para aktarımı
 para arzı
 para babası
@@ -54842,7 +54826,7 @@ saadetlilik
 saadetsiz
 saadetsizlik
 saadet zinciri
-saat
+saat NN
 saat açısı
 saat ayarı
 saat başı
@@ -55040,7 +55024,7 @@ saçmalaştırmak
 saçmalayabilme
 saçmalayabilmek
 saçmalayış
-saçmalık
+saçmalık NN
 saçma sapan
 saç örgüsü
 saçsız
@@ -55059,7 +55043,7 @@ sadakor
 sadaret
 sade
 sade birimler bölüğü
-sadece
+sadece RB
 sade kahve
 sade kek
 sadeleşebilme
@@ -55211,7 +55195,7 @@ sağkol
 sağ kol
 sağlam
 sağlama
-sağlamak
+sağla VB
 sağlamca
 sağlamcı
 sağlamcılık
@@ -55316,7 +55300,7 @@ sahil kordonu
 sahil koruma
 sahil seyri
 sahil şeridi
-sahip
+sahip NN
 sahipkıran
 sahiplendirme
 sahiplendirmek
@@ -55531,7 +55515,7 @@ salahiyetlilik
 salahiyetsiz
 salahiyetsizlik
 salahiyettar
-salak
+salak JJN
 salakça
 salaklaşma
 salaklaşmak
@@ -56484,7 +56468,7 @@ savuşturma
 savuşturmak
 savuşuverme
 savuşuvermek
-say
+say NN
 saya
 sayabilme
 sayabilmek
@@ -56588,7 +56572,7 @@ saylamak
 saylav
 sayma
 saymaca
-saymak
+say VB
 saymamazlık
 sayman
 saymanlık
@@ -57030,8 +57014,8 @@ semizot
 semizotu
 semizotugiller
 sempati
-sempatik
-sempatiklik
+sempatik JJP
+sempatiklik NN
 sempatik sinir sistemi
 sempatizan
 sempozyum
@@ -57573,7 +57557,7 @@ sevk kâğıdı
 sevk pusulası
 sevkülceyş
 sevme
-sevmek
+sev VBP
 seyahat
 seyahat acentesi
 seyahatname
@@ -58024,7 +58008,7 @@ sıpa
 sıpsıcak
 sır 
 sır
-sıra
+sıra NN
 sıraca
 sıracagiller
 sıracalı
@@ -58086,7 +58070,7 @@ sırdaş
 sırdaşça
 sırdaşlık
 sırf
-sırık
+sırık NN
 sırıkçı
 sırık domatesi
 sırık fasulyesi
@@ -58762,7 +58746,7 @@ sismolog
 sismoloji
 sismolojik
 sis perdesi
-sistem
+sistem NN
 sistematik
 sistematiklik
 sistemci
@@ -59313,7 +59297,7 @@ sonsuzlaştırmak
 sonsuzluk
 son teşrin
 son turfanda
-sonuç
+sonuç NN
 sonuç karşılaşması
 sonuçlama
 sonuçlamak
@@ -59391,7 +59375,7 @@ sorgu yargıçlığı
 sorit
 sorma
 sormaca
-sormak
+sor VB
 sormuk
 sorti
 soru
@@ -59412,7 +59396,7 @@ sorumsuzca
 sorumsuzlaşma
 sorumsuzlaşmak
 sorumsuzluk
-sorun
+sorun NN
 sorunlu
 sorunluluk
 sorunsal
@@ -59731,7 +59715,7 @@ söyleyebilmek
 söyleyiş
 söyleyiverme
 söyleyivermek
-söz
+söz NN
 söz başı
 söz birliği
 söz bölüğü
@@ -60587,7 +60571,7 @@ sürdürümlemek
 sürdürümlenme
 sürdürümlenmek
 sürdürüş
-süre
+süre NN
 süre aşımı
 sürebilme
 sürebilmek
@@ -61937,7 +61921,7 @@ süzüş
 şişletmek
 Şişli 
 şişlik
-şişman
+şişman JJN
 şişmanca
 şişmanlama
 şişmanlamak
@@ -61947,7 +61931,7 @@ süzüş
 şişmanlatmak
 şişmanlayabilme
 şişmanlayabilmek
-şişmanlık
+şişmanlık NN
 şişme
 şişmek
 şita
@@ -62022,7 +62006,7 @@ süzüş
 şöyle böyle
 şöylece
 şöylesine
-şu
+şu RP
 şua
 şu açıdan
 şuara
@@ -62977,7 +62961,7 @@ tapi
 tapir
 tapirgiller
 tapma
-tapmak
+tap IVB
 tapon
 taponcu
 taponculuk
@@ -63130,7 +63114,7 @@ tarikat
 tarikatçı
 tarikatçılık
 tariz
-tarla
+tarla NN
 tarla faresi
 tarlakoz
 tarla kuşu
@@ -63933,7 +63917,7 @@ tehzil
 tein
 teist
 teizm
-tek
+tek JJ
 tekabül
 tek adam
 tekâlif
@@ -65511,8 +65495,8 @@ tinsel
 tinselci
 tinselcilik
 tin tin
-tip
-tipi
+tip NN
+tipi NN
 tipik
 tipileme
 tipilemek
@@ -65645,7 +65629,7 @@ tohumlu
 tohumlu bitkiler
 tohumluk
 tohum zarı
-tok
+tok JJP
 toka
 tokaç
 tokaçlama
@@ -66590,7 +66574,7 @@ tutkusuz
 tutkusuzluk
 tutma
 tutmaç
-tutmak
+tut VB
 tutmalık
 tutsak
 tutsaklık
@@ -67088,9 +67072,9 @@ uçuvermek
 udi
 U dönüşü
 uf
-ufacık
+ufacık JJN
 ufacık tefecik
-ufak
+ufak JJN
 ufakça
 ufak çapta
 ufaklık
@@ -67953,7 +67937,7 @@ uzmanlaşmak
 uzmanlık
 uzmanlık belgesi
 uzo
-uzun
+uzun JJP
 uzun araç
 uzun atlama
 uzun bacaklılar
@@ -67979,7 +67963,7 @@ uzun kulaklı
 uzunkuyruk
 uzunlamasına
 uzun levrek
-uzunluk
+uzunluk NN
 uzunluk ölçüsü
 uzun ömürlü
 uzun ömürlülük
@@ -69332,7 +69316,7 @@ vokal uyumu
 volan
 volanlı
 vole
-voleybol
+voleybol NN
 voleybolcu
 voleybolculuk
 volfram
@@ -69405,7 +69389,7 @@ vurgusuzluk
 vurgu uzunluğu
 vurkaç
 vurma
-vurmak
+vur VB
 vurmalı
 vurmalı çalgılar
 vurmalı sazlar
@@ -69418,8 +69402,8 @@ vurucu tim
 vuruk
 vurulabilme
 vurulabilmek
-vurulma
-vurulmak
+vurulma NN
+vurul IVB
 vuruluş
 vuruluverme
 vuruluvermek
@@ -69718,7 +69702,7 @@ Yahudi tapınağı
 Yahudi tavlası
 yahut IJ
 Yahyalı 
-yak
+yak NN
 yaka
 yakabilme
 yakabilmek
@@ -69867,7 +69851,7 @@ yaklaştırma
 yaklaştırmak
 yakma
 yakmaç
-yakmak
+yak VB
 yakmalık
 yakma resim
 yaktırabilme
@@ -69886,7 +69870,7 @@ yalak
 yalaka
 yalakalık
 yalama
-yalamak
+yala VB
 yalama uçuş
 yalama yazı
 yalamuk
@@ -70235,7 +70219,7 @@ yanıtlayış
 yanıtlı
 yanıtsız
 yanıtsızlık
-yani
+yani IJ
 yan kabağı
 yan kâğıdı
 yankesici
@@ -70514,7 +70498,7 @@ Yaradancılık
 yaradılış
 yaradılışlı
 yaradılıştan
-yarak
+yarak NN
 yaralama
 yaralamak
 yaralanabilme
@@ -70929,7 +70913,7 @@ yastıklama
 yastıklamak
 yastıklı
 yastık takoz
-yaş
+yaş NN
 yaşa
 yaşam
 yaşama
@@ -71257,7 +71241,7 @@ yayıntı
 yayış
 yay kabzası
 yay kolu
-yayla
+yayla NN
 yaylacı
 yaylacılık
 yayla çayırı
@@ -71414,7 +71398,7 @@ yazma
 yazmacı
 yazmacılık
 yazma eser
-yazmak
+yaz VB
 yazman
 yazmanlık
 yazma nüsha
@@ -71424,7 +71408,6 @@ yaz saati
 yaz sömestiri
 yaz uykusu
 yaz yağmuru
-ye
 yedek
 yedek akçe
 yedek asker
@@ -71679,7 +71662,7 @@ yengeçvari
 yengelik
 yengen
 yengi
-yeni JJ
+yeni JJP
 yeni ay
 yenibahar
 yeni baştan
@@ -71738,7 +71721,7 @@ yenileyebilme
 yenileyebilmek
 yenileyiş
 yenilgi
-yenilik
+yenilik NN
 yenilikçi
 yenilikçilik
 yenilik korkusu
@@ -71771,7 +71754,7 @@ yenme
 yenmek
 yensiz
 yepelek
-yepyeni
+yepyeni JJP
 yer NN
 yer adı
 yer adı bilimi
@@ -72358,7 +72341,7 @@ yiğitleşme
 yiğitleşmek
 yiğitlik
 yilbik
-yine IJ
+yine RB
 yineleme
 yinelemek
 yinelemeli
@@ -72661,7 +72644,7 @@ yortu
 yorulabilme
 yorulabilmek
 yorulma
-yorulmak
+yorul IVB
 yoruluş
 yoruluverme
 yoruluvermek
@@ -73280,7 +73263,7 @@ yüzbeşlik
 yüzbeyüz
 yüz binlerce
 yüz binlik
-yüzde
+yüzde NN
 yüzdeci
 yüzde işareti
 yüzdelik
@@ -73602,9 +73585,9 @@ zavallı
 zavallılık
 zaviye
 zaviyevi
-zayıf
+zayıf JJP
 zayıflama
-zayıflamak
+zayıfla IVBP
 zayıflatabilme
 zayıflatabilmek
 zayıflatma
@@ -73612,7 +73595,7 @@ zayıflatmak
 zayıflayabilme
 zayıflayabilmek
 zayıflayış
-zayıflık
+zayıflık NN
 zayıf nahif
 zayıf sesli
 zayi
@@ -74100,7 +74083,8 @@ zooloji
 zoolojik
 zoospor
 zootekni
-zor
+zor JJP
+zor RB
 zoraki
 zor alım
 zorba
@@ -74210,3 +74194,4 @@ zürriyetsiz
 zürriyetsizlik
 züyuf
 züyuf akçe
+ahmet NN

@@ -14,7 +14,7 @@
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -33,6 +33,37 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="IKVM.OpenJDK.Charsets, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.Charsets.7.2.4630.5\lib\IKVM.OpenJDK.Charsets.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Core, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.Core.7.2.4630.5\lib\IKVM.OpenJDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Security, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.Security.7.2.4630.5\lib\IKVM.OpenJDK.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.SwingAWT, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.SwingAWT.7.2.4630.5\lib\IKVM.OpenJDK.SwingAWT.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Text, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.Text.7.2.4630.5\lib\IKVM.OpenJDK.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Util, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.Util.7.2.4630.5\lib\IKVM.OpenJDK.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.API, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.OpenJDK.XML.API.7.2.4630.5\lib\IKVM.OpenJDK.XML.API.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.Runtime, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>packages\IKVM.Runtime.7.2.4630.5\lib\IKVM.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="libsvm, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\libsvm.net.2.1.8\lib\libsvm.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LibSVMsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\LibSVMsharp.1.2.5\lib\net45\LibSVMsharp.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -56,9 +87,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SemanticGroups.cs" />
     <Compile Include="Sentence.cs" />
     <Compile Include="SentenceWord.cs" />
     <Compile Include="Suffix.cs" />
+    <Compile Include="SVMInterface.cs" />
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -71,6 +104,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="LIBSVM_COPYRIGHT" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -83,6 +118,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="libsvm.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

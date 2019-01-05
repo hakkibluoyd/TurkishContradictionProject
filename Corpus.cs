@@ -20,6 +20,7 @@ namespace TurkishTextContradictionAnalysis
                 corpusList = value;
             }
         }
+        public static int count;
         static Corpus()
         {
             CreateList();
@@ -51,6 +52,8 @@ namespace TurkishTextContradictionAnalysis
                 cw.Word = tokens[0];    
                 corpusList.Add(cw);
             }
+            count = corpusList.Count;
+            sr.Close();
         }
     }
 }

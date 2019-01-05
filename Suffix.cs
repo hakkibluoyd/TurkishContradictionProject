@@ -39,9 +39,11 @@ namespace TurkishTextContradictionAnalysis
 		KPF,  // -ydık, -ydik, -yduk, -ydük, 		
 		//		 -dık, -dik, -duk, -dük, -tık, -tik, -tuk, -tük	Known Past Case  - Plural First
 		KPS,  // -dınız, -diniz, -dunuz, -dünüz
-		//		 -tınız, -tiniz, -tunuz, -tünüz					Known Past Case  - Plural Second
+        //       -tınız, -tiniz, -tunuz, -tünüz,
+        //       -ydınız, -ydiniz, -ydunuz, -ydünüz             Known Past Case  - Plural Second
 		KPT,  // -dılar, -diler, -dular, -düler,  
-		//		 -tılar, -tiler, -tular, -tüler			    	Known Past Case  - Plural Third
+        //		 -tılar, -tiler, -tular, -tüler			    	
+        //       -ydılar, -ydiler, -ydular, -ydüler             Known Past Case  - Plural Third
 		HSF,  // -ymışım, -ymişim, -ymuşum, -ymüşüm, 
 		//		 -mışım, -mişim, -muşum, -müşüm					Heard Past Case  - Singular First
 		HSS,  // -ymışsın, -ymişsin, -ymuşsun, -ymüşsün
@@ -52,7 +54,8 @@ namespace TurkishTextContradictionAnalysis
 		// 		 -mışız, -mişiz, -muşuz, -müşüz					Heard Past Case  - Plural First
 		HPS,  // -ymışsınız, -ymişsiniz, -ymuşsunuz, -ymüşsünüz
 		// 		 -mışsınız, -mişsiniz, -muşsunuz, -müşsünüz		Heard Past Case  - Plural Second
-		HPT,  // -mışlar, -mişler, -muşlar, -müşler  			Heard Past Case  - Plural Third
+		HPT,  // -mışlar, -mişler, -muşlar, -müşler
+        //       -ymışlar, -ymişler, -ymuşlar, -ymüşler         Heard Past Case  - Plural Third
 		CSF,  // -ysem, -ysam, -sem, -sam 						Conditional Case - Singular First
 		CSS,  // -ysen, -ysan, -san, -sen						Conditional Case - Singular Second
 		CST,  // -yse, -ysa, -se, -sa							Conditional Case - Singular Third
@@ -70,7 +73,7 @@ namespace TurkishTextContradictionAnalysis
 		KSSV, // -dın, -din, -dun, -dün, -tın, -tin, -tun, -tün Known Past Case  - Singular Second
 		KSTV, // -dı, -di, -du, -dü, -tı, -ti, -tu, -tü 		Known Past Case  - Singular Third
 		KPFV, // -dık, -dik, -duk, -dük, -tık, -tik, -tuk, -tük Known Past Case  - Plural First
-		KPSV, // -dınız, -dinız, -dunuz, -dünüz, 
+		KPSV, // -dınız, -diniz, -dunuz, -dünüz, 
 		//		 -tınız, -tiniz, -tunuz, -tünüz					Known Past Case  - Plural Second
 		KPTV, // -dılar, -diler, -dular, -düler, 
 		//		 -tılar, -tiler, -tular, -tüler 				Known Past Case  - Plural Third
@@ -79,13 +82,16 @@ namespace TurkishTextContradictionAnalysis
 		HSTV, // -mış, -miş, -muş, -müş							Heard Past Case  - Singular Third
 		HPFV, // -mışız, -mişiz, -muşuz, -müşüz 				Heard Past Case  - Plural First
 		HPSV, // -mışsınız, -mişsiniz, -muşsunuz, -müşsünüz 	Heard Past Case  - Plural Second
-		HPTV, // -mışlar, mişler, muşlar, müşler 				Heard Past Case  - Plural Third
-		COSF, // -yorum											Continuous Case  - Singular First
-		COSS, // -yorsun										Continuous Case  - Singular Second
-		COST, // -yor											Continuous Case  - Singular Third
-		COPF, // -yoruz											Continuous Case  - Plural First
-		COPS, // -yorsunuz										Continuous Case  - Plural Second
-		COPT, // -yorlar										Continuous Case  - Plural Third
+		HPTV, // -mışlar, -mişler, -muşlar, -müşler 			Heard Past Case  - Plural Third
+		COSF, // -yorum, -ıyorum, -iyorum, -uyorum, -üyorum		Continuous Case  - Singular First
+		COSS, // -yorsun, -ıyorsun, -iyorsun, 
+        //       -uyorsun, -üyorsun                             Continuous Case  - Singular Second
+		COST, // -yor, -ıyor, -iyor, -uyor, -üyor				Continuous Case  - Singular Third
+		COPF, // -yoruz, -ıyoruz, -iyoruz, -uyoruz, -üyoruz		Continuous Case  - Plural First
+		COPS, // -yorsunuz, -ıyorsunuz, 
+        //      -iyorsunuz, -uyorsunuz, -üyorsunuz	            Continuous Case  - Plural Second
+		COPT, // -yorlar, -ıyorlar, -iyorlar,
+        //       -uyorlar, -üyorlar								Continuous Case  - Plural Third
 		FSF,  // -acağım, -eceğim, -yacağım, -yeceğim			Future Case 	 - Singular First
 		FSS,  // -acaksın, -eceksin, -yacaksın, -yeceksin		Future Case 	 - Singular Second
 		FST,  // -acak, -ecek, -yacak, -yecek					Future Case 	 - Singular Third
@@ -93,17 +99,25 @@ namespace TurkishTextContradictionAnalysis
 		FPS,  // -acaksınız, -eceksiniz, 
 		//		 -yacaksınız, -yeceksiniz						Future Case 	 - Plural Second
 		FPT,  // -acaklar, -ecekler, -yacaklar, -yecekler		Future Case 	 - Plural Third
-		PRSF, // -rım, -ırım, -irim, -urum, -ürüm, -arım, -erim	Present Case     - Singular First
+		PRSF, // -rım, -rim, -rum, -ırım, -irim,
+        //       -urum, -ürüm, -arım, -erim                 	Present Case     - Singular First
 		PRSS, // -rsın, -ırsın, -irsin, 
 		//		 -ursun, -ürsün, -arsın, -ersin 				Present Case     - Singular Second
 		PRST, // -r, -ır, -ir, -ur, -ür, -ar, -er				Present Case     - Singular Third
-		PRPF, // -rız, -ırız, -iriz, -uruz, -ürüz, -arız, -eriz	Present Case     - Plural First
+		PRPF, // -rız, -riz, -ruz, -ırız, 
+        //       -iriz, -uruz, -ürüz, -arız, -eriz	            Present Case     - Plural First
 		PRPS, // -rsınız, -ırsınız, -irsiniz, 
 		//		 -ursunuz, -ürsünüz, -arsınız, -ersiniz 		Present Case     - Plural Second
 		PRPT, // -rlar, -ırlar, -irler, 
 		//		 -urlar, -ürler, -arlar, -erler					Present Case     - Plural Third
-		NGAV, // -a, -e											Negation Suffix of -bil
-		NPSF, // -mam, -mem										Present Case     - Singular First Negation
+		NGVF, // -amam, -emem, -yamam, -yemem					Negation Suffix of -bil - Singular First
+        NGVS, // -amazsın, -emezsin, -yamazsın, -yemezsin		Negation Suffix of -bil - Singular Second
+        NGVT, // -amaz, -emez, -yamaz, -yemez					Negation Suffix of -bil - Singular Third
+        NGPF, // -amayız, -emeyiz, -yamayız, -yemeyiz			Negation Suffix of -bil - Plural First
+        NGPS, // -amazsınız, -emezsiniz, 
+        //       -yamazsınız, -yemezsiniz                       Negation Suffix of -bil - Plural Second
+        NGPT, // -amazlar, -emezlar, -yamazlar, -yemezler		Negation Suffix of -bil - Plural Third
+        NPSF, // -mam, -mem										Present Case     - Singular First Negation
 		NPSS, // -mazsın, -mezsin								Present Case     - Singular Second Negation
 		NPST, // -maz, -mez										Present Case     - Singular Third Negation
 		NPPF, // -mayız, -meyiz									Present Case     - Plural First Negation
@@ -113,8 +127,8 @@ namespace TurkishTextContradictionAnalysis
 		CSSV, // -sen, -san										Conditional Case - Singular Second
 		CSTV, // -se, -sa										Conditional Case - Singular Third
 		CPFV, // -sek, -sak										Conditional Case - Plural First
-		CPSV, // -sanız,- seniz									Conditional Case - Plural Second
-		CPTV, // -salar, -seler					  				Conditional Case - Plural Third
+		CPSV, // -sanız, -seniz									Conditional Case - Plural Second
+		CPTV, // -larsa, -lerse					  				Conditional Case - Plural Third
 		RESF, // -ayım, -eyim, -yayım, -yeyim 					Request Case 	 - Singular First
 		RESS, // -asın, -esin, -yasın, -yesin					Request Case 	 - Singular Second
 		REST, // -a, -e, -ya, -ye								Request Case	 - Singular Third
@@ -141,7 +155,7 @@ namespace TurkishTextContradictionAnalysis
         private Semantics semantics;
         public Semantics Semantics { get { return semantics; } set { semantics = value; } }
         private short polarity;
-        public short Polarity { get { return Polarity; } set { polarity = value; } }
+        public short Polarity { get { return polarity; } set { polarity = value; } }
 
         public Suffix(string syntax, Semantics semantics, short polarity)
         {
@@ -154,7 +168,236 @@ namespace TurkishTextContradictionAnalysis
         {
             return syntax + " " + semantics + " " + polarity;
         }
+        public static Suffix FindSuffixOR(SentenceWord sw, params Semantics[] s)
+        {
+            return Array.Find(sw.Suffixes, sem => {
+                for (int i = 0; i < s.Length; i++)
+                {
+                    if (sem.Semantics == s[i])
+                    {
+                        return true;
+                    }
+                }
+                return false;
+            });
+        }
+        public static Suffix FindSuffixAND(SentenceWord sw, params Semantics[] s)
+        {
+            int count = 0;
+            return Array.Find(sw.Suffixes, sem => {               
+                for (int i = 0; i < s.Length; i++)
+                {
+                    if (sem.Semantics == s[i])
+                        count++;
+                }
+                if (count == s.Length)
+                    return true;
+                else
+                    return false;
+            });
+        }
+
+        public static int PolarityAND(params int[] polarities)
+        {
+            if (polarities.Length > 1)
+            {
+                int result = 255;
+                if (polarities[0] == -1 && polarities[1] == -1)
+                    result = -1;
+                if (polarities[0] == 0 && polarities[1] == 0)
+                    result = 0;
+                if (polarities[0] == 1 && polarities[1] == 1)
+                    result = 1;
+                if ((polarities[0] == 0 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 0))
+                    result = -1;
+                if ((polarities[0] == 1 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 1))
+                    result = -1;
+                if ((polarities[0] == 0 && polarities[1] == 1) || (polarities[0] == 1 && polarities[1] == 0))
+                    result = 1;
+                for (int i = 2; i < polarities.Length; i++)
+                {
+                    if (result == -1 && polarities[i] == -1)
+                        result = -1;
+                    if (result == 0 && polarities[i] == 0)
+                        result = 0;
+                    if (result == 1 && polarities[i] == 1)
+                        result = 1;
+                    if ((result == 0 && polarities[i] == -1) || (result == -1 && polarities[i] == 0))
+                        result = -1;
+                    if ((result == 1 && polarities[i] == -1) || (result == -1 && polarities[i] == 1))
+                        result = -1;
+                    if ((result == 0 && polarities[i] == 1) || (result == 1 && polarities[i] == 0))
+                        result = 1;
+                }
+                return result;
+            }
+            else if (polarities.Length == 1)
+                return polarities[0];
+            else
+                return 0;
+        }
+
+        public static int PolarityXOR(params int[] polarities)
+        {
+            if (polarities.Length > 1)
+            {
+                int result = 255;
+                if (polarities[0] == -1 && polarities[1] == -1)
+                    result = -1;
+                if (polarities[0] == 0 && polarities[1] == 0)
+                    result = 0;
+                if (polarities[0] == 1 && polarities[1] == 1)
+                    result = -1;
+                if ((polarities[0] == 0 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 0))
+                    result = -1;
+                if ((polarities[0] == 1 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 1))
+                    result = 1;
+                if ((polarities[0] == 0 && polarities[1] == 1) || (polarities[0] == 1 && polarities[1] == 0))
+                    result = 1;
+                for (int i = 2; i < polarities.Length; i++)
+                {
+                    if (result == -1 && polarities[i] == -1)
+                        result = -1;
+                    if (result == 0 && polarities[i] == 0)
+                        result = 0;
+                    if (result == 1 && polarities[i] == 1)
+                        result = -1;
+                    if ((result == 0 && polarities[i] == -1) || (result == -1 && polarities[i] == 0))
+                        result = -1;
+                    if ((result == 1 && polarities[i] == -1) || (result == -1 && polarities[i] == 1))
+                        result = 1;
+                    if ((result == 0 && polarities[i] == 1) || (result == 1 && polarities[i] == 0))
+                        result = 1;
+                }
+                return result;
+            }
+            else if (polarities.Length == 1)
+                return polarities[0];
+            else
+                return 0;
+        }
+
+        public static int PolarityOR(params int[] polarities)
+        {
+            if (polarities.Length > 1)
+            {
+                int result = 255;
+                if (polarities[0] == -1 && polarities[1] == -1)
+                    result = -1;
+                if (polarities[0] == 0 && polarities[1] == 0)
+                    result = 0;
+                if (polarities[0] == 1 && polarities[1] == 1)
+                    result = 1;
+                if ((polarities[0] == 0 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 0))
+                    result = -1;
+                if ((polarities[0] == 1 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 1))
+                    result = 1;
+                if ((polarities[0] == 0 && polarities[1] == 1) || (polarities[0] == 1 && polarities[1] == 0))
+                    result = 1;
+                for (int i = 2; i < polarities.Length; i++)
+                {
+                    if (result == -1 && polarities[i] == -1)
+                        result = -1;
+                    if (result == 0 && polarities[i] == 0)
+                        result = 0;
+                    if (result == 1 && polarities[i] == 1)
+                        result = 1;
+                    if ((result == 0 && polarities[i] == -1) || (result == -1 && polarities[i] == 0))
+                        result = -1;
+                    if ((result == 1 && polarities[i] == -1) || (result == -1 && polarities[i] == 1))
+                        result = 1;
+                    if ((result == 0 && polarities[i] == 1) || (result == 1 && polarities[i] == 0))
+                        result = 1;
+                }
+                return result;
+            }
+            else if (polarities.Length == 1)
+                return polarities[0];
+            else
+                return 0;
+        }
+
+        public static int PolaritySummation(params int[] polarities)
+        {
+            if (polarities.Length > 1)
+            {
+                int result = 255;
+                if (polarities[0] == -1 && polarities[1] == -1)
+                    result = 1;
+                if (polarities[0] == 0 && polarities[1] == 0)
+                    result = 0;
+                if (polarities[0] == 1 && polarities[1] == 1)
+                    result = 1;
+                if ((polarities[0] == 0 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 0))
+                    result = -1;
+                if ((polarities[0] == 1 && polarities[1] == -1) || (polarities[0] == -1 && polarities[1] == 1))
+                    result = -1;
+                if ((polarities[0] == 0 && polarities[1] == 1) || (polarities[0] == 1 && polarities[1] == 0))
+                    result = 1;
+                for (int i = 2; i < polarities.Length; i++)
+                {
+                    if (result == -1 && polarities[i] == -1)
+                        result = 1;
+                    if (result == 0 && polarities[i] == 0)
+                        result = 0;
+                    if (result == 1 && polarities[i] == 1)
+                        result = 1;
+                    if ((result == 0 && polarities[i] == -1) || (result == -1 && polarities[i] == 0))
+                        result = -1;
+                    if ((result == 1 && polarities[i] == -1) || (result == -1 && polarities[i] == 1))
+                        result = -1;
+                    if ((result == 0 && polarities[i] == 1) || (result == 1 && polarities[i] == 0))
+                        result = 1;
+                }
+                return result;
+            }
+            else if (polarities.Length == 1)
+                return polarities[0];
+            else
+                return 0;
+        }
+
+        public static int PolaritySummation(params Suffix[] suffixes)
+        {
+            if (suffixes.Length > 1)
+            {
+                int result = 255;
+                if (suffixes[0].Polarity == -1 && suffixes[1].Polarity == -1)
+                    result = 1;
+                if (suffixes[0].Polarity == 0 && suffixes[1].Polarity == 0)
+                    result = 0;
+                if (suffixes[0].Polarity == 1 && suffixes[1].Polarity == 1)
+                    result = 1;
+                if ((suffixes[0].Polarity == 0 && suffixes[1].Polarity == -1) || (suffixes[0].Polarity == -1 && suffixes[1].Polarity == 0))
+                    result = -1;
+                if ((suffixes[0].Polarity == 1 && suffixes[1].Polarity == -1) || (suffixes[0].Polarity == -1 && suffixes[1].Polarity == 1))
+                    result = -1;
+                if ((suffixes[0].Polarity == 0 && suffixes[1].Polarity == 1) || (suffixes[0].Polarity == 1 && suffixes[1].Polarity == 0))
+                    result = 1;
+                for (int i = 2; i < suffixes.Length; i++)
+                {
+                    if (result == -1 && suffixes[i].Polarity == -1)
+                        result = 1;
+                    if (result == 0 && suffixes[i].Polarity == 0)
+                        result = 0;
+                    if (result == 1 && suffixes[i].Polarity == 1)
+                        result = 1;
+                    if ((result == 0 && suffixes[i].Polarity == -1) || (result == -1 && suffixes[i].Polarity == 0))
+                        result = -1;
+                    if ((result == 1 && suffixes[i].Polarity == -1) || (result == -1 && suffixes[i].Polarity == 1))
+                        result = -1;
+                    if ((result == 0 && suffixes[i].Polarity == 1) || (result == 1 && suffixes[i].Polarity == 0))
+                        result = 1;
+                }
+                return result;
+            }
+            else if (suffixes.Length == 1)
+                return suffixes[0].Polarity;
+            else
+                return 0;
+        }
     }
+
 
 
 }

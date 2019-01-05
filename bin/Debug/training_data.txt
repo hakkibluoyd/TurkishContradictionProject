@@ -1,0 +1,59 @@
+"Adem şişman bir insandır.",şişmanlık
+"Adem zayıf bir insandır.",şişmanlık
+"Şişman göbeğin her yerden belli oluyor.",şişmanlık
+"Şişmanlık bir sorundur.",şişmanlık
+"Zayıf oluşun her yerden belli oluyor.",şişmanlık
+"Barış zayıf.",şişmanlık
+"Zayıf ve kilosuz bir görünüş bu.",şişmanlık
+"Kilosuz oluşu belli oluyor.",şişmanlık
+"Kilo almalısın çok zayıfsın.",şişmanlık
+"Kilo vermelisin çok şişmansın.",şişmanlık
+"Kilon iyi değil zayıflasan iyi olur.",şişmanlık
+"Boyun çok kısa.",uzunluk
+"Boyun çok uzun.",uzunluk
+"Uzun değil.",uzunluk
+"Kısa değil.",uzunluk
+"Kısalık sende yok.",uzunluk
+"Sırık gibisin be dostum.",uzunluk
+"Ahmet cücedir.",uzunluk
+"Ahmet ufacık bir adamdır.",uzunluk
+"Onun uzun oluşunu düşünüyorum.",uzunluk
+"Uzun boyuyla her yerde gezinir.",uzunluk
+"Kısacık kaldın.",uzunluk
+"Uzun boyum var.",uzunluk
+"Boyumda uzunluk var.",uzunluk
+"Boya bak.",uzunluk
+"Kısa boyum var.",uzunluk
+"Basketbolda oyuncular genellikle uzun boya sahiptirler.",uzunluk
+"Voleybolda oyuncular kısa boylu olur.",uzunluk
+"Kötü bir insansın.",iyilik
+"Kötü bir insandır.",iyilik
+"İyi bir insandır.",iyilik
+"O çok iyidir.",iyilik
+"Onun iyiliği var.",iyilik
+"O iyi bir insandır.",iyilik
+"Çok iyi kalpli birisi.",iyilik
+"İyi niyet sahibidir.",iyilik
+"Güzel bir insan.",güzellik
+"Güzelliği akıyor.",güzellik
+"Ben onu güzel buluyorum.",güzellik
+"Güzellik onda var.",güzellik
+"O güzel değildir.",güzellik
+"O çirkindir.",güzellik
+"Çirkin birisi.",güzellik
+"Öyle birisi ki çirkindir.",güzellik
+"Çirkinliği belli olmuyor.",güzellik
+"Büyük bir ev vardı.",büyüklük
+"Küçük bir tarla yoktu.",büyüklük
+"O yayla büyük değildi.",büyüklük
+"Büyük saçmalık!",büyüklük
+"O büyük bir canavar diye düşünüyorum.",büyüklük
+"Büyük bir canavardır.",büyüklük
+"Küçük bir olay.",büyüklük
+"Eski olay değil.",yenilik
+"Eski bir eşya vardı.",yenilik
+"Yeni bir olay yoktu.",yenilik
+"Olay yeni sayılır.",yenilik
+"Bunlar eski püskü şeylerdir.",yenilik
+"Eskiliği her yerden belli oluyor.",yenilik
+"Yepyeni eşyalar aldım.",yenilik

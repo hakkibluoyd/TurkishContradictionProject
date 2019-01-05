@@ -33,7 +33,7 @@
             this.field1 = new System.Windows.Forms.TextBox();
             this.field2 = new System.Windows.Forms.TextBox();
             this.startProcess = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.result = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -79,22 +79,22 @@
             this.startProcess.UseVisualStyleBackColor = true;
             this.startProcess.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox3
+            // result
             // 
-            this.textBox3.BackColor = System.Drawing.Color.Tomato;
-            this.textBox3.Enabled = false;
-            this.textBox3.Location = new System.Drawing.Point(121, 133);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 5;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.result.BackColor = System.Drawing.Color.Tomato;
+            this.result.Enabled = false;
+            this.result.Location = new System.Drawing.Point(103, 133);
+            this.result.Name = "result";
+            this.result.Size = new System.Drawing.Size(148, 20);
+            this.result.TabIndex = 5;
+            this.result.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(356, 174);
-            this.Controls.Add(this.textBox3);
+            this.ClientSize = new System.Drawing.Size(356, 181);
+            this.Controls.Add(this.result);
             this.Controls.Add(this.startProcess);
             this.Controls.Add(this.field2);
             this.Controls.Add(this.field1);
@@ -116,7 +116,7 @@
         private System.Windows.Forms.TextBox field1;
         private System.Windows.Forms.TextBox field2;
         private System.Windows.Forms.Button startProcess;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox result;
     }
 }
 
